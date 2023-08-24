@@ -12,7 +12,7 @@ aspects:
 tags:
   - thing
   - actionable
-  - visitor | resident
+  - visitor
 ---
 # Description
 Ms Azita Bukhara
