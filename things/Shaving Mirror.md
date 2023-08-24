@@ -1,8 +1,8 @@
 ---
 aspects:
-  - lantern
-  - moth
-  - "wall art"
+  - lantern: 1
+  - moth: 1
+  - "wall art": 1
 tags:
   - thing
   - actionable

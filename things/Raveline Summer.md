@@ -1,8 +1,8 @@
 ---
 aspects:
-  - "wall art"
-  - nectar
-  - forge
+  - "wall art": 1
+  - nectar: 1
+  - forge: 1
 tags:
   - thing
   - actionable

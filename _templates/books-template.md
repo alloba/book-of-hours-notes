@@ -1,7 +1,7 @@
 ---
 aspects: 
-  - codex
-  - thing
+  - codex: 1
+  - thing: 1
 tags: 
   - book
   - actionable

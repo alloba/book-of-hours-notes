@@ -1,8 +1,8 @@
 ---
 aspects:
-  - comfort
-  - grail
-  - moon
+  - comfort: 1
+  - grail: 1
+  - moon: 1
 tags:
   - thing
   - actionable

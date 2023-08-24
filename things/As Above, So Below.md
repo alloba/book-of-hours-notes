@@ -1,7 +1,7 @@
 ---
 aspects:
-  - "wall art"
-  - sky
+  - "wall art": 1
+  - sky: 1
 tags:
   - thing
   - actionable

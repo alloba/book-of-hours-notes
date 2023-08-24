@@ -1,10 +1,10 @@
 ---
 aspects:
-  - thing
-  - edge
-  - knock
-  - leaf
-  - brewable
+  - thing: 1
+  - edge: 1
+  - knock: 1
+  - leaf: 1
+  - brewable: 1
 tags:
   - thing
   - actionable

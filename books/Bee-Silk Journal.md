@@ -1,13 +1,13 @@
 ---
 aspects:
-  - codex
-  - thing
-  - rose
-  - "mystery: grail"
-  - "memories: the artist"
-  - readable
-  - thing
-  - journal
+  - codex: 1
+  - thing: 1
+  - rose: 1
+  - "mystery: grail": 1
+  - "memories: the artist": 1
+  - readable: 1
+  - thing: 1
+  - journal: 1
 tags:
   - book
   - actionable

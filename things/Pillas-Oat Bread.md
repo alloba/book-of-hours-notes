@@ -1,11 +1,11 @@
 ---
 aspects:
-  - thing
-  - sustenance
-  - forge
-  - heart
-  - nectar
-  - rose
+  - thing: 1
+  - sustenance: 1
+  - forge: 1
+  - heart: 1
+  - nectar: 1
+  - rose: 1
 tags:
   - thing
   - actionable

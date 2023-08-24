@@ -1,8 +1,8 @@
 ---
 aspects:
-  - thing
-  - lantern
-  - flower
+  - thing: 1
+  - lantern: 1
+  - flower: 1
 tags:
   - thing
   - actionable

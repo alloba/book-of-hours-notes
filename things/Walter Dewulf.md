@@ -1,7 +1,7 @@
 ---
 aspects:
-  - thing
-  - scale
+  - thing: 1
+  - scale: 1
 tags:
   - thing
   - actionable

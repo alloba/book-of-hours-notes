@@ -1,11 +1,11 @@
 ---
 aspects:
-  - thing
-  - lantern
-  - nectar
-  - liquid
-  - beverage
-  - "to serve -"
+  - thing: 1
+  - lantern: 2
+  - nectar: 1
+  - liquid: 1
+  - beverage: 1
+  - "to serve -": 1
 tags:
   - thing
   - actionable

@@ -1,11 +1,11 @@
 ---
 aspects:
-  - thing
-  - forge
-  - rose
-  - candle
-  - light
-  - fuel
+  - thing: 1
+  - forge: 2
+  - rose: 1
+  - candle: 1
+  - light: 1
+  - fuel: 1
 tags:
   - thing
   - actionable

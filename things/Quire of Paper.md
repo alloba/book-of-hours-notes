@@ -1,15 +1,15 @@
 ---
 aspects:
-  - thing
-  - nectar
-  - blank
-  - fuel
+  - thing: 1
+  - nectar: 1
+  - blank: 1
+  - fuel: 1
 tags:
   - thing
   - actionable
 ---
 
-# Quite of Paper
+# Quire of Paper
 
 ## Description
 Quire of Paper

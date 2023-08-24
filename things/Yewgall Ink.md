@@ -1,9 +1,9 @@
 ---
 aspects:
-  - thing
-  - nectar
-  - liquid
-  - ink
+  - thing: 1
+  - nectar: 1
+  - liquid: 1
+  - ink: 1
 tags:
   - thing
   - actionable

@@ -1,8 +1,7 @@
 ---
 aspects: 
-  - memory
+  - memory: 
 tags: 
-
 ---
 
 <%*

@@ -1,10 +1,10 @@
 ---
 aspects:
-  - codex
-  - thing
-  - "tally price"
-  - "mystery: moon"
-  - readable
+  - codex: 1
+  - thing: 1
+  - "tally price": 1
+  - "mystery: moon": 6
+  - readable: 1
 tags:
   - book
   - actionable

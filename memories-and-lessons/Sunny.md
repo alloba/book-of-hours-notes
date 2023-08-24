@@ -1,9 +1,9 @@
 ---
 aspects:
-  - memory
-  - lantern
-  - sky
-  - weather
+  - memory: 1
+  - lantern: 2
+  - sky: 2
+  - weather: 1
 tags:
   - 
 

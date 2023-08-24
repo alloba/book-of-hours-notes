@@ -1,9 +1,9 @@
 ---
 aspects:
-  - "wall art"
-  - carcass
-  - scale
-  - grail
+  - "wall art": 1
+  - carcass: 1
+  - scale: 2
+  - grail: 1
 tags:
   - thing
   - actionable

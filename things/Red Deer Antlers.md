@@ -1,8 +1,8 @@
 ---
 aspects:
-  - "wall art"
-  - carcass
-  - scale
+  - "wall art": 1
+  - carcass: 1
+  - scale: 2
 tags:
   - thing
   - actionable

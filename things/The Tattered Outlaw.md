@@ -1,8 +1,8 @@
 ---
 aspects:
-  - "wall art"
-  - scale
-  - heart
+  - "wall art": 1
+  - scale: 1
+  - heart: 1
 tags:
   - thing
   - actionable

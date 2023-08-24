@@ -1,8 +1,8 @@
 ---
 aspects:
-  - thing
-  - readable
-  - uncatalogued
+  - thing: 1
+  - readable: 1
+  - uncatalogued: 1
 tags:
   - thing
   - actionable

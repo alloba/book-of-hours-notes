@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - thing
+  - thing: 1
 tags: 
   - thing
   - actionable
