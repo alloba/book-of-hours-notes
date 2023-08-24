@@ -1,8 +1,8 @@
 ---
-aspects: 
+aspects:
   - forge
   - tally
-tags: 
+tags:
   - sundries
   - card
 ---
@@ -11,5 +11,5 @@ tags:
 Bronze Spintria
 
 Occult treasures are purchased with occult coin: spintriae. Bronze spintriae usually display the act of shaping on their reverse side.
-## Sources 
+## Sources
 - Providing books of matching interest for visitors
