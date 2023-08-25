@@ -1,9 +1,13 @@
 ---
 aspects:
-  - element of the soul
-  - occupant
-  - lantern
-  - winter
+  - name: element of the soul
+    amount: 1
+  - name: occupant
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: winter
+    amount: 1
 tags:
   - soul
   - card

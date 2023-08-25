@@ -1,6 +1,7 @@
 ---
 aspects:
-  - "out of bounds"
+  - name: "out of bounds"
+    amount: 1
 tags:
   - place
   - location

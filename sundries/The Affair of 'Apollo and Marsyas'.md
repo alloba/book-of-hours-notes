@@ -1,8 +1,11 @@
 ---
 aspects:
-  - grail
-  - sky
-  - incident
+  - name: grail
+    amount: 1
+  - name: sky
+    amount: 1
+  - name: incident
+    amount: 1
 tags:
   - sundries
   - card

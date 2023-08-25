@@ -1,9 +1,13 @@
 ---
 aspects:
-  - thing
-  - knock
-  - winter
-  - key
+  - name: thing
+    amount: 1
+  - name: knock
+    amount: 1
+  - name: winter
+    amount: 1
+  - name: key
+    amount: 1
 tags:
   - thing
   - actionable

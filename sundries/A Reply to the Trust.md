@@ -1,7 +1,9 @@
 ---
 aspects:
-  - grail
-  - "ready to post"
+  - name: grail
+    amount: 1
+  - name: "ready to post"
+    amount: 1
 tags:
   - sundries
   - card

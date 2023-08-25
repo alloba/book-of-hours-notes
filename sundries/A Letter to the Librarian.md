@@ -1,7 +1,9 @@
 ---
 aspects:
-  - readable
-  - correspondence
+  - name: readable
+    amount: 1
+  - name: correspondence
+    amount: 1
 tags:
   - sundries
   - card

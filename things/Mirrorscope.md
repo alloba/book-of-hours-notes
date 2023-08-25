@@ -1,8 +1,11 @@
 ---
 aspects:
-  - thing: 1
-  - lantern: 1
-  - tool: 1
+  - name: thing
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: tool
+    amount: 1
 tags:
   - thing
   - actionable

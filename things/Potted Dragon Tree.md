@@ -1,8 +1,11 @@
 ---
 aspects:
-  - thing: 1
-  - scale: 1
-  - leaf: 1
+  - name: thing
+    amount: 1
+  - name: scale
+    amount: 1
+  - name: leaf
+    amount: 1
 tags:
   - thing
   - actionable

@@ -1,6 +1,7 @@
 ---
 aspects:
-  - "baronial period"
+  - name: "baronial period"
+    amount: 1
 tags:
   - place
   - location

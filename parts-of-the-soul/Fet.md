@@ -1,9 +1,13 @@
 ---
 aspects:
-  - moth
-  - rose
-  - element of the soul
-  - occupant
+  - name: moth
+    amount: 1
+  - name: rose
+    amount: 1
+  - name: element of the soul
+    amount: 1
+  - name: occupant
+    amount: 1
 tags:
   - fet
   - soul

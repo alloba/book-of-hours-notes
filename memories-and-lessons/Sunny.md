@@ -1,9 +1,13 @@
 ---
 aspects:
-  - memory: 1
-  - lantern: 2
-  - sky: 2
-  - weather: 1
+  - name: memory
+    amount: 1
+  - name: lantern
+    amount: 2
+  - name: sky
+    amount: 2
+  - name: weather
+    amount: 1
 tags:
   - 
 

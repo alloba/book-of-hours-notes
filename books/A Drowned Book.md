@@ -1,11 +1,17 @@
 ---
 aspects:
-  - thing
-  - rose
-  - "mystery: grail"
-  - readable
-  - journal
-  - soaked
+  - name: thing
+    amount: 1
+  - name: rose
+    amount: 0
+  - name: "mystery: grail"
+    amount: 0
+  - name: readable
+    amount: 1
+  - name: journal
+    amount: 1
+  - name: soaked
+    amount: 1
 tags:
   - thing
   - actionable

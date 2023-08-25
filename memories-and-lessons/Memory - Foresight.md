@@ -1,5 +1,11 @@
 ---
-aspects: [memory, lantern, forge]
+aspects:
+  - name: memory
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: forge
+    amount: 1
 tags:
   - 
 

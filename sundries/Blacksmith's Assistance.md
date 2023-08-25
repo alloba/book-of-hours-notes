@@ -1,9 +1,13 @@
 ---
 aspects:
-  - edge
-  - lantern
-  - assistance
-  - "an introduction"
+  - name: edge
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: assistance
+    amount: 1
+  - name: "an introduction"
+    amount: 1
 tags:
   - sundries
   - card

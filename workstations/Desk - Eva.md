@@ -1,9 +1,13 @@
 ---
 aspects:
-  - edge
-  - grail
-  - moon
-  - winter
+  - name: edge
+    amount: 1
+  - name: grail
+    amount: 1
+  - name: moon
+    amount: 1
+  - name: winter
+    amount: 1
 slots:
   - soul
   - skill

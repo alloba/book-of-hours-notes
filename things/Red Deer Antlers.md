@@ -1,8 +1,11 @@
 ---
 aspects:
-  - "wall art": 1
-  - carcass: 1
-  - scale: 2
+  - name: "wall art"
+    amount: 1
+  - name: carcass
+    amount: 1
+  - name: scale
+    amount: 2
 tags:
   - thing
   - actionable

@@ -1,8 +1,11 @@
 ---
 aspects:
-  - comfort: 1
-  - sky: 1
-  - tool: 1
+  - name: comfort
+    amount: 1
+  - name: sky
+    amount: 1
+  - name: tool
+    amount: 1
 tags:
   - thing
   - actionable

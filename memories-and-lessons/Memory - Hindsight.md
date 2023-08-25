@@ -1,8 +1,11 @@
 ---
 aspects:
-  - memory
-  - winter
-  - scale
+  - name: memory
+    amount: 1
+  - name: winter
+    amount: 1
+  - name: scale
+    amount: 1
 tags:
   - 
 

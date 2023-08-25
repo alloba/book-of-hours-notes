@@ -1,9 +1,13 @@
 ---
 aspects:
-  - element of the soul
-  - occupant
-  - lantern
-  - sky
+  - name: element of the soul
+    amount: 1
+  - name: occupant
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: sky
+    amount: 1
 tags:
   - soul
   - card

@@ -1,9 +1,13 @@
 ---
 aspects:
-  - thing: 1
-  - nectar: 1
-  - liquid: 1
-  - ink: 1
+  - name: thing
+    amount: 1
+  - name: nectar
+    amount: 1
+  - name: liquid
+    amount: 1
+  - name: ink
+    amount: 1
 tags:
   - thing
   - actionable

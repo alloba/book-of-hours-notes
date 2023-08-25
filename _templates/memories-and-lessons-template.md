@@ -1,7 +1,8 @@
 ---
 aspects: 
-  - memory: 
-tags: 
+  - name: memory
+    amount: 1
+tags: []
 ---
 
 <%*

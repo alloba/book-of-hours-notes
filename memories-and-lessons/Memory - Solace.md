@@ -1,8 +1,11 @@
 ---
 aspects:
-  - memory
-  - sky
-  - heart
+  - name: memory
+    amount: 1
+  - name: sky
+    amount: 1
+  - name: heart
+    amount: 1
 tags:
   - 
 

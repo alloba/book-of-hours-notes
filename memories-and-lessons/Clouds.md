@@ -1,9 +1,13 @@
 ---
 aspects:
-  - memory
-  - moon
-  - moth
-  - weather
+  - name: memory
+    amount: 1
+  - name: moon
+    amount: 1
+  - name: moth
+    amount: 1
+  - name: weather
+    amount: 1
 tags:
   - 
 

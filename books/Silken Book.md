@@ -1,12 +1,19 @@
 ---
 aspects:
-  - codex
-  - thing
-  - rose
-  - "mystery: grail"
-  - uncatalogued
-  - readable
-  - journal
+  - name: codex
+    amount: 1
+  - name: thing
+    amount: 1
+  - name: rose
+    amount: 1
+  - name: "mystery: grail"
+    amount: 1
+  - name: uncatalogued
+    amount: 1
+  - name: readable
+    amount: 1
+  - name: journal
+    amount: 1
 tags:
   - book
   - actionable

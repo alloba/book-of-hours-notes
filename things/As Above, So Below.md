@@ -1,7 +1,9 @@
 ---
 aspects:
-  - "wall art": 1
-  - sky: 1
+  - name: "wall art"
+    amount: 1
+  - name: sky
+    amount: 1
 tags:
   - thing
   - actionable

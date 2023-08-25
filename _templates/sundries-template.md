@@ -1,6 +1,5 @@
 ---
 aspects: 
-
 tags: 
   - sundries
   - card

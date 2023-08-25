@@ -1,5 +1,11 @@
 ---
-aspects: [memory, edge, scale]
+aspects:
+  - name: memory
+    amount: 1
+  - name: edge
+    amount: 1
+  - name: scale
+    amount: 1
 tags:
   - 
 

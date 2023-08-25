@@ -1,8 +1,11 @@
 ---
 aspects:
-  - thing: 1
-  - heart: 2
-  - "fabric and fibre": 1
+  - name: thing
+    amount: 1
+  - name: heart
+    amount: 2
+  - name: "fabric and fibre"
+    amount: 1
 tags:
   - thing
   - actionable

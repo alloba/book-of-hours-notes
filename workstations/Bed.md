@@ -1,9 +1,13 @@
 ---
 aspects:
-  - scale
-  - forge
-  - knock
-  - heart
+  - name: scale
+    amount: 1
+  - name: forge
+    amount: 1
+  - name: knock
+    amount: 1
+  - name: heart
+    amount: 1
 slots:
   - occupant
 tags:

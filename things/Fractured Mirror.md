@@ -1,8 +1,11 @@
 ---
 aspects:
-  - knock: 1
-  - lantern: 1
-  - "wall art": 1
+  - name: knock
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: "wall art"
+    amount: 1
 tags:
   - thing
   - actionable

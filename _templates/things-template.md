@@ -1,6 +1,7 @@
 ---
 aspects: 
-  - thing: 1
+  - name: thing
+    amount : 1
 tags: 
   - thing
   - actionable

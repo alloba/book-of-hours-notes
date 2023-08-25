@@ -1,6 +1,7 @@
 ---
 aspects:
-  - pence
+	- name: pence
+	  amount: 1
 tags:
   - sundries
   - card

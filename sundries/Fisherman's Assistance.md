@@ -1,10 +1,15 @@
 ---
 aspects:
-  - moon
-  - sky
-  - skeptical
-  - assistance
-  - reluctant
+  - name: moon
+    amount: 1
+  - name: sky
+    amount: 1
+  - name: skeptical
+    amount: 1
+  - name: assistance
+    amount: 1
+  - name: reluctant
+    amount: 1
 tags:
   - sundries
   - card

@@ -1,9 +1,13 @@
 ---
 aspects:
-  - memory
-  - grail
-  - nectar
-  - weather
+  - name: memory
+    amount: 1
+  - name: grail
+    amount: 1
+  - name: nectar
+    amount: 1
+  - name: weather
+    amount: 1
 tags:
   - 
 

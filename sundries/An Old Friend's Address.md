@@ -1,7 +1,9 @@
 ---
 aspects:
-  - grail
-  - "an introduction"
+  - name: grail
+    amount: 1
+  - name: "an introduction"
+    amount: 1
 tags:
   - sundries
   - card

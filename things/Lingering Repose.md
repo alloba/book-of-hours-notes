@@ -1,8 +1,11 @@
 ---
 aspects:
-  - comfort: 1
-  - lantern: 1
-  - grail: 1
+  - name: comfort
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: grail
+    amount: 1
 tags:
   - thing
   - actionable

@@ -1,7 +1,9 @@
 ---
 aspects:
-  - element of the soul
-  - occupant
+  - name: element of the soul
+    amount: 1
+  - name: occupant
+    amount: 1
 tags:
   - soul
   - card

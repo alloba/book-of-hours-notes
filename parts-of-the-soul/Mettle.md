@@ -1,9 +1,13 @@
 ---
 aspects:
-  - element of the soul
-  - occupant
-  - edge
-  - forge
+  - name: element of the soul
+    amount: 1
+  - name: occupant
+    amount: 1
+  - name: edge
+    amount: 1
+  - name: forge
+    amount: 1
 tags:
   - soul
   - card

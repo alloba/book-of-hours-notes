@@ -1,8 +1,11 @@
 ---
 aspects:
-  - thing: 1
-  - readable: 1
-  - uncatalogued: 1
+  - name: thing
+    amount: 1
+  - name: readable
+    amount: 1
+  - name: uncatalogued
+    amount: 1
 tags:
   - thing
   - actionable

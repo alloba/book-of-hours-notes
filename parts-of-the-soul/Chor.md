@@ -1,9 +1,13 @@
 ---
 aspects:
-  - element of the soul
-  - occupant
-  - grail
-  - heart
+  - name: element of the soul
+    amount: 1
+  - name: occupant
+    amount: 1
+  - name: grail
+    amount: 1
+  - name: heart
+    amount: 1
 tags:
   - soul
   - card

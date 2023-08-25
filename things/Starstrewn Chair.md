@@ -1,7 +1,9 @@
 ---
 aspects:
-  - comfort: 1
-  - moon: 1
+  - name: comfort
+    amount: 1
+  - name: moon
+    amount: 1
 tags:
   - thing
   - actionable

@@ -1,10 +1,15 @@
 ---
 aspects:
-  - thing: 1
-  - edge: 1
-  - knock: 1
-  - leaf: 1
-  - brewable: 1
+  - name: thing
+    amount: 1
+  - name: edge
+    amount: 1
+  - name: knock
+    amount: 1
+  - name: leaf
+    amount: 1
+  - name: brewable
+    amount: 1
 tags:
   - thing
   - actionable
