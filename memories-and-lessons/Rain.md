@@ -3,9 +3,9 @@ aspects:
   - name: memory
     amount: 1
   - name: grail
-    amount: 1
+    amount: 2
   - name: nectar
-    amount: 1
+    amount: 2
   - name: weather
     amount: 1
 tags:

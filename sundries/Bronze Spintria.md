@@ -1,9 +1,9 @@
 ---
 aspects:
   - name: forge
-    amount: 1
+    amount: 2
   - name: tally
-    amount: 1
+    amount: 2
 tags:
   - sundries
   - card

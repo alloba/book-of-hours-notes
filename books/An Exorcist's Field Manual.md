@@ -4,7 +4,7 @@ aspects:
     amount: 1
   - name: thing
     amount: 1
-  - name: "tally price
+  - name: "tally price"
     amount": 1
   - name: "mystery: moon"
     amount: 6

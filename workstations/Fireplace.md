@@ -19,4 +19,4 @@ There are a number of fireplaces available throughout [[Hush House]]. They can b
 
 Locations: 
 - [[Keeper's Lodge]]
-- 
+- [[Entrance Hall]]

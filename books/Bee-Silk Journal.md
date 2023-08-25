@@ -7,7 +7,7 @@ aspects:
   - name: rose
     amount: 1
   - name: "mystery: grail"
-    amount: 1
+    amount: 999
   - name: "memories: the artist"
     amount: 1
   - name: readable

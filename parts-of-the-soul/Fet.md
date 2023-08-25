@@ -3,7 +3,7 @@ aspects:
   - name: moth
     amount: 1
   - name: rose
-    amount: 1
+    amount: 2
   - name: element of the soul
     amount: 1
   - name: occupant

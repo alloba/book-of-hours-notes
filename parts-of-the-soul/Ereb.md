@@ -4,6 +4,10 @@ aspects:
     amount: 1
   - name: occupant
     amount: 1
+  - name: grail
+    amount: 2
+  - name: edge
+    amount: 1
 tags:
   - soul
   - card

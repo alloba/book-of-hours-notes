@@ -5,7 +5,7 @@ aspects:
   - name: rose
     amount: 0
   - name: "mystery: grail"
-    amount: 0
+    amount: 999
   - name: readable
     amount: 1
   - name: journal
