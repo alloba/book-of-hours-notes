@@ -1,9 +1,10 @@
 
-## External Docs
+# External Docs
 - [Implicit Metadata on Pages](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/)
 - [Metadata on Tasks and Lists](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-tasks/)
 - [Query Language Reference](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
-## Data Indexing 
+- [Javascript Data Array Reference](https://blacksmithgu.github.io/obsidian-dataview/api/data-array/)
+# Data Indexing
 You can make use of frontmatter for Dataview. All data within is available to work with. There are no restrictions on what you can put here, so consistency is something you need to worry about on your own. 
 
 ```yaml 
@@ -26,7 +27,7 @@ From [author:: Bob Dob], written in (published:: 2001)
 yadda yadda normal notes. 
 ```
 
-## Data Querying 
+# Data Querying
 Data is viewed through queries. 
 
 Three ways to write them: 
@@ -34,7 +35,7 @@ Three ways to write them:
 - Inline Statement
 - Javascript Query
 
-### Dataview Query Language 
+## Dataview Query Language
 
 Basically a code block that you mark for Dataview to recognize and operate on. 
 

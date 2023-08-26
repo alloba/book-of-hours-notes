@@ -3,9 +3,9 @@ aspects:
   - name: memory
     amount: 1
   - name: heart
-    amount: 1
+    amount: 3
   - name: sky
-    amount: 1
+    amount: 3
   - name: weather
     amount: 1
 tags:

@@ -12,11 +12,13 @@ tags:
 
 ## Description
 
-Fire always accepts gifts. And boils the kettle for tea.
+
 ## Info
 
 There are a number of fireplaces available throughout [[Hush House]]. They can be used for brewing and for burning. 
 
 Locations: 
-- [[Keeper's Lodge]]
-- [[Entrance Hall]]
+- [[Keeper's Lodge]] - Fire always accepts gifts. And boils the kettle for tea.
+- [[Entrance Hall]] - Visitors found the warmth welcome after the battering winds of the bridge crossing.
+- [[Long Tower - Solomon's Study]] - The fireplace doesn't exactly warm the room, but it keeps the chill more or less at bay.
+- [[Infirmary]] - A welcome warmth.

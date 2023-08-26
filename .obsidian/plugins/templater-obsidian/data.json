@@ -49,6 +49,10 @@
     {
       "folder": "characters",
       "template": "_templates/character-template.md"
+    },
+    {
+      "folder": "skills-and-languages",
+      "template": "_templates/skills-and-languages-template.md"
     }
   ],
   "syntax_highlighting": true,

@@ -3,9 +3,9 @@ aspects:
   - name: thing
     amount: 1
   - name: knock
-    amount: 1
+    amount: 3
   - name: winter
-    amount: 1
+    amount: 3
   - name: key
     amount: 1
 tags:
@@ -25,3 +25,4 @@ Used to unlock the doors of [[Hush House]]
 
 Can be found in several locations: 
 - [[Keeper's Lodge]], on the mantle-place. 
+- Gardens within [[Hush House]]

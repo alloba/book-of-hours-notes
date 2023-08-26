@@ -14,14 +14,14 @@ let titlecase = (x) => {
 }
 
 dv.table(
-	["File", "Study Aspects"], 
+	["File", "Study Aspects", "Studied"], 
 	books
 	.map(b => [
 		b.file.link,
 		b.aspects
 		  .filter(x => x.name.startsWith('mystery'))
-		  .map(x => titlecase(x.name.replace('mystery:', '')) + ' ' + x.amount)
-		  
+		  .map(x => titlecase(x.name.replace('mystery:', '')) + ' ' + x.amount),
+		b.tags.includes('studied') ? 'Yes' : ''
 	])
 	.sort(x => x[1])
 )

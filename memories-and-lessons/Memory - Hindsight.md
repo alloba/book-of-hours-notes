@@ -3,7 +3,7 @@ aspects:
   - name: memory
     amount: 1
   - name: winter
-    amount: 1
+    amount: 2
   - name: scale
     amount: 1
 tags:

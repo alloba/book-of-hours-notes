@@ -7,7 +7,7 @@ aspects:
   - name: moon
     amount: 1
   - name: moth
-    amount: 1
+    amount: 2
 tags:
   - soul
   - card

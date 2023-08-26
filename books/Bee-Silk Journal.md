@@ -7,7 +7,7 @@ aspects:
   - name: rose
     amount: 1
   - name: "mystery: grail"
-    amount: 999
+    amount: 1
   - name: "memories: the artist"
     amount: 1
   - name: readable
@@ -19,7 +19,10 @@ aspects:
 tags:
   - book
   - actionable
-lesson: 
+  - studied
+lesson:
+  - "Lesson - Desires & Dissolution"
+  - "Lesson - Rites of the Roots"
 memory: 
 ---
 
@@ -32,7 +35,9 @@ Bee-Silk Journal
 ### Partial Study Description
 
 ### Study Complete Description
+Grail: Birth!
 
+I've mastered this, and gathered the lessons it concealed.
 ## Info
 - A version of [[A Drowned Book]].
 - Can be given to the Postmistress to receive [[A Letter to the Librarian]] and a [[Ten Shilling Note]]
