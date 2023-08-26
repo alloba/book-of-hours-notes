@@ -21,3 +21,6 @@ tags:
 - [[Scent Garden]] 
 	- Moth orchids in spring and summer, honeyscar jasmine in autumn.
 	- Fragrant chalice in summer, lenten rose in winter. Rarer plants might flourish in Numa.
+- [[Kitchen Garden]]
+	- The gentle climate of Cornwall supports grapevines. Harvest in spring and summer.
+	- Nourishing vegetables in summer and autumn.

@@ -7,7 +7,7 @@ aspects:
   - name: grail
     amount: 1
   - name: heart
-    amount: 1
+    amount: 2
 tags:
   - soul
   - card

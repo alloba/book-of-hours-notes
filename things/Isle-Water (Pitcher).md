@@ -27,3 +27,5 @@ Isle-Water (Pitcher)
 From Brancrug's deep springs.
 ## Locations
 - [[Kitchen]]
+- Crafting
+	- [[Hush House Well]] - chor/heart

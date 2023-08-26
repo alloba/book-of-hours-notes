@@ -18,3 +18,6 @@ Memory: Regret
 Every choice has its shadow.
 ## Sources
 - [[The Sweet Bones]] ([[Ereb]])
+- [[Beehive]] - harvesting in the off season
+- [[Lady Eva's Repose]]
+- failed study

@@ -23,4 +23,5 @@ tags:
 Honeyscar-Scented Candle
 
 A candle scented with honeyscar jasmine.
-## Info
+## Locations
+- [[Foundry]]

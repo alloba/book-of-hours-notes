@@ -23,3 +23,4 @@ Serpentinite Slab
 The grey-green root-rock of the Cornish coast.
 ## Locations
 - [[Examination Room]]
+- [[A Walk on the Moor]] - autumn

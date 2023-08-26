@@ -23,3 +23,4 @@ Perinculate
 Deadly. Use gloves to read texts produced with this pigment. An Ink of Power (sometimes considered an Unsanctioned Ink).
 ## Locations
 - [[Long Tower - Solomon's Study]]
+- [[Fludd Gallery]]

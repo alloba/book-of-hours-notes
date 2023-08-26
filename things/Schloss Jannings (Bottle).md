@@ -27,3 +27,4 @@ Schloss Jannings (Bottle)
 A dry, aromatic white wine.
 ## Locations
 - [[Kitchen]]
+- [[Wine Cellar]]

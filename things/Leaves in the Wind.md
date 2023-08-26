@@ -17,3 +17,4 @@ tags:
 A soothing but undistinguished work in oils. Someone evidently was good at trees, and wanted you to know it.
 ## Locations
 - [[Entrance Hall]] x2
+- [[Fludd Gallery]]

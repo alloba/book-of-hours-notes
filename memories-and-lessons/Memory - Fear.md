@@ -20,3 +20,6 @@ Memory: Fear
 
 ## Source
 - [[The Sweet Bones]] - [[Ereb]]
+- [[Chimeric Larva]]
+- [[The Treatise on Underplaces]]
+- failed study

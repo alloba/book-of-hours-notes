@@ -19,3 +19,5 @@ Bucket of Seawater
 Flecks of foam float on the surface.
 ## Locations
 - [[Examination Room]]
+- [[Foundry]]
+- [[Wine Cellar]]

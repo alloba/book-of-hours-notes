@@ -25,3 +25,4 @@ Lambig Broceliande (Bottle)
 Distilled from apples in the oldest forest of the western Continent.
 ## Locations
 - [[Kitchen]]
+- [[Wine Cellar]]

@@ -1,0 +1,18 @@
+---
+aspects: 
+  - name: memory
+    amount: 1
+  - name: lantern
+    amount: 2
+tags:
+  - 
+---
+
+# Memory - Revelation
+
+## Description
+Memory: Revelation
+
+Some truths come to us from outside, or above.
+## Sources
+- [[The Locksmith's Dream - A Light Through the Keyhole]]

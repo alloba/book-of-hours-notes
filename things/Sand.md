@@ -22,4 +22,4 @@ Sand
 
 An hourglass, of course, is sand contained by sand.
 ## Locations
-- [[Crowcross Sands]] - [[Beachcombing]]
+- [[Crowcross Sands]] - [[Beachcombing]] - winter/spring

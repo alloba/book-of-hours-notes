@@ -23,3 +23,4 @@ Roscraggan Whisky (Glass)
 The favourite tipple of Sir David Greene, eighth Librarian of Hush House.
 ## Locations
 - [[Physic Garden]]
+- [[Wine Cellar]]

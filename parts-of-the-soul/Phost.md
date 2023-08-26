@@ -5,7 +5,7 @@ aspects:
   - name: occupant
     amount: 1
   - name: lantern
-    amount: 1
+    amount: 2
   - name: sky
     amount: 1
 tags:

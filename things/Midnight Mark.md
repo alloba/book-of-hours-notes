@@ -21,3 +21,5 @@ Midnight Mark
 A blemish left on a page (or a skin) by a careful incision (or a judicious sting) to preserve a little of the power of night.
 ## Locations
 - [[Servant's Hall]]
+- crafting 
+	- [[Serpents & Venoms]], [[Moon]](5)

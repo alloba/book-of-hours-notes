@@ -17,4 +17,5 @@ tags:
 Memory: Solace
 
 Peace after trouble.
-## Info
+## Locations
+- [[Travelling at Night, Vol 2]]

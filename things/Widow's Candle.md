@@ -23,3 +23,5 @@ Light it in remembrance.
 - [[Long Tower - Solomon's Study]]
 - [[Servant's Hall]]
 - [[Long Tower - Solomon's Quarters]]
+- [[Foundry]]
+- [[Wine Cellar]]

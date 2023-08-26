@@ -1,5 +1,7 @@
 ---
 aspects: 
+  - name: 
+    amount: 1
 slots: 
 tags: 
   - workstation

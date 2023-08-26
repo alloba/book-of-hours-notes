@@ -25,3 +25,4 @@ Moth-Orchid-Scented Candle
 A candle scented with moth orchid.
 ## Locations
 - [[Servant's Hall]]
+- - [[Severn Chamber]]
