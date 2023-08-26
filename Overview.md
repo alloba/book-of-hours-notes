@@ -27,7 +27,7 @@ dv.table(
 )
 ```
 
-## Beverages
+## Consumables
 ```dataviewjs
 let items = dv.pages('"things"')
 let valids = [
@@ -40,7 +40,7 @@ let working_set = items
 	.filter(x => x.aspects)
 	.filter(x => x.aspects
 				.map(y => y.name)
-				.some(z => ['beverage'].includes(z)) 
+				.some(z => ['beverage', 'sustenance'].includes(z)) 
 	)
 let containsAspects = (item, valids) => {
 	if(! item.aspects) return false

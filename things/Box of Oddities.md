@@ -21,3 +21,4 @@ Box of Oddities
 A tiny treasury of forgotten things. Perhaps there's a real oddity in here somewhere.
 ## Locations
 - [[Foundry]]
+- [[Pantry]]

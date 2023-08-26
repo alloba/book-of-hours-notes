@@ -13,8 +13,10 @@ aspects:
 tags:
   - book
   - actionable
-lesson: 
-memory: 
+lesson:
+  - "lesson: maggephene mysteries"
+memory:
+  - "memory: solace"
 ---
 
 # The World Despoil'd
@@ -24,5 +26,7 @@ The World Despoil'd
 
 Subtitled 'the Flowers in the Waste': a epic poem that presents a medical treatise through allegory. The author is Gideon Dewulf, 5th Baron Brancrug, sometimes unkindly called 'the Cutter'.
 ### Partial Study Description
+I'm Reading...
 
+The poem is a substantial variation on the Fisher-King tale. A wounded wasteland monarch learns that he and his land can be cured, but that the cure is their own response to ever more savage maladies…
 ### Study Complete Description

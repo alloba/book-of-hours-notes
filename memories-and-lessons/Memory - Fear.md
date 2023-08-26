@@ -22,4 +22,5 @@ Memory: Fear
 - [[The Sweet Bones]] - [[Ereb]]
 - [[Chimeric Larva]]
 - [[The Treatise on Underplaces]]
+- [[Exorcism for Girls]]
 - failed study

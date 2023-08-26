@@ -25,3 +25,4 @@ Mackerel
 Eat it while it's fresh or keep it while it's salted.
 ## Locations
 - [[Beachcombing]] - summer
+- [[Pantry]]

@@ -25,3 +25,4 @@ Domaine Raveline (Bottle)
 The Ravelines abandoned their lands, and yet, someone is still making this wine.
 ## Locations
 - [[Wine Cellar]]
+- [[Pantry]]

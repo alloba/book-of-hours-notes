@@ -25,3 +25,4 @@ Essential Periost
 What happens when you boil and scrape us down to our utter fundamentals.
 ## Locations
 - [[Examination Room]]
+- [[Pantry]]

@@ -27,3 +27,4 @@ Home-made flower wine.
 - [[Keeper's Lodge]]
 - [[Kitchen]]
 - [[Wine Cellar]]
+- [[Pantry]]

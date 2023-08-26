@@ -29,3 +29,4 @@ Cuckoo-Honey
 The Blomberende were rogues and trickster-heroes among the Carapace-kinds: ingenious, brave, prolific, untrustworthy. In Numa, their children might yet bring their gifts to ordinary hives…
 ## Locations
 - [[Kitchen]]
+- [[Pantry]]

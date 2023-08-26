@@ -1,23 +1,23 @@
 ---
 aspects: 
-  - name: nectar
+  - name: heart
     amount : 1
-  - name: winter
+  - name: nectar
     amount : 1
   - name: thing
     amount : 1
-  - name: flower
+  - name: sustenance
     amount : 1
 tags:
   - thing
   - actionable
 ---
 
-# Vase of Lilies
+# Basket of Vegatables
 
 ## Description
-Vase of Lilies
+Basket of Vegetables
 
-An elegant ornament.
+Gifts from the garden.
 ## Locations
-- [[Infirmary]]
+- [[Pantry]]

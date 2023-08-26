@@ -21,3 +21,5 @@ Vase of Lilies
 An elegant ornament.
 ## Locations
 - [[Grand Ascent - Second Floor]]
+- [[Infirmary]]
+- [[Nave of the Abbey Church]]

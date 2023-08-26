@@ -19,3 +19,4 @@ Memory: Solace
 Peace after trouble.
 ## Locations
 - [[Travelling at Night, Vol 2]]
+- [[The World Despoil'd]]

@@ -10,7 +10,7 @@ aspects:
     amount : 2
   - name: "mystery: winter"
     amount : 6
-tags: 
+tags:
   - book
   - actionable
 lesson: 
