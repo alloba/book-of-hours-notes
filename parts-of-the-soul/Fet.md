@@ -23,5 +23,7 @@ Fet [fatigued]
 
 That part of us which dreams.
 ## Strained
+Fet: Gisting
 
+In dreams I have visited the House behind the world... and some part of me is trapped there now, even when I wake.
 ## Information

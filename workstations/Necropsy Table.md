@@ -8,12 +8,12 @@ aspects:
     amount: 1
   - name: winter
     amount: 1
-slots: 
+slots:
   - soul
   - skill
   - memory
   - other
-tags: 
+tags:
   - workstation
   - actionable
 ---

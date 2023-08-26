@@ -21,3 +21,5 @@ Widow's Candle
 Light it in remembrance.
 ## Locations
 - [[Long Tower - Solomon's Study]]
+- [[Servant's Hall]]
+- [[Long Tower - Solomon's Quarters]]

@@ -21,4 +21,6 @@ tags:
 C&H Second Flush Assam  (Packet)
 
 Tea from the land of the <i>real</i> unicorn, imported by Cater & Hero.
-## Info
+## Locations
+- [[Watchman's Tower - Gatehouse]]
+- [[Kitchen]]

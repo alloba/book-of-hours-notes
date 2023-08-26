@@ -24,5 +24,8 @@ tags:
 # Rubywise Ruin
 
 ## Description
+Rubywise Ruin
 
+A ruddy liquor wrung from flowers - even when the flowers aren't red.
 ## Locations
+- [[Infirmary]]

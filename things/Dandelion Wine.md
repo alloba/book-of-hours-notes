@@ -25,3 +25,4 @@ Dandelion Wine
 Home-made flower wine.
 ## Locations
 - [[Keeper's Lodge]]
+- - [[Kitchen]]

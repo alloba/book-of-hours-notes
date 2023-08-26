@@ -21,3 +21,4 @@ Quire of Paper
 Creamy-smooth, eagerly awaiting ink.
 ## Locations
 - [[Watchman's Tower - First Floor]]
+- [[Reading Room]]
