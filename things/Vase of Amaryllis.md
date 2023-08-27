@@ -21,3 +21,4 @@ Vase of Amaryllis
 A soft-flowered ornament.
 ## Locations
 - [[Nave of the Abbey Church]]
+- [[Hall of Division]]

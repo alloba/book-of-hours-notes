@@ -62,3 +62,25 @@ dv.table(
 	) 
 )
 ```
+
+## Searching Things
+```dataviewjs
+let containsAspects = (item, valids) => {
+	if(! item.aspects) return false
+	return item.aspects.map(x => x.name).some(y => valids.includes(y))
+}
+
+let working_setz = dv.pages('"things"')
+
+dv.table(
+	['Item', 'Aspects'],
+	working_setz
+	.filter(x => containsAspects(x, ['tool', 'ink']))
+	.map(x => 
+	[
+		x.file.link,
+		x.aspects.filter(z => z.name == 'heart').map(z => z.name + ' ' + z.amount)
+	]
+	) 
+)
+```

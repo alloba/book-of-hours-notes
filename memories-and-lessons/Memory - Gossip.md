@@ -18,3 +18,5 @@ Memory: Gossip
 Frivolous, but tasty.
 ## Sources
 - [[The Sweet Bones]] - [[Ereb]]
+- [[Three Flowers Hath the Tree]]
+- [[The Queens of the Rivers]]

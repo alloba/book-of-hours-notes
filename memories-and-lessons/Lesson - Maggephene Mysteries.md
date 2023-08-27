@@ -22,3 +22,4 @@ Lesson: Maggephene Mysteries
 I've gained more understanding of Maggephene Mysteries. [Use this card with Consider.]
 ## Sources
 - [[The World Despoil'd]]
+- [[The Orchid Transfigurations - Noon]]

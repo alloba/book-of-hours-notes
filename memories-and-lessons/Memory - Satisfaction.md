@@ -19,3 +19,5 @@ Memory: Satisfaction
 Some appetites are easier to satisfy than others.
 ## Sources
 - Responding to [[A Letter to the Librarian]]
+- [[Two Wombs, One Heart]]
+- [[The Orchid Transfigurations - A Birth]]

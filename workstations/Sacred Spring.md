@@ -6,12 +6,12 @@ aspects:
     amount: 1
   - name: moon
     amount: 1
-slots: 
+slots:
   - soul
   - skill
   - memory
   - other
-tags: 
+tags:
   - workstation
   - actionable
 ---
@@ -21,6 +21,6 @@ tags:
 ## Description
 Sacred Spring
 
-Here a pilrim would bathe, make offerings, or drown, as they might prefer.
+Here a pilgrim would bathe, make offerings, or drown, as they might prefer.
 ## Locations
 - [[workstations/Sacred Spring|Sacred Spring]]

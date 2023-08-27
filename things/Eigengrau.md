@@ -23,3 +23,5 @@ Eigengrau
 'If Greydawn Oil were drinkable…'
 ## Locations
 - [[Pantry]]
+- crafting
+	- [[Maggephene Mysteries]] + [[Moon]](5)

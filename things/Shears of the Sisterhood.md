@@ -16,3 +16,5 @@ tags:
 ## Description
 
 ## Locations
+- [[Well Descent]]
+- [[Motley Tower - Dispensary]]

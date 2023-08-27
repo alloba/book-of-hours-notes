@@ -24,5 +24,6 @@ Tanglebrag
 
 A clot of wood, leaves and feathers that might draw the attention of the entity called Knotwingknot.
 ## Locations
+- [[Motley Tower - Dispensary]]
 - crafting
 	- [[Rites of the Root]] + [[Moth]](5)

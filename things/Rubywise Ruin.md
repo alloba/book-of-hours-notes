@@ -30,3 +30,5 @@ A ruddy liquor wrung from flowers - even when the flowers aren't red.
 ## Locations
 - [[Infirmary]]
 - [[Fludd Gallery]]
+- crafting
+	- [[Desires & Dissolutions]] + [[Grail]](10) +[[Flower]]

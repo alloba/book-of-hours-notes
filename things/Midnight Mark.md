@@ -22,4 +22,5 @@ A blemish left on a page (or a skin) by a careful incision (or a judicious sting
 ## Locations
 - [[Servant's Hall]]
 - crafting 
-	- [[Serpents & Venoms]], [[Moon]](5)
+	- [[Serpents & Venoms]] + [[Moon]](5)
+	- [[Desires & Dissolutions]] + [[Moon]](5)

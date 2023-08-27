@@ -21,3 +21,4 @@ Bitterblack Salts
 Bitter as chicory, dark as secrets, but the first rung of the traditional alchemical ascent.
 ## Locations
 - [[Box of Oddities]]
+- [[Motley Tower - Dispensary]]

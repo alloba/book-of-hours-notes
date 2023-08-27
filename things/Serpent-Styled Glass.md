@@ -19,3 +19,4 @@ Serpent-Styled Glass
 Carved snakes writhe down the frame. A prominent inscription reads TO THE LIBRARIAN GERVINUS IN EARNEST OF OUR WAGER
 ## Locations
 - [[Fludd Gallery]]
+- [[Motley Tower - Dispensary]]

@@ -19,3 +19,4 @@ Wolf-Snow Ampoule
 Far too cold ever to melt in anything but the hottest noonday sun. It will, very gradually, consume human flesh.
 ## Locations
 - [[Fludd Gallery]]
+- [[Motley Tower - Dispensary]]

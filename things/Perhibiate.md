@@ -26,4 +26,4 @@ Perhibiate
 
 Which binds to the one whose name is there written. A minor Ink of Power.
 ## Locations
-0 [[Motley Tower - Illopoly's Nook]]
+- [[Motley Tower - Illopoly's Nook]]
