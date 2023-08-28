@@ -23,3 +23,4 @@ I've gained more understanding of Door & Wall. [Use this card with Consider.]
 ## Sources
 - [[Journal of Walter Dewulf]]
 - [[Travelling at Night, Vol 3]]
+- [[On the Winding Stair]]

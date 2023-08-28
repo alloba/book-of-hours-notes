@@ -22,3 +22,4 @@ Lesson: Ouranoscopy
 I've gained more understanding of Ouranoscopy. [Use this card with Consider.]
 ## Sources
 - [[Journal of Thomas Dewulf]]
+- [[The Fallen Cross]]

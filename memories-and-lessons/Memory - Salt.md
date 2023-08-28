@@ -20,3 +20,4 @@ Memory: Salt
 Sea-spray, depth-sorrow.
 ## Sources
 - [[Journal of Thomas Dewulf]]
+- [[The Larquebine Codex]]

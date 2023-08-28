@@ -22,3 +22,5 @@ Lesson: Edicts Liminal
 I've gained more understanding of Edicts Liminal. [Use this card with Consider.]
 ## Sources
 - [[Travelling at Night, Vol 1]]
+- [[An Almanac of Entrances]]
+- [[The Twin-Serpent Tantra]]

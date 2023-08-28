@@ -17,5 +17,6 @@ Secret Threshold
 
 It's not easy to draw our own doors, but it's not impossible.
 ## Sources
+- [[An Almanac of Entrances]]
 - crafting
 	- [[Preliminal Meter]] + [[Knock]](5)d

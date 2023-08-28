@@ -24,3 +24,5 @@ Glassfinger Toxin
 ## Locations
 - [[Fludd Gallery]]
 - [[Motley Tower - Dispensary]]
+- crafting 
+	- [[Door & Wall]] + [[Knock]] (10) + [[Liquid]]

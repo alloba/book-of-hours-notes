@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: force
+  - name: forge
     amount : 1
   - name: thing
     amount : 1

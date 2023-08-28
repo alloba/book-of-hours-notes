@@ -1,18 +1,16 @@
 ---
 aspects: 
   - name: heart
-    amount: 4
+    amount: 2
   - name: sky
-    amount: 4
-  - name: weather
-    amount: 1
+    amount: 2
   - name: memory
     amount: 1
 tags:
   - 
 ---
 
-# Storm
+# Memory - Storm
 
 ## Description
 Storm
@@ -20,3 +18,4 @@ Storm
 Thunder-roaring, lightning-lashed skies.
 ## Sources
 - [[What does not Bark]]
+- [[Those Who do not Sleep]]

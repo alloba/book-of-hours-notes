@@ -24,3 +24,4 @@ Every choice has its shadow.
 - [[Chione at Abydos]]
 - [[Annals of St Brandans]]
 - [[The Five Letters on Memory]]
+- [[The Fallen Cross]]

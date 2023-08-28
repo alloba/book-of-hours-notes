@@ -26,3 +26,4 @@ Eigengrau
 - [[Stores]]
 - crafting
 	- [[Maggephene Mysteries]] + [[Moon]](5)
+	- [[Inks of Containment]] + [[Winter]](5)

@@ -23,3 +23,4 @@ Gull's Egg
 'At Brancrug, even the Hours are kind, and the years are kinder.' This egg might stay viable quite a while yet.
 ## Locations
 - [[Gullscry Tower - Valentine's Room]] 
+- [[The Gull-Colony]] - spring

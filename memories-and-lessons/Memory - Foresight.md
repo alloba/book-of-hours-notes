@@ -22,3 +22,4 @@ Memory: Foresight
 - [[On Resonance]]
 - [[Journal of Walter Dewulf]]
 - [[The War of the Roads, 1451-1551]]
+- [[The Incandescent Tantra]]
