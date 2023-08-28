@@ -22,3 +22,4 @@ Lesson: Rhyme & Remembrance
 I've gained more understanding of Rhyme & Remembrance. [Use this card with Consider.]
 ## Sources
 - [[Lady Eva's Repose]]
+- [[The Five Letters on Memory]]

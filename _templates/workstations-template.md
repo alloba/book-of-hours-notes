@@ -6,6 +6,10 @@ slots:
 tags: 
   - workstation
   - actionable
+challenges: 
+ - "prentice-level challenges"
+ - "scholar-level challenges"
+ - "keeper-level challenges"
 ---
 
 <%*

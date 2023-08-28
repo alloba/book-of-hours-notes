@@ -19,3 +19,6 @@ Memory: Foresight
 'Wit's forge and fire-blast, meaning's press and screw.' - Coleridge, 'On Donne's Poetry'
 ## Locations
 - [[The Sweet Bones]] - [[Ereb]]
+- [[On Resonance]]
+- [[Journal of Walter Dewulf]]
+- [[The War of the Roads, 1451-1551]]

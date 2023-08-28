@@ -16,3 +16,6 @@ Memory: Revelation
 Some truths come to us from outside, or above.
 ## Sources
 - [[The Locksmith's Dream - A Light Through the Keyhole]]
+- [[Gospel of Nicodemus]]
+- [[The Locksmith's Dream - Stole Reflections]]
+- [[Colours in the Liver]]

@@ -8,11 +8,15 @@ aspects:
     amount : 1
   - name: "tally price"
     amount : 1
+  - name: "mystery: "
+    amount : 1
 tags: 
   - book
   - actionable
 lesson: 
+  - "lesson: "
 memory: 
+  - "memory: "
 ---
 
 <%*

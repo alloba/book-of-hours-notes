@@ -17,4 +17,6 @@ tags:
 Shadowless Silk
 
 A variant of the Persian silk tree, golden as the Shadowless Kings.
-## Info
+## Locations
+- [[Servant's Quarters - North]]
+- [[Gullscry Loggia]]

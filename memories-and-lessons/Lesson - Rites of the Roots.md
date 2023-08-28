@@ -22,3 +22,4 @@ Lesson: Rites of the Roots
 I've gained more understanding of Rites of the Roots. [Use this card with Consider.]
 ## Sources
 - [[Bee-Silk Journal]]
+- [[De Horis Book I]]

@@ -17,3 +17,5 @@ Sol Invictis Symbol
 The eternal symbol of the Unconquered Sun, all the way back to the Shadowless Empire, even through the wild heresies of the Intercalate.
 ## Locations
 - [[Nave of the Abbey Church]]
+- [[Windlit Gallery]]
+- [[Solarium]]

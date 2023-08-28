@@ -21,3 +21,5 @@ Contraband Jetsam
 Flung overboard in furtive haste.
 ## Locations
 - [[Pantry]]
+- [[Servants' Quarters - South]]
+- [[Stores]]

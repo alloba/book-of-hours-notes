@@ -13,6 +13,11 @@ slots:
 tags:
   - workstation
   - actionable
+challenges:
+  - "prentice-level challenges"
+  - "scholar-level challenges"
+  - "keeper-level challenges"
+  - "evolve via birdsong"
 ---
 
 # Instrument - Sunset Harp
@@ -25,3 +30,4 @@ Instrument: Sunset Harp
  [This harp is strung with something that glimmers redly as waves at sunset.]
 ## Locations
 - [[Mazarine Room]]
+- [[Windlit Gallery]]

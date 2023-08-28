@@ -21,3 +21,11 @@ Sky Stories
 
 The nine winds gossip, and sometimes we can listen.
 ## Tree of Wisdom Entries
+### Birdsong III
+The Roost
+
+A thief of sights, a scavenger of thrones,
+A border-reaver and a thief of knots
+A thief of colours and a thief of bones.
+
+This is Birdsong.

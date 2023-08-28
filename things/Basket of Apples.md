@@ -23,3 +23,4 @@ Basket of Apples
 Notoriously hard to take just one bite.
 ## Locations
  - [[Tall Parcel]]
+ - [[Earth Cellar]]

@@ -4,7 +4,7 @@ aspects:
     amount: 4
   - name: sky
     amount: 4
-  - name: storm
+  - name: weather
     amount: 1
   - name: memory
     amount: 1
@@ -19,3 +19,4 @@ Storm
 
 Thunder-roaring, lightning-lashed skies.
 ## Sources
+- [[What does not Bark]]

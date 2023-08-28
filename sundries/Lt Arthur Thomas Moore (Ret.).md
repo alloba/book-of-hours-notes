@@ -16,6 +16,10 @@ aspects:
     amount: 1
   - name: edge
     amount: 1
+  - name: "visitor: the affair of the absent friend"
+    amount: 1 
+  - name: "visitor: the affair of the roytal endeavour"
+    amount: 1 
 tags:
   - sundries
   - card

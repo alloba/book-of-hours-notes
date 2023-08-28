@@ -21,3 +21,5 @@ Slim Parcel
 Carefully wrapped in brown paper.
 ## Locations
 - [[Servant's Hall]]
+- [[Servants' Quarters - South]]
+- [[Stores]]

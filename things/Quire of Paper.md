@@ -22,3 +22,6 @@ Creamy-smooth, eagerly awaiting ink.
 ## Locations
 - [[Watchman's Tower - First Floor]]
 - [[Reading Room]]
+- [[Westcott Room]]
+- [[Motley Tower - Regensburg Room]]
+- [[Chapter House]]

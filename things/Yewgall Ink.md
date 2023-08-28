@@ -23,3 +23,4 @@ A variant of iron gall ink, particularly difficult to erase; a minor Ink of Powe
 - [[Watchman's Tower - First Floor]]
 - Crafting
 	- [[Rites of the Root]] + [[Nectar]](5)
+	- [[Leaves & Thorns]] + [[Nectar]](5)

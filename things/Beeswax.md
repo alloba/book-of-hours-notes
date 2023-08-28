@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: moith
+  - name: moth
     amount : 1
   - name: scale
     amount : 1
@@ -23,3 +23,4 @@ Beeswax
 It begins as a flower. [Beeswax can be used to make candles, if you have a skill with the Chandlery aspect.]
 ## Locations
 - [[Pantry]]
+- [[Beehive]]

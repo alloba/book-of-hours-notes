@@ -21,3 +21,4 @@ Bedside Candleholder
 To comfort you through the dark hours.
 ## Locations
 - [[Severn Chamber]]
+- [[Servant's Quarters - North]]

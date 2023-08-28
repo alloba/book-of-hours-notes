@@ -19,3 +19,4 @@ tags:
 ## Sources
 - crafting 
 	- [[Resurgences & Emergences]] + [[Grail]](5)
+- [[The Wind's Ruin]]

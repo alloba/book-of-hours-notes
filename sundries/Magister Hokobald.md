@@ -20,6 +20,8 @@ aspects:
     amount: 1
   - name: "visitor: the affair of 'apollo and marsyas'"
     amount: 1
+  - name: "visitor: the affair of the royal endeavor"
+    amount: 1
 tags:
   - sundries
   - card

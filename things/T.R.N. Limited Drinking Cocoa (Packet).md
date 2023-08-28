@@ -24,3 +24,4 @@ T.R.N. Limited Drinking Cocoa (Packet)
 T.R.N.'s Spices and Savours Department markets this as 'the Secret Sacrament of the Last Inca!'
 ## Locations
 - [[Infirmary]]
+- [[Stores]]

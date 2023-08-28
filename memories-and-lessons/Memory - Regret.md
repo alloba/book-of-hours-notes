@@ -22,3 +22,5 @@ Every choice has its shadow.
 - [[Lady Eva's Repose]]
 - failed study
 - [[Chione at Abydos]]
+- [[Annals of St Brandans]]
+- [[The Five Letters on Memory]]

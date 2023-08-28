@@ -29,3 +29,5 @@ A dry, aromatic white wine.
 - [[Kitchen]]
 - [[Wine Cellar]]
 - [[Pantry]]
+- [[Bag of Tricks]]
+- [[Stores]]

@@ -22,3 +22,4 @@ Lesson: Resurgences & Emergences
 I've gained more understanding of Resurgences & Emergences. [Use this card with Consider.]
 ## Sources
 - [[The Orchid Transfigurations - A Birth]]
+- [[Colours in the Liver]]

@@ -15,8 +15,11 @@ aspects:
 tags:
   - book
   - actionable
-lesson: 
-memory: 
+  - studied
+lesson:
+  - "lesson: tridesma hiera"
+memory:
+  - "memory: satisfaction"
 ---
 
 # Calicite Supplications
@@ -24,5 +27,10 @@ memory:
 ## Description
 
 ### Partial Study Description
+I'm Reading...
 
+'If we should remember not, let our children remember, in their redmost dreams…'
 ### Study Complete Description
+I've Read...
+
+One prayer describes how sufficient Grail-aspect can be used with Tridesma Hiera rites to give 'a life, a little life, a little little life' to a doll twisted from fabric…

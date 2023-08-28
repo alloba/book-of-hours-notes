@@ -21,3 +21,4 @@ Vase of Gorse
 As Cornish a plant as any.
 ## Locations
 - [[Watchman's Tower - Gatehouse]]
+- [[Vestibulum Transitus]]

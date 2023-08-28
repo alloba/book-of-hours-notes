@@ -25,3 +25,4 @@ C&H Second Flush Assam (Cup)
 Tea from the land of the <i>real</i> unicorn, imported by Cater & Hero.
 ## Locations
 - [[Patients' Lounge]]
+- [[Chapter House]]

@@ -17,4 +17,5 @@ tags:
 Shaving Mirror
 
 <i>Snip snip!</i>
-## Info
+## Locations
+- [[Servant's Quarters - North]]

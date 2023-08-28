@@ -2,6 +2,8 @@
 aspects: 
   - name: "visitor: the affair of 'apollo and marsyas'"
     amount: 1
+  - name: "visitor: the affair of the royal endeavour"
+    amount: 1
   - name: visitor
     amount: 1
   - name: "understands sanksrit"
@@ -14,9 +16,9 @@ aspects:
     amount: 1
   - name: "understands phrygian"
     amount: 1
-  - name: grail
+  - name: "interested in grail"
     amount: 3
-  - name: lantern
+  - name: "interested in lantern"
     amount: 3
 tags:
   - sundries

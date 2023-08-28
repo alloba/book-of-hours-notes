@@ -24,4 +24,5 @@ Yew Blank
 
 A wood sacred to the Malachite, who is also called the Ring-Yew; but also the tree that the Dead pass in the dark.
 ## Locations
-[[A Walk on the Moor]] - winter
+- [[A Walk on the Moor]] - winter
+- [[Windlit Gallery]]

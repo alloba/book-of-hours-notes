@@ -19,3 +19,4 @@ Spanners
 When you need 'em, you need 'em.
 ## Locations
 - [[Foundry]]
+- [[Windlit Gallery]]

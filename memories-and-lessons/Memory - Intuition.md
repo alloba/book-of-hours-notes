@@ -19,3 +19,4 @@ You just know, you know?
 ## Sources
 - [[The Republic of Teeth]]
 - [[Against the Sisterhood of the Knock and the Foulness of their Depraved Customs]]
+- [[The Tripled Heart]]

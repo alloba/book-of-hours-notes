@@ -17,3 +17,4 @@ Paradise Palm
 An unquenchable vitality
 ## Locations
 - [[Grand Ascent - Ground Floor]]
+- [[Solarium]]

@@ -24,3 +24,4 @@ Named for an enigmatic minor deity whose charge is the healing of burns.
 ## Locations
 - [[Reading Room]]
 - [[Severn Chamber]]
+- [[Church Tower]]

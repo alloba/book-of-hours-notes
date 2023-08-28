@@ -29,3 +29,4 @@ A murky, sweet-smelling liquid crowded with sediment.
 - [[Scent Garden]]
 - [[Infirmary]]
 - [[Abandoned Luggage]]
+- [[Stores]]

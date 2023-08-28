@@ -21,3 +21,4 @@ Box of Rarities
 A tiny treasury of forgotten things. Perhaps there's a real rarity in here somewhere.
 ## Locations
 - [[Foundry]]
+- [[Stores]]

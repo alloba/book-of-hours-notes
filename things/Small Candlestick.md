@@ -23,3 +23,4 @@ Small Candlestick
 Simple elegance.
 ## Locations
 - [[Nave of the Abbey Church]]
+- [[Westcott Room]]

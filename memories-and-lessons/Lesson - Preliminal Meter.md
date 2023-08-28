@@ -22,3 +22,4 @@ Lesson: Preliminal Meter
 I've gained more understanding of Preliminal Meter. [Use this card with Consider.]
 ## Sources
 - [[The Other Line]]
+- [[Just Verse]]

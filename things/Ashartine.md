@@ -23,3 +23,4 @@ Ashartine
 Lies written in Ashartine tend to fade or be misspelt. It's legible in the dark. An Ink of Revelation.
 ## Locations
 - [[Severn Chamber]]
+- [[Westcott Room]]

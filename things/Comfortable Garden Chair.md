@@ -17,3 +17,4 @@ Comfortable Garden Chair
 Amateurishly varnished, characterfully stained.
 ## Locations
 - [[Physic Garden]]
+- [[Gullscry Loggia]]

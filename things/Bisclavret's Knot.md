@@ -21,3 +21,4 @@ Bisclavret's Knot
 The <i>bisclavret</i> is the half-human hill-child of these parts, and this is its sign.
 ## Locations
 - crafting - [[Serpents & Venoms]] + [[Scale]](5)
+- [[Solarium]]

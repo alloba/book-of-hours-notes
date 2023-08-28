@@ -21,3 +21,4 @@ Slim Parcel
 Carefully wrapped in brown paper.
 ## Locations
 - [[Servant's Hall]]
+- [[Beachcombing]]

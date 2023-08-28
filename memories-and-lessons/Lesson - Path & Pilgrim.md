@@ -22,3 +22,4 @@ Lesson: Path & Pilgrim
 I've gained more understanding of Path & Pilgrim. [Use this card with Consider.]
 ## Sources
  - [[The Queens of the Rivers]]
+ - [[Letters from a Fugitive]]

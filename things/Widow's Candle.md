@@ -25,3 +25,5 @@ Light it in remembrance.
 - [[Long Tower - Solomon's Quarters]]
 - [[Foundry]]
 - [[Wine Cellar]]
+- [[Servants' Quarters - South]]
+- [[Servant's Quarters - North]]

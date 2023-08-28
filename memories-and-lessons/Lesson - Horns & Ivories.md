@@ -22,3 +22,4 @@ Lesson: Horns & Ivories
 I've gained more understanding of Horns & Ivories. [Use this card with Consider.]
 ## Sources
 - [[The Treatise on Underplaces]]
+- [[The Gospel of Zacchaeus]]

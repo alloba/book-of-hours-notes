@@ -19,3 +19,4 @@ tags:
 Here Valentine has painted gulls migrating across a darkening sea.
 ## Locations
 - [[Fludd Gallery]]
+- [[Gullscry Tower - Valentine's Room]]

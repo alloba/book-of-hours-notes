@@ -20,3 +20,4 @@ We all of us come to this condition in the end, but not all of us are fortunate 
 ## Locations
 - [[Forsaken Packages]]
 - [[Motley Tower - Dispensary]]
+- [[Westcott Room]]

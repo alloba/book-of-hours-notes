@@ -20,3 +20,5 @@ Frivolous, but tasty.
 - [[The Sweet Bones]] - [[Ereb]]
 - [[Three Flowers Hath the Tree]]
 - [[The Queens of the Rivers]]
+- [[The Kerisham Portolan]]
+- [[The Humours of a Gentleman]]

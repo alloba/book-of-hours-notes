@@ -21,3 +21,5 @@ Lesson: Sky Stories
 
 I've gained more understanding of Sky Stories. [Use this card with Consider.]
 ## Sources
+- [[The Humours of a Gentleman]]
+- [[Against the Sisterhood of the Knock and the Foulness of their Depraved Customs]]

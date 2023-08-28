@@ -15,9 +15,14 @@ slots:
 tags:
   - workstation
   - actionable
+challenges:
+  - "prentice-level challenges"
+  - "scholar-level challenges"
+  - "keeper-level challenges"
+  - "evolve via ithastry"
 ---
 
-# Shring - The Madrugad
+# Shrine - The Madrugad
 
 ## Description
 Shrine: the Madrugad

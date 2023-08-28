@@ -21,6 +21,9 @@ Stout, rustic, snug.  [Use a matching Soul card to move your belongings in and m
 - [[Long Tower - Solomon's Quarters]] - Julian Coseley and Solomon Husher - both great sages of Winter - slept in this bed. Although not simultaneously. No-one, the story runs, has ever managed a serene night's sleep in it since.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 - [[Infirmary]] - Clean white sheets and the unmistakable military <i>ping</i> of a steel bed-frame. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 - [[Severn Chamber]] - For those who prefer their mattresses soft.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
+- [[Motley Tower - Regensburg Room]] - An exile slept here, long ago.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
+- [[Servants' Quarters - South]] - Narrow, but comfortable.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
+- [[Servant's Quarters - North]] - Narrow, but comfortable.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 
 
 ## Info

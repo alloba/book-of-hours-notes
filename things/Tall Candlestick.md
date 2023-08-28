@@ -21,3 +21,6 @@ Tall Candlestick
 Elegant simplicity.
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Westcott Room]]
+- [[Solarium]]
+- [[Chapter House]]

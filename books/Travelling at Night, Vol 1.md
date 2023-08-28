@@ -13,8 +13,11 @@ aspects:
 tags:
   - book
   - actionable
-lesson: 
-memory: 
+  - studied
+lesson:
+  - "lesson: edicts liminal"
+memory:
+  - "memory: impulse"
 ---
 
 # Travelling at Night, Vol 1
@@ -24,5 +27,7 @@ Travelling at Night, vol 1
 
 The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering.
 ### Partial Study Description
+I'm Reading...
 
+'The Wood lies outside the walls of the Mansus. As any student of the Histories knows, the Mansus has no walls.'
 ### Study Complete Description

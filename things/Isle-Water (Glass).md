@@ -25,3 +25,4 @@ Isle-Water (Glass)
 From Brancrug's deep springs.
 ## Locations
 - [[Long Tower - Solomon's Quarters]]
+- [[Servant's Quarters - North]]

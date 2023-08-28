@@ -27,3 +27,4 @@ Armagnac d'Ys (Bottle)
 Armagnac can only come from Gascony… but, if you believe M. Corentin, his vineyard began with vine-cuttings from Ys beyond the sea.
 ## Locations
 - [[Fludd Gallery]]
+- [[Gullscry Loggia]]

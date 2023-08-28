@@ -21,3 +21,4 @@ Hurricane Lamp
 Proof against storm-wind and moth-swoop alike.
 ## Locations
 - [[Scent Garden]]
+- [[Stores]]

@@ -19,3 +19,4 @@ Hallowed Anthropoderm
 Yes, it's human skin, but it's not <i>just</i> human skin.
 ## Locations
 - [[Abandoned Luggage]]
+- [[Map Room]]

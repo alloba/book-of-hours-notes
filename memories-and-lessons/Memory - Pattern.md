@@ -1,0 +1,23 @@
+---
+aspects: 
+  - name: forge
+    amount: 1
+  - name: knock
+    amount: 2
+  - name: memory
+    amount: 1
+tags:
+  - 
+---
+
+# Memory - Pattern
+
+## Description
+Memory: Pattern
+
+Something fits just right.
+## Sources
+- [[The Radical Measure]]
+- [[Just Verse]]
+- [[Travelling at Night, Vol 3]]
+- [[By Theirs Marks Shall Ye Know Them]]

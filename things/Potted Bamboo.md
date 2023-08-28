@@ -19,3 +19,4 @@ Potted Bamboo
 Water it, and you can almost hear it growing
 ## Locations
 - [[Grand Ascent - Third Floor]]
+- [[Solarium]]

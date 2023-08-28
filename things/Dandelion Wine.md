@@ -3,7 +3,7 @@ aspects:
   - name: thing
     amount: 1
   - name: lantern
-    amount: 2
+    amount: 1
   - name: nectar
     amount: 1
   - name: liquid

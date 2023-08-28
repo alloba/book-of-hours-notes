@@ -19,3 +19,4 @@ Saw
 Eternally useful, though not for most librarians most of the time.
 ## Locations
 - [[Foundry]]
+- [[Stores]]
