@@ -21,3 +21,6 @@ Sea-spray, depth-sorrow.
 ## Sources
 - [[Journal of Thomas Dewulf]]
 - [[The Larquebine Codex]]
+- [[The Crossing to Noon]]
+- crafting
+	- [[Sea's Edge]]

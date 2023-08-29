@@ -27,3 +27,4 @@ Leathy
 'A dark and syrupy liquor favoured in unnamed forest villages. 'The tongue and the eye, and now we begin! Forget your name, forget your skin.'
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Night Gallery]]

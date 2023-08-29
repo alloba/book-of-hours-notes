@@ -19,3 +19,4 @@ tags:
 Valentine Dewulf's magnificent green cockatoo. The painting is signed by Valentine himself.
 ## Locations
 - [[Gullscry Tower - Valentine's Room]]
+- [[Night Gallery]]

@@ -25,5 +25,8 @@ challenges:
 # Gullscry Workbench
 
 ## Description
+Gullscry Workbench
 
+Labour solemnly.
 ## Locations
+- [[Gullscry Tower - Valentine's Room]]

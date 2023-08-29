@@ -18,3 +18,4 @@ A framed page of illustrated vellum. Up close, the colours dazzle and puzzle.
 ## Locations
 - [[Watchman's Tower - First Floor]]
 - [[Fludd Gallery]]
+- [[Night Gallery]]

@@ -19,3 +19,4 @@ Fringed Lamp
 A cosy little night light.
 ## Locations
 - [[Severn Chamber]]
+- [[Librarians's Quarters]]

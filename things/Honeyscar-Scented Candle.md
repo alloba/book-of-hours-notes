@@ -25,3 +25,4 @@ Honeyscar-Scented Candle
 A candle scented with honeyscar jasmine.
 ## Locations
 - [[Foundry]]
+- [[Night Gallery]]

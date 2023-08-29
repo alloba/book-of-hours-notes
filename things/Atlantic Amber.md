@@ -21,3 +21,4 @@ Atlantic Amber
 Sunset's colours, pine's blood.
 ## Locations
 - [[Deep Well Descent]]
+- [[Narthex]]

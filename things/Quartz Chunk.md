@@ -21,3 +21,5 @@ Quartz Chunk
 Ice, rock, winking light.
 ## Locations
 - [[Fludd Gallery]]
+- [[Our Lady Beneath]]
+- [[A Walk on the Moor]]

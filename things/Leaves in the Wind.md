@@ -18,3 +18,4 @@ A soothing but undistinguished work in oils. Someone evidently was good at trees
 ## Locations
 - [[Entrance Hall]] x2
 - [[Fludd Gallery]]
+- [[Night Gallery]]

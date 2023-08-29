@@ -20,3 +20,4 @@ Some poor soul who probably won't mind if they're repurposed for a worthy experi
 ## Locations
 - [[Motley Tower - Illopoly's Nook]]
 - [[Vestibulum Transitus]]
+- [[Night Gallery]]

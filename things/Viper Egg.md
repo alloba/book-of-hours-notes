@@ -23,3 +23,4 @@ Viper Egg
 A serpent in waiting.
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Narthex]]

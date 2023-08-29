@@ -21,3 +21,5 @@ Watchful Candle
 A little portable clarity.
 ## Locations
 - [[Reading Room]]
+- [[Violet Stool]]
+- [[Librarians's Quarters]]

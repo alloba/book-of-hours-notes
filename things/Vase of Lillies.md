@@ -23,3 +23,4 @@ An elegant ornament.
 - [[Grand Ascent - Second Floor]]
 - [[Infirmary]]
 - [[Nave of the Abbey Church]]
+- [[Refectory]]

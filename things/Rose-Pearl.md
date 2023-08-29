@@ -21,3 +21,4 @@ Rose-Pearl
 Surprisingly common in these waters.
 ## Locations
 - [[Pantry]]
+- [[Night Gallery]]

@@ -24,3 +24,4 @@ Elegant simplicity.
 - [[Westcott Room]]
 - [[Solarium]]
 - [[Chapter House]]
+- [[Refectory]]

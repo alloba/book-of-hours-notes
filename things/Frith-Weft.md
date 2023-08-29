@@ -6,7 +6,7 @@ aspects:
     amount : 1
   - name: "fabric and fibre"
     amount : 1
-tags: 
+tags:
   - thing
   - actionable
 ---

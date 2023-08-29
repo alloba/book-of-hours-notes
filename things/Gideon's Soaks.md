@@ -25,3 +25,4 @@ Gideon's Soaks
 A therapeutic collection of beneficial bottles.
 ## Locations
 - [[Pantry]]
+- [[Night Gallery]]

@@ -24,3 +24,4 @@ It begins as a flower. [Beeswax can be used to make candles, if you have a skill
 ## Locations
 - [[Pantry]]
 - [[Beehive]]
+- [[Our Lady Beneath]]

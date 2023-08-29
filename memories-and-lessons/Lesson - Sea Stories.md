@@ -22,4 +22,5 @@ Lesson: Sea Stories
 I've gained more understanding of Sea Stories. [Use this card with Consider.]
 ## Sources
 - [[The Kerisham Portolan]]
-- [[Sea Stories]]
+- [[The Larquebine Codex]]
+- [[The Crossing to Noon]]

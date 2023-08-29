@@ -17,3 +17,4 @@ tags:
 A gloomy study of the sea in gloomy weather.
 ## Locations
 - [[Entrance Hall]]
+- [[Night Gallery]]

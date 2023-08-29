@@ -21,3 +21,4 @@ Curious Seashell
 Brancrug is said to lie in the Bounds where the world ends. Odd creatures have made their dying way to the beach.
 ## Locations
 - [[Windlit Gallery]]
+- [[Beachcombing]]

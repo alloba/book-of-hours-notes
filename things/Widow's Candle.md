@@ -27,3 +27,5 @@ Light it in remembrance.
 - [[Wine Cellar]]
 - [[Servants' Quarters - South]]
 - [[Servant's Quarters - North]]
+- [[Narthex]]
+- [[Our Lady Beneath]]

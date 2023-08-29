@@ -19,3 +19,4 @@ Potted Pink Orchid
 A little smudge of dawn.
 ## Locations
 - [[Solarium]]
+- [[Librarians's Quarters]]

@@ -1,9 +1,9 @@
 ---
 aspects: 
-  - name: "wall art"
-    amount : 1
   - name: moon
-    amount: 2
+    amount : 1
+  - name: thing
+    amount : 1
 tags:
   - thing
   - actionable
@@ -14,6 +14,6 @@ tags:
 ## Description
 'The Velvet'
 
-'The Glory is a question, and the Moth always answers Yes. The Velvet's answer is No, and that is always her answer.'
+An Hour of secrecy? Ignorance? Privacy? Shame? The Velvet has never encouraged insight, investigation, or worship. Even an image of her is unusual.
 ## Locations
-- [[Infirmary]]
+- [[Stair Tenebrous]]

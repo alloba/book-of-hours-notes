@@ -1,8 +1,10 @@
 ---
 aspects: 
-  - name: sky
+  - name: "interested in sky"
     amount: 3
   - name: "visitor: the affair of 'apollo and marsyas'"
+    amount: 1
+  - name: "visitor: the affair of the grunewald provision"
     amount: 1
   - name: visitor
     amount: 1
@@ -14,7 +16,7 @@ aspects:
     amount: 1
   - name: "understands deep mandaic"
     amount: 1
-  - name: heart
+  - name: "interested in heart"
     amount: 3
 tags:
   - sundries

@@ -28,3 +28,4 @@ Armagnac can only come from Gascony… but, if you believe M. Corentin, his vine
 ## Locations
 - [[Fludd Gallery]]
 - [[Gullscry Loggia]]
+- [[Pale Chamber]]

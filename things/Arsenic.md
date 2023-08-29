@@ -23,3 +23,4 @@ Arsenic
 A poison sometimes known as 'the Message of the Swan'.
 ## Locations
 - [[Infirmary]]
+- [[Night Gallery]]

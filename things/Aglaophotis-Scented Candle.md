@@ -30,3 +30,4 @@ A candle scented with aglaophotis.
 ## Locations
 - [[Atrium]]
 - [[Well Descent]]
+- [[Narthex]]

@@ -17,3 +17,4 @@ Restful Garden Chair
 Sit here and listen to the trees grow. Or the leaves fall. Preferences differ.
 ## Locations
 - [[Physic Garden]]
+- [[Gullscry Tower - Eales' Room]]

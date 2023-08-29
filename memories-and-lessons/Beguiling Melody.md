@@ -20,3 +20,4 @@ tags:
 - crafting 
 	- [[Resurgences & Emergences]] + [[Grail]](5)
 - [[The Wind's Ruin]]
+- [[The Morphy Codex]]

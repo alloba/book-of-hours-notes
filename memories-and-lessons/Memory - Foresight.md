@@ -5,7 +5,7 @@ aspects:
   - name: lantern
     amount: 1
   - name: forge
-    amount: 1
+    amount: 2
 tags:
   - 
 

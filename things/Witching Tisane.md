@@ -23,5 +23,6 @@ Witching Tisane
 
 'To mend a broken heart, to colour a pale soul.'
 ## Locations
+- [[Librarians's Quarters]]
 - Crafting
 	- [[Desk - Eva]] - [[Grail]](5) + [[Desires & Dissolutions]]

@@ -23,3 +23,4 @@ Thirza's Cordials
 Separately, each is undrinkable. But mix them, and they're only undrinkable after fifteen minutes.
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Night Gallery]]

@@ -27,3 +27,4 @@ Lignum Vitae Blank
 The hardest of all woods.
 ## Locations
 - [[Entrance Hall]]
+- [[Our Lady Beneath]]

@@ -1,25 +1,25 @@
 ---
 aspects: 
+  - name: lantern
+    amount : 1
   - name: moon
-    amount : 2
-  - name: scale
-    amount : 2
+    amount : 1
   - name: thing
     amount : 1
   - name: material
     amount : 1
-  - name: gem
+  - name: glass
     amount : 1
 tags:
   - thing
   - actionable
 ---
 
-# Amergris Chunk
+# Sea-Glass
 
 ## Description
-Ambergris Chunk
+Sea-Glass
 
-Never, never, never call it 'whale vomit'.
+Smooth as an egg, frosted like a winter window.
 ## Locations
-- [[Fludd Gallery]]
+- [[Narthex]]

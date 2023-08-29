@@ -22,3 +22,4 @@ Lesson: Desires & Dissolutions
 I've gained more understanding of Desires & Dissolutions. [Use this card with Consider.]
 ## Sources
 - [[Bee-Silk Journal]]
+- [[The Orchid Transfigurations - A Feast]]

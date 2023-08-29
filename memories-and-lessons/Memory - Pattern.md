@@ -23,3 +23,6 @@ Something fits just right.
 - [[By Theirs Marks Shall Ye Know Them]]
 - [[On the Winding Stair]]
 - [[The Twin-Serpent Tantra]]
+- [[Cardea's Delights]]
+- [[On Imperfections]]
+- [[Advice on Containment]]

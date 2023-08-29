@@ -21,3 +21,4 @@ Mortar & Pestle
 CRUSH.
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Our Lady Beneath]]

@@ -5,6 +5,8 @@ let containsAspects = (item, valids) => {
 	return item.aspects.map(x => x.name).some(y => valids.includes(y))
 }
 
+
+
 let working_set = dv.pages('"things"')
 
 
@@ -12,7 +14,7 @@ dv.table(
 	['Item', 'Aspects'],
 	working_set
 	.filter(x => x.aspects)
-	.filter(x => containsAspects(x, ['fabric and fibre']))
+	.filter(x => containsAspects(x, ['metal']))
 	.map(x => 
 	[
 		x.file.link,
@@ -22,29 +24,6 @@ dv.table(
 )
 ```
 
-# Memories
-```dataviewjs
-let containsAspects = (item, valids) => {
-	if(! item.aspects) return false
-	return item.aspects.map(x => x.name).some(y => valids.includes(y))
-}
-
-let working_set = dv.pages('"memories-and-lessons"')
-
-
-dv.table(
-	['Item', 'Aspects'],
-	working_set
-	.filter(x => x.aspects)
-	.filter(x => !containsAspects(x, ['lesson']))
-	.map(x => 
-	[
-		x.file.link,
-		x.aspects.map(z => z.name + ' ' + z.amount),
-	]
-	) 
-)
-```
 
 
 # Workstations that Evolve
@@ -62,9 +41,9 @@ dv.table(
 	['Item', 'Evolve', 'Aspects', 'Slots'],
 	working_set_workstations
 	.filter(x => x.challenges)
-	.filter(x => 
-		x.challenges.some(z => z.startsWith('evolve'))
-	)
+	//.filter(x => 
+	//	x.challenges.some(z => z.startsWith('evolve'))
+	//)
 	.map(x => 
 	[
 		x.file.link,

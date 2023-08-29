@@ -17,3 +17,4 @@ tags:
 'The More Prominent the Headgear, the Closer to the Glory'.
 ## Locations
 - [[Fludd Gallery]]
+- [[Refectory]]

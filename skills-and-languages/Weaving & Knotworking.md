@@ -21,3 +21,7 @@ Weaving & Knotworking
 
 'Hee hee hee hee hee hee hee hee hee. Hee.' - Valentine Dewulf
 ## Tree of Wisdom Entries
+### Birdsong IV
+What Remains
+
+Cut a thread, and the tapestry remains. Birdsong follows the thread.

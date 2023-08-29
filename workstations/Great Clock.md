@@ -27,5 +27,8 @@ challenges:
 # Great Clock
 
 ## Description
+Great Clock
 
+Every flame has its fuel, and every tick has its tock.
 ## Locations
+- [[Church Tower]]
