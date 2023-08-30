@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: "real of film"
+  - name: "reel of film"
     amount: 1
   - name: thing
     amount : 1
@@ -13,7 +13,6 @@ aspects:
 tags:
   - book
   - actionable
-  - film
   - studied
 lesson:
   - "lesson: lockworks & clockworks"

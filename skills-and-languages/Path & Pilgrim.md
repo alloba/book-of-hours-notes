@@ -8,7 +8,7 @@ aspects:
     amount: 1
   - name: birdsong
     amount: 1
-  - name: nyctrodromy
+  - name: nyctodromy
     amount: 1
 tags:
   - skill
