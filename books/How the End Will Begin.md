@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: edge"
     amount : 14
   - name: "written in vak"
-    amount : 14
+    amount : 1
   - name: witchworms
     amount : 1
 tags:

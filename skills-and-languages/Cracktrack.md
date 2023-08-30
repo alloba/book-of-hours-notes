@@ -10,7 +10,7 @@ aspects:
     amount: 1
   - name: illumination
     amount: 1
-  - name: preservataion
+  - name: preservation
     amount: 1
 tags:
   - skill

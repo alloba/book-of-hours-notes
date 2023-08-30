@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: winter"
     amount : 10
   - name: "written in ericapaean"
-    amount : 10
+    amount : 1
 tags:
   - book
   - actionable

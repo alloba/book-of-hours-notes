@@ -2,7 +2,7 @@
 aspects: 
   - name: edge
     amount : 1
-  - name: lanter
+  - name: lantern
     amount : 1
   - name: "wall art"
     amount : 1

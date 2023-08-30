@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: lanttern
+  - name: lantern
     amount : 4
   - name: rose
     amount : 2

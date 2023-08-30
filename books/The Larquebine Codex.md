@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: moon"
     amount : 6
   - name: "written in phrygian"
-    amount : 6
+    amount : 1
 tags:
   - book
   - actionable

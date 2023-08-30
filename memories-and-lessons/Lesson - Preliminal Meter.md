@@ -6,7 +6,7 @@ aspects:
     amount: 1
   - name: memory
     amount: 1
-  - name: persistant
+  - name: persistent
     amount: 1
   - name: lesson
     amount: 1

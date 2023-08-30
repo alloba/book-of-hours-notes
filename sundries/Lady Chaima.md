@@ -1,8 +1,8 @@
 ---
 aspects: 
-  - name: "interest in edge"
+  - name: "interested in edge"
     amount: 3
-  - name: "interest in rose"
+  - name: "interested in rose"
     amount: 3
   - name: visitor
     amount: 1

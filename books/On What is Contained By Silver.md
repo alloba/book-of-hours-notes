@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: sky"
     amount : 6
   - name: "written in greek"
-    amount : 6
+    amount : 1
 tags:
   - book
   - actionable

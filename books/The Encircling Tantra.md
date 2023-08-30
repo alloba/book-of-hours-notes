@@ -8,7 +8,7 @@ aspects:
     amount : 1
   - name: "tally price"
     amount : 2
-  - name: "written in sanksrit"
+  - name: "written in sanskrit"
     amount : 1
   - name: "mystery: scale"
     amount : 6

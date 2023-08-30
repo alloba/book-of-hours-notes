@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: forge"
     amount : 14
   - name: "written in vak"
-    amount : 2
+    amount : 1
 tags:
   - book
   - actionable

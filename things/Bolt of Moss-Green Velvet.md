@@ -6,7 +6,7 @@ aspects:
     amount : 2
   - name: thing
     amount : 1
-  - name: "frabic and fibre"
+  - name: "fabric and fibre"
     amount : 1
 tags:
   - thing

@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: lantner
+  - name: lantern
     amount : 1
   - name: moth
     amount : 1

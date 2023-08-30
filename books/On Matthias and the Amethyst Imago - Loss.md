@@ -13,7 +13,7 @@ aspects:
   - name: witchworms
     amount : 1
   - name: "written in aramaic"
-    amount : 6
+    amount : 1
 tags:
   - book
   - actionable

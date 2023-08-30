@@ -6,7 +6,7 @@ aspects:
     amount: 2
   - name: memory
     amount: 1
-  - name: birdsone
+  - name: birdsong
     amount: 1
   - name: preservation
     amount: 1

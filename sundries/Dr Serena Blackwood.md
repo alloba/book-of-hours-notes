@@ -12,7 +12,7 @@ aspects:
     amount: 1
   - name: "understands greek"
     amount: 1
-  - name: "understandsphrygian"
+  - name: "understands phrygian"
     amount: 1
   - name: "interested in forge"
     amount: 1

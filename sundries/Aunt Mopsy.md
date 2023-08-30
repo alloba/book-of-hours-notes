@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: "interest in nectar"
+  - name: "interested in nectar"
     amount: 7
   - name: "visitor: a matter of knot and tangle"
     amount: 1

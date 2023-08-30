@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: heart"
     amount : 2
   - name: "written in latin"
-    amount : 2
+    amount : 1
 tags:
   - book
   - actionable

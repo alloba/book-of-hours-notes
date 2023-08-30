@@ -4,7 +4,7 @@ aspects:
     amount: 1
   - name: "relevance: winter"
     amount: 1
-  - name: indidence
+  - name: incidence
     amount: 1
 tags:
   - sundries

@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: lantern"
     amount : 6
   - name: "written in sanskrit"
-    amount : 6
+    amount : 1
 tags:
   - book
   - actionable

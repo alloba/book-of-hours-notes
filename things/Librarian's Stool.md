@@ -2,7 +2,7 @@
 aspects: 
   - name: lantern
     amount : 1
-  - name: confort
+  - name: comfort
     amount : 1
 tags:
   - thing

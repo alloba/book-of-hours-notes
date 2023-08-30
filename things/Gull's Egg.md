@@ -8,7 +8,7 @@ aspects:
     amount : 1
   - name: egg
     amount : 1
-  - name: brewablew
+  - name: brewable
     amount : 1
 tags:
   - thing

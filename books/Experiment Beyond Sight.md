@@ -13,7 +13,6 @@ aspects:
 tags:
   - book
   - actionable
-  - "reel of film"
   - studied
 lesson:
   - "lesson: edicts inviolable"

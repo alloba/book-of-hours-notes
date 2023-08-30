@@ -11,7 +11,7 @@ aspects:
   - name: "mystery: grail"
     amount : 8
   - name: "written in latin"
-    amount : 3
+    amount : 1
 tags:
   - book
   - actionable
