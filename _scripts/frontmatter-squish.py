@@ -172,5 +172,5 @@ def validate_aspects():
         print(str(e))
 
 if __name__ == '__main__':
-    #validate_aspects()
-    convert_all_aspects_everywhere_to_tags()
+    validate_aspects()
+#    convert_all_aspects_everywhere_to_tags()
