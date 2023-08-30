@@ -112,8 +112,8 @@ def replace_frontmatter(file_object):
     with open(file_object, 'w') as f:
         f.write(new_total)
 
-def convert_all_aspects_everywhere_to_tags():
-    base_vault_path = '../_back/'
+def get_target_files():
+    base_vault_path = '../'
     ignored_subdirectories_paths = [
         '.obsidian',
         '.gitignore',
@@ -133,11 +133,42 @@ def convert_all_aspects_everywhere_to_tags():
 
     all_files = list(files_generator)
     filtered_files = filter_ignored_dirs(all_files, ignored_dirs)[0]
+    return filtered_files
 
-    for f in filtered_files:
+def convert_all_aspects_everywhere_to_tags():
+    for f in get_target_files():
         if does_file_have_frontmatter(str(f.resolve())):
             print(str(f.resolve()))
             replace_frontmatter(str(f.resolve()))
 
+def validate_aspects():
+    def validation_copy(file_object):
+        # This is just a subset of the rewrite function with some tweaks.
+        try:
+            if not does_file_have_frontmatter(file_object):
+                raise Exception('cannot replace frontmatter when none is detected: ' + file_object)
+            old_front = fetch_frontmatter(file_object)
+            new_front = squishify_frontmatter(old_front)
+            new_dump = yaml.dump(new_front)
+
+            complete_text = ''
+            with open(file_object, 'r') as f:
+                complete_text = f.read()
+            if complete_text == '':
+                raise Exception('Got a blank string when loading file: ' + file_object)
+            new_total = strip_frontmatter(complete_text) #complete_text.replace(old_front, new_dump)
+        except Exception as e:
+            return {'state':'failed', 'file': str(file_object.resolve()), 'message': str(e)}
+        return {'state':'passed', 'file': str(file_object.resolve()), 'message': ''}
+
+    files = get_target_files()
+    results = []
+    for f in files:
+        results.append(validation_copy(f))
+
+    failed = [x for x in results if x['state'] == 'failed']
+    for e in failed:
+        print(str(e))
+
 if __name__ == '__main__':
-    print()
+    validate_aspects()
