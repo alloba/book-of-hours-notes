@@ -22,3 +22,5 @@ It doesn't exactly make sense - but I understand it anyway.
 - [[The Ceaseless Tantra]]
 - [[On Matthias and the Amethys Imago - Transformation]]
 - [[Ambrosial!]]
+- [[Ud Rocashaas]]
+- [[The Locksmith's Dream - Trespasses]]

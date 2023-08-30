@@ -23,3 +23,4 @@ Rosehip Jam
 Plucked from wild roses.
 ## Locations
 - [[Pantry]]
+- [[Gaol Kitchen]]

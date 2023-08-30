@@ -30,3 +30,4 @@ The Blomberende were rogues and trickster-heroes among the Carapace-kinds: ingen
 ## Locations
 - [[Kitchen]]
 - [[Pantry]]
+- [[Gaol Kitchen]]

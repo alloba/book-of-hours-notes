@@ -29,5 +29,6 @@ Mist-Kissed Water (Pitcher)
 The faintest of vapours still ghosts the water's surface.
 ## Locations
 - [[Infirmary]]
+- [[Gaol Kitchen]]
 - crafting
 	- [[Hush House Well]] - [[Numa]]

@@ -28,5 +28,6 @@ From Brancrug's deep springs.
 ## Locations
 - [[Kitchen]]
 - [[Stores]]
+- [[Gaol Hall]]
 - Crafting
 	- [[Hush House Well]] - chor/heart

@@ -22,3 +22,4 @@ Lesson: Edicts Inviolable
 I've gained more understanding of Edicts Inviolable. [Use this card with Consider.]
 ## Sources
 - [[What does not Bark]]
+- [[Experiment Beyond Sight]]

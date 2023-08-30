@@ -25,5 +25,6 @@ Honey
 The blood of the Hour called Malachite; also and furthermore, wonderful on toast.
 ## Locations
 - [[Kitchen]]
+- [[Gaol Kitchen]]
 - crafting 
 	- [[Beehive]] - spring/summer

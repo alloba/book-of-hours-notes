@@ -26,3 +26,4 @@ Coffee from beyond the great deserts.
 ## Locations
 - [[Servant's Quarters - North]]
 - [[Staff Room]]
+- [[Gaol Hall]]

@@ -21,3 +21,7 @@ Disciplines of the Hammer
 
 To purify and to combine the selves and the essences. The Hammer shapes gates and shatters doors, within us and without.
 ## Tree of Wisdom Entries
+### Illumination III
+Steel and Glass
+
+A certain parable of the Bright Arts tells of a priest who raised an altar of steel and glass to an old god; but then found a new god within the altar.

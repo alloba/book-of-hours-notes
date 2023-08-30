@@ -25,3 +25,4 @@ Pickled Pilchards
 An acquired, and unforgettable, taste.
 ## Locations
 - [[Pantry]]
+- [[Gaol Kitchen]]

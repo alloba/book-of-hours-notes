@@ -21,3 +21,4 @@ Kitchen Bowls
 CAKE TIME.
 ## Locations
 - [[Kitchen]]
+- [[Gaol Kitchen]]

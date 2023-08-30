@@ -22,3 +22,4 @@ Lesson: Disciplines of the Hammer
 I've gained more understanding of Disciplines of the Hammer. [Use this card with Consider.]
 ## Sources
 - [[The Carmine Petal - Revised]]
+- [[De Horis Book 2]]

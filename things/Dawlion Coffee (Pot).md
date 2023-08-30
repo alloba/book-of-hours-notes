@@ -25,3 +25,4 @@ tags:
 
 ## Locations
 - [[Staff Room]]
+- [[Gaol Kitchen]]

@@ -30,3 +30,4 @@ A murky, sweet-smelling liquid crowded with sediment.
 - [[Infirmary]]
 - [[Abandoned Luggage]]
 - [[Stores]]
+- [[Gaol Kitchen]]

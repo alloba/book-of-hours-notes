@@ -21,3 +21,4 @@ Flour
 Pulverised grains, bread's precursor.
 ## Locations
 - [[Pantry]]
+- [[Gaol Kitchen]]

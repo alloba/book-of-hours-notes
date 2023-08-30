@@ -23,3 +23,4 @@ Blackberry Jam
 Plucked from hedgerows.
 ## Locations
 - [[Pantry]]
+- [[Gaol Kitchen]]

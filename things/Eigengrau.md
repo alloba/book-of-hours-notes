@@ -24,6 +24,7 @@ Eigengrau
 ## Locations
 - [[Pantry]]
 - [[Stores]]
+- [[Gaol Kitchen]]
 - crafting
 	- [[Maggephene Mysteries]] + [[Moon]](5)
 	- [[Inks of Containment]] + [[Winter]](5)

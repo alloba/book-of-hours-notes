@@ -27,3 +27,4 @@ Memory: Fear
 - [[Black Nephrite]]
 - [[Stolen Histories]]
 - [[The Encircling Tantra]]
+- [[Hunting Journals of Bryan Dewulf]]

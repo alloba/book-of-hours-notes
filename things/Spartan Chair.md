@@ -1,22 +1,19 @@
 ---
 aspects: 
   - name: edge
-    amount : 2
-  - name: winter
     amount : 1
-  - name: thing
+  - name: comfort
     amount : 1
 tags:
   - thing
   - actionable
 ---
 
-# Lacquered Bone Chess Set
+# Spartan Chair
 
 ## Description
-Lacquered Bone Chess Set
+Spartan Chair
 
-Born of battles?
+The cushion has been removed, perhaps as an act of petty revenge.
 ## Locations
-- [[Patients' Lounge]]
 - [[Gaol Hall]]

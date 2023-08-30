@@ -19,3 +19,4 @@ Mop and Bucket
 Galvanised steel, enriched with the stains of a dozen years of methodical mopping.
 ## Locations
 - [[Church Tower]]
+- [[Gaol Hall]]

@@ -26,3 +26,4 @@ Memory: Foresight
 - [[The Carmine Petal - Revised]]
 - [[The Admonitory Automata Project]]
 - [[The Book of Dissolution]]
+- [[De Horis Book 2]]
