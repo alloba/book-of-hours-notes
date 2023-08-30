@@ -1,3 +1,7 @@
+---
+tags:
+  - misc
+---
 The librarian is the main character of this game. They washed up on the shore near [[Brancrug Village]] after a terrible storm, with scattered memories and a [[A Drowned Book]] the only things in their possession. 
 
 # Motivations

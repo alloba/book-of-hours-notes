@@ -1,8 +1,14 @@
 ---
 aspects: 
-  - name: 
+  - name: rose
     amount: 1
-slots: 
+  - name: scale
+    amount: 1
+  - name: sky
+    amount: 1
+slots:
+  - effort
+  - knowledge
 tags:
   - workstation
   - actionable

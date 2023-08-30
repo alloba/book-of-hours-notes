@@ -9,7 +9,6 @@ aspects:
   - name: nyctodromy
     amount: 1
   - name: skolekosophy
-  - 
     amount: 1
 tags:
   - skill

@@ -1,6 +1,7 @@
 ---
 aspects: 
   - name: "solar gothic period"
+    amount: 1
 tags:
   - place
   - location

@@ -4,7 +4,7 @@ aspects:
     amount: 1
   - name: "relevance: lantern"
     amount: 1
-  - name: 
+  - name: incident
     amount: 1
 tags:
   - sundries

@@ -11,6 +11,7 @@ aspects:
   - name: "mystery: heart"
     amount: 8
   - name: "written in killasimi"
+    amount: 1
 tags:
   - book
   - actionable

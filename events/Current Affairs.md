@@ -1,3 +1,7 @@
+---
+tags:
+  - misc
+---
 # Description
 Current Affairs
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - misc
+---
 # Description
 An Offer from Oriflamme's
 

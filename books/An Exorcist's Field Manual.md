@@ -5,7 +5,7 @@ aspects:
   - name: thing
     amount: 1
   - name: "tally price"
-    amount": 1
+    amount: 1
   - name: "mystery: moon"
     amount: 6
   - name: readable
