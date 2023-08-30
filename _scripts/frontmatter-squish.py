@@ -167,8 +167,10 @@ def validate_aspects():
         results.append(validation_copy(f))
 
     failed = [x for x in results if x['state'] == 'failed']
+    print('\n\n')
     for e in failed:
         print(str(e))
 
 if __name__ == '__main__':
-    validate_aspects()
+    #validate_aspects()
+    convert_all_aspects_everywhere_to_tags()
