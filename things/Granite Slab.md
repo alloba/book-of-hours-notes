@@ -24,3 +24,4 @@ Long-cold volcano-blood.
 ## Locations
 - crafting 
 	- [[A Walk on the Moor]] - winter
+- [[Hermit Cell]]

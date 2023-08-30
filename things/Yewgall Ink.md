@@ -21,6 +21,7 @@ Yewgall Ink
 A variant of iron gall ink, particularly difficult to erase; a minor Ink of Power.
 ## Locations
 - [[Watchman's Tower - First Floor]]
+- [[Hermit Cell]]
 - Crafting
 	- [[Rites of the Root]] + [[Nectar]](5)
 	- [[Leaves & Thorns]] + [[Nectar]](5)

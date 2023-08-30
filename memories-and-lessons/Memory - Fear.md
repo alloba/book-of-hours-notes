@@ -26,3 +26,4 @@ Memory: Fear
 - failed study
 - [[Black Nephrite]]
 - [[Stolen Histories]]
+- [[The Encircling Tantra]]

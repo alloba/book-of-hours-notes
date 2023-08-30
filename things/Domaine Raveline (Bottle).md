@@ -26,3 +26,5 @@ The Ravelines abandoned their lands, and yet, someone is still making this wine.
 ## Locations
 - [[Wine Cellar]]
 - [[Pantry]]
+- [[Hermit Cell]]
+- [[Smuggler's Den]]

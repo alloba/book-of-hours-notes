@@ -22,3 +22,5 @@ Lesson: Sights & Sensations
 I've gained more understanding of Sights & Sensations. [Use this card with Consider.]
 ## Sources
 - [[Travelling at Night, Vol 2]]
+- [[Glimmerings]]
+- [[The Mirror of Melancthe]]

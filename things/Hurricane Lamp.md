@@ -22,3 +22,4 @@ Proof against storm-wind and moth-swoop alike.
 ## Locations
 - [[Scent Garden]]
 - [[Stores]]
+- [[Smuggler's Den]]

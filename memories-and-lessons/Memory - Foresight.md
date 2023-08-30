@@ -23,3 +23,6 @@ Memory: Foresight
 - [[Journal of Walter Dewulf]]
 - [[The War of the Roads, 1451-1551]]
 - [[The Incandescent Tantra]]
+- [[The Carmine Petal - Revised]]
+- [[The Admonitory Automata Project]]
+- [[The Book of Dissolution]]

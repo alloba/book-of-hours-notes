@@ -26,3 +26,5 @@ What happens when you boil and scrape us down to our utter fundamentals.
 ## Locations
 - [[Examination Room]]
 - [[Pantry]]
+- crafting
+	- [[Wolf Stories]] + [[Moon]](10) + [[Remains]]

@@ -25,3 +25,4 @@ Dawnlion Coffee (Cup)
 Coffee from beyond the great deserts.
 ## Locations
 - [[Servant's Quarters - North]]
+- [[Staff Room]]

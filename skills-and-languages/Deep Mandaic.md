@@ -16,7 +16,7 @@ tags:
   - skill
 ---
 
-# Mandaic
+# Deep Mandaic
 
 ## Description
 Mandaic

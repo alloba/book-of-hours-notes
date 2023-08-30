@@ -22,3 +22,4 @@ Peace after trouble.
 - [[The World Despoil'd]]
 - [[The Orchid Transfigurations - Noon]]
 - [[The Geminad I]]
+- [[The Mirror of Melancthe]]

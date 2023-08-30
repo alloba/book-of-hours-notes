@@ -17,3 +17,4 @@ Severe Chair
 Unfussy marsh-green upholstery.
 ## Locations
 - [[Servant's Quarters - North]]
+- [[Staff Room]]

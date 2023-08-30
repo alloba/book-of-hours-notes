@@ -31,3 +31,5 @@ A dry, aromatic white wine.
 - [[Pantry]]
 - [[Bag of Tricks]]
 - [[Stores]]
+- [[Hermit Cell]]
+- [[Smuggler's Den]]

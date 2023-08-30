@@ -21,3 +21,4 @@ Forsaken Packages
 They plead mutely to be opened. No-one else ever cared to.
 ## Locations
 - [[Contraband Flotsam]]
+- [[Smuggler's Den]]

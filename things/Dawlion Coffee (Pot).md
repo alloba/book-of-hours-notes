@@ -24,3 +24,4 @@ tags:
 ## Description
 
 ## Locations
+- [[Staff Room]]

@@ -18,3 +18,5 @@ Memory: Contradiction
 Something uncomfortable.
 ## Sources
 - [[An Exorcist's Field Manual]]
+- [[Observations on the Peacock Door]]
+- [[De Bellis Murorum]]

@@ -2,6 +2,8 @@
 aspects: 
   - name: "visitor: the affair of 'apollo and marsyas'"
     amount: 1
+  - name: "visitor: the affair of grunewald provision"
+    amount: 1
   - name: visitor
     amount: 1
   - name: "understands aramaic"
@@ -24,6 +26,8 @@ tags:
 ---
 # Mr Peter Agdistis
 ## Description
+Mr Peter Agdistis
 
+Musician, mystic, impresario. Agdistis was a dancer once. One cannot see him without knowing it. The wound in his thigh keeps him from the stage; but his every movement still has the cadence of a prayer. 
 ## Sources
 

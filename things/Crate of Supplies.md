@@ -21,3 +21,4 @@ Crate of Supplies
 Something set helpfully aside.
 ## Locations
 - [[Windlit Gallery]]
+- [[Smuggler's Den]]

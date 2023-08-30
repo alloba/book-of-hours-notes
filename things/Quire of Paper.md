@@ -25,3 +25,4 @@ Creamy-smooth, eagerly awaiting ink.
 - [[Westcott Room]]
 - [[Motley Tower - Regensburg Room]]
 - [[Chapter House]]
+- [[Hermit Cell]]

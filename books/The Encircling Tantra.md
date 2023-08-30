@@ -15,8 +15,11 @@ aspects:
 tags:
   - book
   - actionable
-lesson: 
-memory: 
+  - studied
+lesson:
+  - "lesson: horns & ivories"
+memory:
+  - "memory: fear"
 ---
 
 # The Encircling Tantra
@@ -26,5 +29,10 @@ The Encircling Tantra
 
 The explorer and entrepreneur T. Everett Duplantis once attempted to plunder the temple where this text was held. His fate is recorded in an appendix.
 ### Partial Study Description
+I'm Reading...
 
+The Encircling Tantra speaks of the Serpent Gate, that hungry portal sometimes known as the Spider's Door, which is sacred to the Mother of Ants, through which the Great Hooded Princes pass. 
 ### Study Complete Description
+I've Read...
+
+The tantra includes an invocation but cautions, helpfully, that the invocation is of insufficient power to reach the Serpent Gate from the Hunter's Gate. 'A road which has no destination is itself a destination,' it adds helpfully.

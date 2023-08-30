@@ -20,3 +20,6 @@ Cheerful Ditty
 A rousing little rhythm.
 ## Sources
 - [[Perugian Diaries]]
+- [[The Instruments of the Heart]]
+- crafting
+	- [[Strings & Songs]] + [[Heart]](5) 

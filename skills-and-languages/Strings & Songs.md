@@ -21,3 +21,7 @@ Strings & Songs
 
 The harmonies of the lower skies are here reproduced.
 ## Tree of Wisdom Entries
+### Birdsong VI
+The Round
+
+There are no words in the song of birds; so birdsong had no beginning and will have no end.

@@ -23,3 +23,5 @@ I've gained more understanding of Inks of Containment. [Use this card with Consi
 ## Sources
 - [[Oblations in Iron]]
 - [[Annals of St Brandans]]
+- [[Ettery After]]
+- [[The Black Book of Britanny]]

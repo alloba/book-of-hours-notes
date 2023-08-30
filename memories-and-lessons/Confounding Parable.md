@@ -21,6 +21,9 @@ Confounding Parable
 ## Sources
 - crafting
 	- [[Preliminal Meter]] + [[Rose]](5)
+	- [[Sky Stories]] + [[Rose]](5)
 - study of certain books 
 	- [[The Other Line]]
 	- [[Letters from a Fugitive]]
+	- [[The Locksmith's Dream - Incursus]]
+	- [[It is Written]]

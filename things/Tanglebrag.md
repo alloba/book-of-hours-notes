@@ -27,3 +27,4 @@ A clot of wood, leaves and feathers that might draw the attention of the entity 
 - [[Motley Tower - Dispensary]]
 - crafting
 	- [[Rites of the Root]] + [[Moth]](5)
+	- [[Resurgences & Emergences]] + [[Moth]](5)

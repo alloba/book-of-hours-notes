@@ -26,3 +26,5 @@ Locations:
 - [[Pale Chamber]] - Fire always accepts gifts. And boils the kettle for tea.
 - [[Librarians's Quarters]] - Even when the wind buffets at the windows, the fire in the hearth keeps the room cosy.
 - [[Refectory]] - The fire mutters companionably in the grate.
+- [[Hermit Cell]] - Hermit's Stove - Grumbling like an old man.
+- [[Staff Room]] - Staff-Room Stove - A quiet little furnace.

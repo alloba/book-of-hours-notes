@@ -22,3 +22,4 @@ Lesson: Watchman's Paradoxes
 I've gained more understanding of Watchman's Paradoxes. [Use this card with Consider.]
 ## Sources
 - [[The Locksmith's Dream - Stole Reflections]]
+- [[The Known-Unknown Tantra]]

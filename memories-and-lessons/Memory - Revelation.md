@@ -19,3 +19,4 @@ Some truths come to us from outside, or above.
 - [[Gospel of Nicodemus]]
 - [[The Locksmith's Dream - Stole Reflections]]
 - [[Colours in the Liver]]
+- [[The Known-Unknown Tantra]]

@@ -28,3 +28,5 @@ Home-made flower wine.
 - [[Kitchen]]
 - [[Wine Cellar]]
 - [[Pantry]]
+- [[Hermit Cell]]
+- [[Smuggler's Den]]

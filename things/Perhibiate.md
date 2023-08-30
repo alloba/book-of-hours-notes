@@ -28,4 +28,5 @@ Which binds to the one whose name is there written. A minor Ink of Power.
 ## Locations
 - [[Motley Tower - Illopoly's Nook]]
 - [[Chapter House]]
+- [[Hermit Cell]]
 - crafting - [[Weaving & Knotworking]] + [[Heart]](5)

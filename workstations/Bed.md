@@ -27,6 +27,7 @@ Stout, rustic, snug.  [Use a matching Soul card to move your belongings in and m
 - [[Violet Chamber]] - Guest Bed: Violet Chamber - Six generations of Dewulf heirs were born in this room. It would have been seven, but Hafren Waters had the ill grace to give birth to Baron Walter in (family legend has it) a cow-byre outside Kerisham.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 - [[Pale Chamber]] - Guest Bed: Pale - Seven generations of Dewulfs slept here… as did Kitty Mazarine, who never cared much for tradition.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 - [[Librarians's Quarters]] - Guest Bed: Librarian's Quarters - Librarians are prone to back-ache, and the mattress here has always been a hard one, even in Westcott's time.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
+- [[Hermit Cell]] - Guest Bed: Hermit - A snug nook where absolutely nobody will bother the occupant. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 
 ## Info
 

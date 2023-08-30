@@ -26,3 +26,5 @@ Distilled from apples in the oldest forest of the western Continent.
 ## Locations
 - [[Kitchen]]
 - [[Wine Cellar]]
+- [[Hermit Cell]]
+- [[Smuggler's Den]]

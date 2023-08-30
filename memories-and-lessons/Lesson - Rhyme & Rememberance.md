@@ -23,3 +23,4 @@ I've gained more understanding of Rhyme & Remembrance. [Use this card with Consi
 ## Sources
 - [[Lady Eva's Repose]]
 - [[The Five Letters on Memory]]
+- [[Exercises in the Continuity of Self]]

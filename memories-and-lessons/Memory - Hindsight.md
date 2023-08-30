@@ -22,3 +22,7 @@ Some things we can only really understand when they're gone.
 - [[The Sweet Bones]], by providing [[Ereb]]
 - failed study
 - [[Oblations in Iron]]
+- [[Ettery After]]
+- [[The Hissing Key]]
+- [[Exercises in the Continuity of Self]]
+- [[Nyn's Cages (Bruges Text, Illuminated)]]

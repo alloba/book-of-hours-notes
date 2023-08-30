@@ -22,3 +22,4 @@ Lesson: Sickle & Eclipse
 I've gained more understanding of Sickle & Eclipse. [Use this card with Consider.]
 ## Sources
 - [[Exorcism for Girls]]
+- [[Observations on the Peacock Door]]

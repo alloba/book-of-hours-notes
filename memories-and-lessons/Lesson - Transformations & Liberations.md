@@ -22,3 +22,4 @@ Lesson: Transformations & Liberations
 I've gained more understanding of Transformations & Liberations. [Use this card with Consider.]
 ## Sources
 - [[The Incandescent Tantra]]
+- [[The Book of Dissolution]]

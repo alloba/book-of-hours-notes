@@ -1,6 +1,14 @@
 ---
 aspects: 
+  - name: knock
+    amount: 1
+  - name: sky
+    amount: 1
   - name: memory
+    amount: 1
+  - name: persistent
+    amount: 1
+  - name: lesson
     amount: 1
 tags:
   - 
@@ -15,3 +23,4 @@ I've gained more understanding of Glassblowing & Vesselcrafting. [Use this card 
 ## Sources
 - [[On Imperfections]]
 - [[Advice on Containment]]
+- [[On What is Contained By Silver]]

@@ -25,3 +25,5 @@ Every choice has its shadow.
 - [[Annals of St Brandans]]
 - [[The Five Letters on Memory]]
 - [[The Fallen Cross]]
+- [[On the White]]
+- [[The Ivory Book]]

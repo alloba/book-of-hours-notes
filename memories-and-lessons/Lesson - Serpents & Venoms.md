@@ -22,3 +22,4 @@ Lesson: Serpents & Venoms
 I've gained more understanding of Serpents & Venoms. [Use this card with Consider.]
 ## Sources
 - [[The Republic of Teeth]]
+- [[The Hissing Key]]
