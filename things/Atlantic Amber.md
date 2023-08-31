@@ -22,3 +22,4 @@ Sunset's colours, pine's blood.
 ## Locations
 - [[Deep Well Descent]]
 - [[Narthex]]
+- [[Gullscry Tower - Summit]]

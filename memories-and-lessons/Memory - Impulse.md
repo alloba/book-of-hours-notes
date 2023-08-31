@@ -24,3 +24,5 @@ It doesn't exactly make sense - but I understand it anyway.
 - [[Ambrosial!]]
 - [[Ud Rocashaas]]
 - [[The Locksmith's Dream - Trespasses]]
+- [[The Most Sorrowful End of the Lady Nonna]]
+- [[A True and Complete Accounting of the Asclepian Mysteries of the Roots of the House]]

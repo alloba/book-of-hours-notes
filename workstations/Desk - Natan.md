@@ -23,7 +23,7 @@ challenges:
   - "keeper-level challenges"
 ---
 
-# Desk - Nathan
+# Desk - Natan
 
 ## Description
 Desk: Natan

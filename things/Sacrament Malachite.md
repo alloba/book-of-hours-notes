@@ -22,3 +22,5 @@ Back in the Dawn Period, the Sisterhood of the Triple Knot used this in the rite
 ## Locations
 - [[Infirmary]]
 - [[Fludd Gallery]]
+- crafting
+	- [[Leaves & Thorns]] + [[Pyrus Auricalcinus]] + [[Nectar]](15)

@@ -21,3 +21,4 @@ Potted Avidity
 A lush and hungry ornament.
 ## Locations
 - [[Librarians's Quarters]]
+- [[Gullscry Tower - Summit]]

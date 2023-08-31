@@ -27,3 +27,5 @@ Something fits just right.
 - [[On Imperfections]]
 - [[Advice on Containment]]
 - [[On What is Contained By Silver]]
+- [[The Time of Division]]
+- [[The Rapture of Forculus]]

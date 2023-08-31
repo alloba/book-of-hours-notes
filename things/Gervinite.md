@@ -23,3 +23,5 @@ Gervinite
 An alloy equivalent in some respects to the clockmaker's invar - but instead of a constant weight, it retains the same origin in every history.
 ## Locations
 - [[Our Lady Beneath]]
+- crafting 
+	- [[Lockworks & Clockworks]] + [[Knock]](10) + [[Glass]]

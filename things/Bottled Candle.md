@@ -24,3 +24,4 @@ An admirable combination of two utterly disparate elements. Quiet genius.
 ## Locations
 - [[Stores]]
 - [[Smuggler's Den]]
+- [[Cell - Adepts]]

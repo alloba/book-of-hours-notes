@@ -13,7 +13,6 @@ aspects:
 tags:
   - book
   - actionable
-  - "phonograph record"
 lesson:
   - "lesson: "
 memory:

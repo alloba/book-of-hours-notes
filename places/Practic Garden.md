@@ -7,7 +7,7 @@ tags:
   - location
 ---
 
-# Practice Garden
+# Practic Garden
 
 ## Description
 Practic Garden

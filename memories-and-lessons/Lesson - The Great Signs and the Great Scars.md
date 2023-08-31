@@ -22,3 +22,4 @@ Lesson: The Great Signs and the Great Scars
 I've gained more understanding of The Great Signs and the Great Scars. [Use this card with Consider.]
 ## Sources
 - [[Cardea's Delights]]
+- [[The Rapture of Forculus]]

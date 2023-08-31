@@ -4,7 +4,7 @@ aspects:
     amount: 1
   - name: scale
     amount: 2
-  - name: memory
+  - name: skill
     amount: 1
   - name: birdsong
     amount: 1

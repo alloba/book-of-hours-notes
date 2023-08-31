@@ -1,0 +1,24 @@
+---
+aspects: 
+  - name: edge
+    amount: 1
+  - name: lantern
+    amount: 1
+  - name: memory
+    amount: 1
+  - name: persistent
+    amount: 1
+  - name: lesson
+    amount: 1
+tags:
+  - 
+---
+
+# Lesson - Auroral Contemplations
+
+## Description
+Lesson: Auroral Contemplations
+
+I've gained more understanding of Auroral Contemplations. [Use this card with Consider.]
+## Sources
+- [[The Rose of Waznei]]

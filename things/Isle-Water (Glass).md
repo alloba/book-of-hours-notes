@@ -27,3 +27,4 @@ From Brancrug's deep springs.
 - [[Long Tower - Solomon's Quarters]]
 - [[Servant's Quarters - North]]
 - [[Gaol Hall]]
+- [[Cell - Adepts]]

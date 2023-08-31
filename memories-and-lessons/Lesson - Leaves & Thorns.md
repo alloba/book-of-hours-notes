@@ -22,3 +22,4 @@ Lesson: Leaves & Thorns
 I've gained more understanding of Leaves & Thorns. [Use this card with Consider.]
 ## Sources
 - [[Three Flowers Hath the Tree]]
+- [[An Impertinent Vitulation]]

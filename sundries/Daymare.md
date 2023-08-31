@@ -6,6 +6,8 @@ aspects:
     amount: 3
   - name: "visitor: the affair of the absent friend"
     amount: 1
+  - name: "visitor: the affair of the messenger's casket"
+    amount: 1
   - name: "understands latin"
     amount: 1
   - name: occupant

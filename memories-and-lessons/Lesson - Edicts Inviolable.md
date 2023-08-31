@@ -23,3 +23,4 @@ I've gained more understanding of Edicts Inviolable. [Use this card with Conside
 ## Sources
 - [[What does not Bark]]
 - [[Experiment Beyond Sight]]
+- [[The Three and the Three (Vatican Manuscript)]]

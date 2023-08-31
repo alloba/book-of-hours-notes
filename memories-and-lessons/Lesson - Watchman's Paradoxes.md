@@ -23,3 +23,4 @@ I've gained more understanding of Watchman's Paradoxes. [Use this card with Cons
 ## Sources
 - [[The Locksmith's Dream - Stole Reflections]]
 - [[The Known-Unknown Tantra]]
+- [[Prophecies of Glory]]

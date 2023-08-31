@@ -22,3 +22,4 @@ You just know, you know?
 - [[The Tripled Heart]]
 - [[The Orchid Transfigurations - A Feast]]
 - [[The Concursum Diaries]]
+- [[The Three and the Three (Vatican Manuscript)]]

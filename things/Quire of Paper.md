@@ -26,3 +26,4 @@ Creamy-smooth, eagerly awaiting ink.
 - [[Motley Tower - Regensburg Room]]
 - [[Chapter House]]
 - [[Hermit Cell]]
+- [[Cell - Adepts]]

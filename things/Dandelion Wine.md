@@ -30,3 +30,4 @@ Home-made flower wine.
 - [[Pantry]]
 - [[Hermit Cell]]
 - [[Smuggler's Den]]
+- [[Gullscry Tower - Summit]]

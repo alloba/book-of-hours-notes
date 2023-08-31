@@ -21,3 +21,6 @@ Some truths come to us from outside, or above.
 - [[Colours in the Liver]]
 - [[The Known-Unknown Tantra]]
 - [[Experiment Beyond Sight]]
+- [[The Rose of Waznei]]
+- [[Prophecies of Glory]]
+- [[Letters to My Successor]]

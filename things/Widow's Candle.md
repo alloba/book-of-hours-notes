@@ -29,3 +29,4 @@ Light it in remembrance.
 - [[Servant's Quarters - North]]
 - [[Narthex]]
 - [[Our Lady Beneath]]
+- [[Whispering Stair]]

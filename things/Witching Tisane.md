@@ -25,4 +25,5 @@ Witching Tisane
 ## Locations
 - [[Librarians's Quarters]]
 - Crafting
-	- [[Desk - Eva]] - [[Grail]](5) + [[Desires & Dissolutions]]
+	- [[Grail]](5) + [[Desires & Dissolutions]]
+	- [[Witching Tisane]] + [[Grail]](5)
