@@ -22,5 +22,6 @@ Sea-spray, depth-sorrow.
 - [[Journal of Thomas Dewulf]]
 - [[The Larquebine Codex]]
 - [[The Crossing to Noon]]
+- [[A Pale Lady and a Prince of Wines]]
 - crafting
 	- [[Sea's Edge]]

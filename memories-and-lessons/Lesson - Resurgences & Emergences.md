@@ -23,3 +23,4 @@ I've gained more understanding of Resurgences & Emergences. [Use this card with 
 ## Sources
 - [[The Orchid Transfigurations - A Birth]]
 - [[Colours in the Liver]]
+- [[Kitling Ripe and the Moldywarp's Grave (And Other Stories)]]

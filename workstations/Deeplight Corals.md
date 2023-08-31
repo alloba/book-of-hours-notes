@@ -8,19 +8,19 @@ aspects:
     amount: 1
   - name: moon
     amount: 1
-slots: 
+slots:
   - soul
   - skill
   - memory
   - other
-tags: 
+tags:
   - workstation
   - actionable
-challenges: 
- - "prentice-level challenges"
- - "scholar-level challenges"
- - "keeper-level challenges"
- - "evolve via bosk"
+challenges:
+  - "prentice-level challenges"
+  - "scholar-level challenges"
+  - "keeper-level challenges"
+  - "evolve via bosk"
 ---
 
 # Deeplight Corals
