@@ -23,3 +23,4 @@ Houndsgall
 Books written in Houndsgall are more likely to return to their owner, or one to whom they have been legitimately sold. An Ink of Containment.
 ## Locations
 - [[Reading Room]]
+- [[Spire]]

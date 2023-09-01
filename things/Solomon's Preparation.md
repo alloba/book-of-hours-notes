@@ -29,3 +29,4 @@ Solomon Husher would take this every night without fail before sleep, to close h
 - [[Gaol Cellar]]
 - crafting
 	- [[Inks of Containment]] + [[Winter]](10) +[[Flower]]
+	- [[Maggephene Mysteries]] + [[Moon]](10) + [[Flower]]

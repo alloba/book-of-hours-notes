@@ -32,5 +32,6 @@ Craft: Chronsichord
 When a chronsicord is completed, it is fully wound, for the first and only time..
 
 ## Locations
+- [[Ironclad Casket]]
 - crafting
 	- [[Lockworks & Clockworks]] + [[Gervinite]] + [[Knock]](15)

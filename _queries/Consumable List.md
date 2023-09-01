@@ -11,7 +11,10 @@ let working_set = items
 	.filter(x => x.aspects)
 	.filter(x => x.aspects
 				.map(y => y.name)
-				.some(z => ['beverage', 'sustenance', 'tool', 'memory'].includes(z)) 
+				.some(z => [
+					'beverage', 'sustenance', 
+					'tool', 'memory'
+				].includes(z)) 
 	)
 let containsAspects = (item, valids) => {
 	if(! item.aspects) return false

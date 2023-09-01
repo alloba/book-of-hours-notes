@@ -26,3 +26,4 @@ Serpent-Milk
 It does look almost like milk, and it is drinkable, but don't give it to cats or babies.
 ## Locations
 - [[Infirmary]]
+- [[Scarred Casket]]
