@@ -24,3 +24,4 @@ Some truths come to us from outside, or above.
 - [[The Rose of Waznei]]
 - [[Prophecies of Glory]]
 - [[Letters to My Successor]]
+- [[The Lion and the Glass]]

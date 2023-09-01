@@ -16,3 +16,4 @@ A peculiar pear, with coppery skin that barely dints under the pressure of finge
 ## Locations
 - crafting
 	- [[Practic Garden]] - [[Garden]] - [[Numa]]
+	- [[Coil & Chasm]] + [[Wood]] + [[Nectar]](10)

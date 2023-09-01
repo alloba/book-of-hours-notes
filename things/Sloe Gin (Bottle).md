@@ -3,7 +3,7 @@ aspects:
   - name: grail
     amount : 1
   - name: nectar
-    amount : 1
+    amount : 2
   - name: thing
     amount : 1
   - name: liquid
@@ -25,3 +25,4 @@ Sloe Gin (Bottle)
 Home-made berry gin.
 ## Locations
 - [[Pantry]]
+- [[Gaol Cellar]]

@@ -23,3 +23,4 @@ Beeswax Candle
 Simple and bright.
 ## Locations
 - [[Windlit Gallery]]
+- [[Hidden Stair]]

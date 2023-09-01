@@ -21,3 +21,4 @@ Eternally useful, though not for most librarians most of the time.
 - [[Foundry]]
 - [[Stores]]
 - [[Hermit Cell]]
+- [[Gaol Cellar]]

@@ -8,7 +8,11 @@ aspects:
     amount: 1
   - name: moon
     amount: 1
-slots: 
+slots:
+  - soul
+  - skill
+  - memory
+  - other
 tags:
   - workstation
   - actionable

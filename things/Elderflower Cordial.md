@@ -24,3 +24,4 @@ Wrung from sweet white flowers.
 ## Locations
 - [[Pantry]]
 - [[Gaol Kitchen]]
+- [[Gaol Cellar]]

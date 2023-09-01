@@ -27,3 +27,5 @@ Iotic Essence
 - [[Motley Tower - Dispensary]]
 - crafting
 	- [[Spices & Savours]] + [[Forge]](10) + [[Liquid]]
+	- [[Meniscate Reflections]] + [[Forge]](10) + [[Liquid]]
+	- [[Transformations & Liberations]] + [[Forge]](10) + [[Liquid]]

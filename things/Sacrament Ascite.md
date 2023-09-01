@@ -22,4 +22,4 @@ Back in the Dawn Period, the Sisterhood of the Triple Knot used this in the rite
 ## Locations
 - [[Fludd Gallery]]
 - crafting
-	- [[Door & Wall]] + [[Knock]](10) + [[Glassfinger Toxin]]
+	- [[Door & Wall]] + [[Knock]](15) + [[Glassfinger Toxin]]

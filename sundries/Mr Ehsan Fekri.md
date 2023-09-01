@@ -6,6 +6,8 @@ aspects:
     amount: 1
   - name: "visitor: the affair of the grunewald provision"
     amount: 1
+  - name: "visitor: the affair of the claw and the clouds"
+    amount: 1
   - name: visitor
     amount: 1
   - name: "understands aramaic"

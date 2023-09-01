@@ -30,3 +30,4 @@ Light it in remembrance.
 - [[Narthex]]
 - [[Our Lady Beneath]]
 - [[Whispering Stair]]
+- [[Gaol Cellar]]

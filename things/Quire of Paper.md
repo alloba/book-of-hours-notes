@@ -27,3 +27,4 @@ Creamy-smooth, eagerly awaiting ink.
 - [[Chapter House]]
 - [[Hermit Cell]]
 - [[Cell - Adepts]]
+- [[Crucible Tower - Governor's Office]]

@@ -12,12 +12,12 @@ aspects:
     amount : 10
   - name: "written in ramsund"
     amount : 1
-tags: 
+tags:
   - book
   - actionable
-lesson: 
+lesson:
   - "lesson: "
-memory: 
+memory:
   - "memory: "
 ---
 

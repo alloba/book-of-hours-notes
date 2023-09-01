@@ -24,3 +24,4 @@ A blemish left on a page (or a skin) by a careful incision (or a judicious sting
 - crafting 
 	- [[Serpents & Venoms]] + [[Moon]](5)
 	- [[Desires & Dissolutions]] + [[Moon]](5)
+	- [[Wolf Stories]] + [[Moon]](5)

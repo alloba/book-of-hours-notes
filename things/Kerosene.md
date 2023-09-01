@@ -21,3 +21,4 @@ Kerosene
 For the brightest flame.
 ## Locations
 - [[Stores]]
+- [[Gaol Cellar]]

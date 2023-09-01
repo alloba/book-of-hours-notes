@@ -15,3 +15,4 @@ The librarian Natalia Brulleau learnt this powerful - if unpleasant - technique 
 ## Sources
 - crafting 
 	- [[Purifications & Exaltations]] + [[Sky]](5)
+	- [[Auroral Contemplations]] + [[Scale]](5)

@@ -21,3 +21,4 @@ Paraffin
 For a bright flame.
 ## Locations
 - [[Stores]]
+- [[Gaol Cellar]]

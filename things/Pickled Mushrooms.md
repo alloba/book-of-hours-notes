@@ -24,3 +24,4 @@ You'll learn to like them.
 ## Locations
 - [[Kitchen]]
 - [[Pantry]]
+- [[Gaol Cellar]]

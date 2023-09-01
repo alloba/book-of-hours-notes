@@ -20,3 +20,5 @@ A chitty worth an additional year of life, scrupulously obtained through careful
 ## Locations
 - [[Box of Rarities]]
 - [[Vestibulum Transitus]]
+- crafting
+	- [[Snow Stories]] + [[Essential Periost]] + [[Winter]](15)

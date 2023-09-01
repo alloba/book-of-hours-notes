@@ -3,7 +3,7 @@ aspects:
   - name: lantern
     amount : 1
   - name: moth
-    amount : 1
+    amount : 2
   - name: nectar
     amount : 1
   - name: scale

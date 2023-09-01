@@ -25,3 +25,4 @@ Alive to every draught and spark.
 - [[Solarium]]
 - crafting
 	- [[Sights & Sensations]] + [[Sky]](5)
+	- [[Furs & Feathers]] + [[Sky]](5)

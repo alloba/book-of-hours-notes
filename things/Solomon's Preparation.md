@@ -26,3 +26,6 @@ Solomon Husher would take this every night without fail before sleep, to close h
 ## Locations
 - [[Foundry]]
 - [[Fludd Gallery]]
+- [[Gaol Cellar]]
+- crafting
+	- [[Inks of Containment]] + [[Winter]](10) +[[Flower]]

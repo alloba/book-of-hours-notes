@@ -24,3 +24,4 @@ The smell of catwink puts off vermin; but it is very difficult to read in sunlig
 ## Locations
 - [[Motley Tower - Dispensary]]
 - [[Map Room]]
+- [[Crucible Tower - Governor's Office]]

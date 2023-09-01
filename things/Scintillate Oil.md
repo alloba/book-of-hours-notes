@@ -22,3 +22,4 @@ Cater & Hero's Finest Scintillate Oil.
 ## Locations
 - [[Crate of Supplies]]
 - [[Stores]]
+- [[Gaol Cellar]]

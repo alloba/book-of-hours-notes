@@ -27,3 +27,4 @@ Memory: Foresight
 - [[The Admonitory Automata Project]]
 - [[The Book of Dissolution]]
 - [[De Horis Book 2]]
+- [[Bancroft Diaries]]

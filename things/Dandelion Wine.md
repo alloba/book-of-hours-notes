@@ -5,7 +5,7 @@ aspects:
   - name: lantern
     amount: 1
   - name: nectar
-    amount: 1
+    amount: 2
   - name: liquid
     amount: 1
   - name: beverage
@@ -31,3 +31,4 @@ Home-made flower wine.
 - [[Hermit Cell]]
 - [[Smuggler's Den]]
 - [[Gullscry Tower - Summit]]
+- [[Gaol Cellar]]

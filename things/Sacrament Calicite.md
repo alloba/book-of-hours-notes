@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: heart
+  - name: grail
     amount : 6
   - name: thing
     amount : 1
@@ -21,3 +21,5 @@ Sacrament Calicite
 Back in the Dawn Period, the Sisterhood of the Triple Knot used this in the rites of the Red Grail.
 ## Locations
 - [[Fludd Gallery]]
+- crafting 
+	- [[Leaves & Thorns]] + [[Rubywise Ruin]] + [[Grail]](15)

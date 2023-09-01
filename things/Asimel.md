@@ -23,3 +23,4 @@ Asimel
 A silver ink that can only be made and used in dreams. An Ink of Revelation.
 ## Locations
 - [[Gullscry Loggia]]
+- [[Cell - QuestionMark]]

@@ -8,7 +8,11 @@ aspects:
     amount: 1
   - name: knock
     amount: 1
-slots: 
+slots:
+  - soul
+  - skill
+  - memory
+  - other
 tags:
   - workstation
   - actionable

@@ -22,3 +22,4 @@ Lesson: Glaziery & Lightsmithing
 I've gained more understanding of Glaziery & Lightsmithing. [Use this card with Consider.]
 ## Sources
 - [[The Locksmith's Dream - Incursus]]
+- [[Memory - Revelation]]

@@ -23,5 +23,6 @@ Amethyst Ampoule
 Were it released from the glass, it would be quite another colour.
 ## Locations
 - [[Infirmary]]
+- [[Gaol Cellar]]
 - crafting 
 	- [[Lockworks & Clockworks]] + [[Knock]](5)

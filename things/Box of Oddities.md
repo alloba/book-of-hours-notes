@@ -22,3 +22,4 @@ A tiny treasury of forgotten things. Perhaps there's a real oddity in here somew
 ## Locations
 - [[Foundry]]
 - [[Pantry]]
+- [[Gaol Cellar]]

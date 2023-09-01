@@ -8,7 +8,12 @@ aspects:
     amount: 1
   - name: scale
     amount: 1
-slots: 
+slots:
+  - soul
+  - skill
+  - memory
+  - papers
+  - with
 tags:
   - workstation
   - actionable

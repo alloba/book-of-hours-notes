@@ -33,3 +33,4 @@ A dry, aromatic white wine.
 - [[Stores]]
 - [[Hermit Cell]]
 - [[Smuggler's Den]]
+- [[Gaol Cellar]]

@@ -24,3 +24,4 @@ An elegant ornament.
 - [[Infirmary]]
 - [[Nave of the Abbey Church]]
 - [[Refectory]]
+- [[Cell - QuestionMark]]

@@ -26,3 +26,4 @@ Glassfinger Toxin
 - [[Motley Tower - Dispensary]]
 - crafting 
 	- [[Door & Wall]] + [[Knock]] (10) + [[Liquid]]
+	- [[Edicts Liminal]] + [[Knock]](10) + [[Liquid]]

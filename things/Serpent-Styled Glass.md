@@ -20,3 +20,4 @@ Carved snakes writhe down the frame. A prominent inscription reads TO THE LIBRAR
 ## Locations
 - [[Fludd Gallery]]
 - [[Motley Tower - Dispensary]]
+- [[Gaol Cellar]]
