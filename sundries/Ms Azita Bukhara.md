@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: "visitor: the affair of the abswent friend"
+  - name: "visitor: the affair of the absent friend"
     amount: 1
   - name: "visitor: the affair of 'apollo and marsyas'"
     amount: 1
