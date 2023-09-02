@@ -5,7 +5,6 @@ slots:
   - journal
 tags:
   - workstation
-  - actionable
 challenges: 
 ---
 

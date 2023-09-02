@@ -5,7 +5,6 @@ slots:
   - thing
 tags:
   - workstation
-  - actionable
 ---
 
 # Hush House Well

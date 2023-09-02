@@ -7,7 +7,6 @@ slots:
   - knowledge
 tags:
   - workstation
-  - actionable
 ---
 
 # Garden

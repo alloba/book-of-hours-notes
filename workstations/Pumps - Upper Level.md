@@ -12,7 +12,6 @@ slots:
   - metal
 tags:
   - workstation
-  - actionable
 challenges:
   - "prentice-level challenges"
 ---

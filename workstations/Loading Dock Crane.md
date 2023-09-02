@@ -4,7 +4,6 @@ slots:
   - thing
 tags:
   - workstation
-  - actionable
 challenges: 
 ---
 

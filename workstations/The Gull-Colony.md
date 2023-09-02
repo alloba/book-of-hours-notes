@@ -11,7 +11,6 @@ slots:
   - knowledge
 tags:
   - workstation
-  - actionable
 challenges: 
 ---
 

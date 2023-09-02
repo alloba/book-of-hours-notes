@@ -8,7 +8,6 @@ slots:
   - "the front room"
 tags:
   - workstation
-  - actionable
 ---
 
 # Mrs and Mr Kille

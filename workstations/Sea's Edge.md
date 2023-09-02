@@ -5,7 +5,6 @@ aspects:
 slots: 
 tags:
   - workstation
-  - actionable
 ---
 
 # Sea's Edge

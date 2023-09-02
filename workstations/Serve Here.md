@@ -4,7 +4,6 @@ slots:
   - serve
 tags:
   - workstation
-  - actionable
 ---
 
 # Serve Here

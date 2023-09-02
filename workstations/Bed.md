@@ -4,7 +4,6 @@ slots:
   - occupant
 tags:
   - workstation
-  - actionable
 ---
 
 # Bed

@@ -11,7 +11,6 @@ slots:
   - knowledge
 tags:
   - workstation
-  - actionable
 ---
 
 # A Walk on the Moor
