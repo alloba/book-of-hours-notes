@@ -1,7 +1,6 @@
 ---
 aspects: 
 tags:
-  - place
   - location
 ---
 # Description

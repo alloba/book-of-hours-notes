@@ -3,7 +3,6 @@ aspects:
   - name: "out of bounds"
     amount: 1
 tags:
-  - place
   - location
 ---
 # Description

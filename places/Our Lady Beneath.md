@@ -3,7 +3,6 @@ aspects:
   - name: "dawn period"
     amount: 1
 tags:
-  - place
   - location
 ---
 

@@ -3,7 +3,6 @@ aspects:
   - name: "nocturnal period"
     amount: 1
 tags:
-  - place
   - location
 ---
 

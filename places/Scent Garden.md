@@ -3,7 +3,6 @@ aspects:
   - name: "open air" 
     amount: 1
 tags:
-  - place
   - location
 ---
 
