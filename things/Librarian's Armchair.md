@@ -6,7 +6,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Librarian's Armchair

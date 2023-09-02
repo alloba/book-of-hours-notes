@@ -20,7 +20,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Dearday Lense

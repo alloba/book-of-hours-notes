@@ -18,7 +18,6 @@ aspects:
     amount : 4
 tags:
   - thing
-  - actionable
 ---
 
 # Rubywise Ruin

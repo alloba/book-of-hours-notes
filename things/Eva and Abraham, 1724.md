@@ -6,7 +6,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Eva and Abraham, 1724

@@ -8,7 +8,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Dr Serena Blackwood

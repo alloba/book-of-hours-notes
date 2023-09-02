@@ -10,7 +10,6 @@ aspects:
     amount : 2
 tags:
   - thing
-  - actionable
 ---
 
 # The Witch-And-Sister

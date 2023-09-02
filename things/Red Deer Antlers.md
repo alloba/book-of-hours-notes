@@ -8,7 +8,6 @@ aspects:
     amount: 2
 tags:
   - thing
-  - actionable
 ---
 
 # Red Deer Antlers

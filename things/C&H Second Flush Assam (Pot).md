@@ -16,7 +16,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # C&H Second Flush Assam (Pot)

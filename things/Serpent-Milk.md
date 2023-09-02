@@ -15,7 +15,6 @@ aspects:
 
 tags:
   - thing
-  - actionable
 ---
 
 # Serpent-Milk

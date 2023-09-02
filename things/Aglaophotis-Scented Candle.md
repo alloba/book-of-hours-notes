@@ -18,7 +18,6 @@ aspects:
     amount : 2
 tags:
   - thing
-  - actionable
 ---
 
 # Aglaophotis-Scented Candle

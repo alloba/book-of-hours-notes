@@ -6,7 +6,6 @@ aspects:
     amount : 2
 tags:
   - thing
-  - actionable
 ---
 
 # Paradise Palm

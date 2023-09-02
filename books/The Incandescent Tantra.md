@@ -15,7 +15,6 @@ aspects:
 tags:
   - book
   - scroll
-  - actionable
   - studied
 lesson:
   - "lesson: transformations & liberations"

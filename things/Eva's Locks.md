@@ -12,7 +12,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Eva's Locks

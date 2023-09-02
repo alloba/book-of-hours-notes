@@ -6,7 +6,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Aspect of the Malachite - Mylissa, Queen and Palace

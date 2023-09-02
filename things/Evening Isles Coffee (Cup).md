@@ -14,7 +14,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Evening Isles Coffee (Cup)

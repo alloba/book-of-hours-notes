@@ -13,7 +13,6 @@ aspects:
 
 tags:
   - thing
-  - actionable
 ---
 
 # T.R.N Limited Drinking Cocoa (Cup)

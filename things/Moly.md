@@ -18,7 +18,6 @@ aspects:
     amount : 1
 tags:
   - thing
-  - actionable
 ---
 
 # Moly
