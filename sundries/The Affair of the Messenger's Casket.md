@@ -8,7 +8,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # The Affair of the Messenger's Casket
 ## Description

@@ -6,7 +6,6 @@ aspects:
     amount: 5
 tags:
   - sundries
-  - card
 ---
 # Gold Spintria
 ## Description

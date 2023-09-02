@@ -4,7 +4,6 @@ aspects:
     amount: 2
 tags:
   - sundries
-  - card
 ---
 # Twopence
 ## Description

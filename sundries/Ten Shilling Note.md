@@ -4,7 +4,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # Ten Shilling Note
 ## Description

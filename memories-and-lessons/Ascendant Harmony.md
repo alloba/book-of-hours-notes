@@ -15,5 +15,7 @@ tags:
 # Ascendant Harmony
 
 ## Description
-
+TBD
 ## Sources
+- crafting
+	- [[Applebright Euphonies]] + [[Sky]](10) + [[Instrument]]

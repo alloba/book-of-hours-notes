@@ -6,7 +6,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # An Old Friend's Address
 ## Description

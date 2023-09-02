@@ -1,6 +1,6 @@
 ---
 aspects: 
-  - name: 
+  - name: '?'
     amount: 1
   - name: scale
     amount: 1
@@ -8,7 +8,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # The Affair of the Claw and the Clouds
 ## Description

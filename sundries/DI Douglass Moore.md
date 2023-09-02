@@ -16,7 +16,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # DI Douglass Moore
 ## Description

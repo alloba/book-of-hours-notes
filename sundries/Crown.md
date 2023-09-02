@@ -4,7 +4,6 @@ aspects:
     amount: 60
 tags:
   - sundries
-  - card
 ---
 # Crown
 ## Description

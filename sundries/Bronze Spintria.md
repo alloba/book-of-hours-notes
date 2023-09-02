@@ -6,7 +6,6 @@ aspects:
     amount: 2
 tags:
   - sundries
-  - card
 ---
 # Bronze Spintria
 ## Description

@@ -11,7 +11,7 @@ aspects:
   - name: lesson
     amount: 1
 tags:
-  - 
+  - lesson
 ---
 
 # Lesson - Stone Stories

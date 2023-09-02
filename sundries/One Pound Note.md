@@ -4,7 +4,6 @@ aspects:
     amount: 240
 tags:
   - sundries
-  - card
 ---
 # One Pound Note
 ## Description

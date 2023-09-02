@@ -4,7 +4,6 @@ aspects:
     amount: 24
 tags:
   - sundries
-  - card
 ---
 # Florin
 ## Description

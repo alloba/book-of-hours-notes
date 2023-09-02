@@ -14,7 +14,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # Mr Fraser Strathcoyne
 ## Description

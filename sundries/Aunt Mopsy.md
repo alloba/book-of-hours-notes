@@ -18,7 +18,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # Aunt Mopsy
 ## Description

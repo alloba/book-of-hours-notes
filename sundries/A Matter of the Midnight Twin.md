@@ -8,7 +8,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # A Matter of the Midnight Twin
 ## Description

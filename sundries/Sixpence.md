@@ -4,7 +4,6 @@ aspects:
     amount: 6
 tags:
   - sundries
-  - card
 ---
 # Sixpence
 ## Description

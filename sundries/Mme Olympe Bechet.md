@@ -20,7 +20,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # Mme Olympe Bechet
 ## Description

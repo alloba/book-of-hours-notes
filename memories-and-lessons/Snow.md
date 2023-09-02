@@ -9,7 +9,7 @@ aspects:
   - name: winter
     amount: 3
 tags:
-  - 
+  - weather
 ---
 
 # Snow

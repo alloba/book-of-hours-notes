@@ -22,7 +22,6 @@ aspects:
     amount: 3
 tags:
   - sundries
-  - card
 ---
 # Mlle Margot Matutine
 ## Description

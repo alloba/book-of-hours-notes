@@ -6,7 +6,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # A Reply to the Trust
 ## Description

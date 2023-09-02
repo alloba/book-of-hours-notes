@@ -6,7 +6,6 @@ aspects:
     amount: 3
 tags:
   - sundries
-  - card
 ---
 # Tin Spintria
 ## Description

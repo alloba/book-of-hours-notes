@@ -24,7 +24,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # Ms Azita Bukhara
 ## Description

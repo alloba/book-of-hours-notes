@@ -14,7 +14,6 @@ aspects:
     amount: 4
 tags:
   - sundries
-  - card
 ---
 # Travelling Musician's Assistance
 ## Description

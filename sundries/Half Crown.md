@@ -4,7 +4,6 @@ aspects:
     amount: 30
 tags:
   - sundries
-  - card
 ---
 # Half Crown
 ## Description

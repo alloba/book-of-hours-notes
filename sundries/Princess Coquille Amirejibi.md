@@ -20,7 +20,6 @@ aspects:
     amount: 3
 tags:
   - sundries
-  - card
 ---
 # Princess Coquille Amirejibi
 ## Description

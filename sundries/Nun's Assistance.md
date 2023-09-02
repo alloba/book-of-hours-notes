@@ -14,7 +14,6 @@ aspects:
     amount: 24
 tags:
   - sundries
-  - card
 ---
 # Nun's Assistance
 ## Description

@@ -2,7 +2,6 @@
 aspects: 
 tags:
   - sundries
-  - card
 ---
 # Fleeting Remininscence
 ## Description

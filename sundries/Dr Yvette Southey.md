@@ -24,7 +24,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # Dr Yvette Southey
 ## Description

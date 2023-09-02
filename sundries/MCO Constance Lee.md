@@ -26,7 +26,6 @@ aspects:
     amount: 3
 tags:
   - sundries
-  - card
 ---
 # MCO Constance Lee
 ## Description

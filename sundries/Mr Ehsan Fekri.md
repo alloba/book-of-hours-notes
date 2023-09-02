@@ -24,7 +24,6 @@ aspects:
     amount: 3
 tags:
   - sundries
-  - card
 ---
 # Mr Ehsan Fekri
 ## Description

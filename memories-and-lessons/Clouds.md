@@ -9,8 +9,7 @@ aspects:
   - name: weather
     amount: 1
 tags:
-  - 
-
+  - weather
 ---
 
 # Clouds

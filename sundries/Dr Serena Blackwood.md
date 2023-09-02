@@ -22,7 +22,6 @@ aspects:
     amount: 1
 tags:
   - sundries
-  - card
 ---
 # Dr Serena Blackwood
 ## Description

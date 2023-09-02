@@ -13,7 +13,7 @@ aspects:
   - name: winter
     amount: 5
 tags:
-  - 
+  - weather
 ---
 
 # Nume-Brume

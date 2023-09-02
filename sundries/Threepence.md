@@ -4,7 +4,6 @@ aspects:
     amount: 3
 tags:
   - sundries
-  - card
 ---
 # Threepence
 ## Description

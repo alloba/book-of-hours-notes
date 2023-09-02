@@ -16,6 +16,9 @@ def filter_ignored_dirs(files_list: List[pathlib.Path], ignored_dirs_list: List[
     filter_files = []
     ignored_files = []
     for file in files_list:
+        if file in ignored_dirs_list:
+            ignored_files.append(file)
+            continue
         if not file.is_file():
             ignored_files.append(file)
             continue
@@ -112,6 +115,7 @@ def replace_frontmatter(file_object):
     with open(file_object, 'w') as f:
         f.write(new_total)
 
+
 def get_target_files():
     base_vault_path = '../'
     ignored_subdirectories_paths = [
@@ -135,11 +139,13 @@ def get_target_files():
     filtered_files = filter_ignored_dirs(all_files, ignored_dirs)[0]
     return filtered_files
 
+
 def convert_all_aspects_everywhere_to_tags():
     for f in get_target_files():
         if does_file_have_frontmatter(str(f.resolve())):
             print(str(f.resolve()))
             replace_frontmatter(str(f.resolve()))
+
 
 def validate_aspects():
     def validation_copy(file_object):
@@ -171,6 +177,6 @@ def validate_aspects():
     for e in failed:
         print(str(e))
 
+
 if __name__ == '__main__':
     validate_aspects()
-#    convert_all_aspects_everywhere_to_tags()
