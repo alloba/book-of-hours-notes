@@ -10,7 +10,6 @@ aspects:
     amount: 2
 tags:
   - soul
-  - card
   - chor
 ---
 

@@ -8,7 +8,6 @@ aspects:
     amount: 1
 tags:
   - soul
-  - card
   - shapt
 ---
 

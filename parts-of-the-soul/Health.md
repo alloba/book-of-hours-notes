@@ -13,7 +13,6 @@ aspects:
 tags:
   - health
   - soul
-  - card
 ---
 
 # Description

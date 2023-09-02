@@ -11,7 +11,6 @@ aspects:
 tags:
   - fet
   - soul
-  - card
 ---
 
 # Description
