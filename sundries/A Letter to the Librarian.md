@@ -11,7 +11,7 @@ tags:
 ## Description
 A Letter to the Librarian
 
-A letter to me from St Rhonwen's Trust. The Trust's connection with Hush House is probably benevolent, but persistently obscure.
+A letter to me from [[St Rhonwen's Trust]]. The Trust's connection with [[Hush House]] is probably benevolent, but persistently obscure.
 ## Sources
 - [[Post Office]]
 ## Info
