@@ -31,3 +31,5 @@ Light it in remembrance.
 - [[Our Lady Beneath]]
 - [[Whispering Stair]]
 - [[Gaol Cellar]]
+- [[Catacombs]]
+- [[Hall of Voices]]

@@ -15,10 +15,11 @@ aspects:
 tags:
   - book
   - actionable
+  - studied
 lesson:
-  - "lesson: "
+  - "lesson: sickle & eclipse"
 memory:
-  - "memory: "
+  - "numen: back into balance"
 ---
 
 # The Sky in the Scar
@@ -28,5 +29,10 @@ The Sky in the Scar
 
 Gnomic exhortations that might be described as 'emergency procedures' for the return of the travelling kinds of the Carapace Cross. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]
 ### Partial Study Description
+I'm Reading...
 
+Each page of this book except the last bears a single sign, clear and irrefutable as a gem... 
 ### Study Complete Description
+I've Read...
+
+…the final page is empty. The travelling kinds of the Carapace Cross might never return.

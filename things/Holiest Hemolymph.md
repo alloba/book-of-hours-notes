@@ -23,3 +23,4 @@ Holiest Hemolymph
 Thirza Blake claimed that she first synthesised this from her own tears. She was almost certainly lying.
 ## Locations
 - [[Motley Tower - Illopoly's Nook]]
+- [[Hall of Voices]]

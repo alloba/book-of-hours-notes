@@ -25,3 +25,4 @@ Leathy Lees
 The dark aftermath of a dark drink.
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Hall of Voices]]

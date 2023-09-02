@@ -23,3 +23,5 @@ Lambig Broceliande (Chalice)
 Distilled from apples in the oldest forest of the western Continent.
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Catacombs]]
+- [[Hall of Voices]]

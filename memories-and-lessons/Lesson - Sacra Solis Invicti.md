@@ -22,3 +22,4 @@ Lesson: Sacra Solis Invicti
 I've gained more understanding of Sacra Solis Invicti. [Use this card with Consider.]
 ## Sources
 - [[Gospel of Nicodemus]]
+- [[Shuritic Book of the Suns]]

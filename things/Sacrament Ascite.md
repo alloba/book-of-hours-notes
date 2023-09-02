@@ -21,5 +21,6 @@ Sacrament Ascite
 Back in the Dawn Period, the Sisterhood of the Triple Knot used this in the rites of the Horned-Axe.
 ## Locations
 - [[Fludd Gallery]]
+- [[Catacombs]]
 - crafting
 	- [[Door & Wall]] + [[Knock]](15) + [[Glassfinger Toxin]]

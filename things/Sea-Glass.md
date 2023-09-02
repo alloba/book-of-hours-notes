@@ -23,3 +23,4 @@ Sea-Glass
 Smooth as an egg, frosted like a winter window.
 ## Locations
 - [[Narthex]]
+- [[Catacombs]]

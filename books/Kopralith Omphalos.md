@@ -13,10 +13,11 @@ aspects:
 tags:
   - book
   - actionable
+  - studied
 lesson:
-  - "lesson: "
+  - "lesson: weaving & knotworking"
 memory:
-  - "memory: "
+  - "numen: weaving the world"
 ---
 
 # Kopralith Omphalos
@@ -26,5 +27,10 @@ Kopralith Omphalos
 
 What is this? A tufted fossil of silken fibre, big as a child. [This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]
 ### Partial Study Description
+I'm Reading...
 
+ Something consumed, and something was consumed. If we interpret its interweavings, we might understand. 
 ### Study Complete Description
+I've Read...
+
+The meaning of this object isn't something that one reads, but rather something that one follows, until at last one has passed three times around it, and one finds the meaning waitiing at one's shoulder.
