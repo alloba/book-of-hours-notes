@@ -12,7 +12,6 @@ aspects:
     amount : 18
 tags:
   - book
-  - actionable
   - studied
 lesson:
   - "lesson: disciplines of the hammer"

@@ -14,7 +14,6 @@ aspects:
     amount : 1
 tags:
   - book
-  - actionable
   - studied
 lesson:
   - "lesson: weaving & knotworking"

@@ -16,7 +16,6 @@ aspects:
     amount : 1
 tags:
   - book
-  - actionable
 lesson:
   - "lesson: "
 memory:

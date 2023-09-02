@@ -12,7 +12,6 @@ aspects:
     amount : 8
 tags:
   - book
-  - actionable
 lesson:
   - "lesson: sepents & venoms"
 memory:

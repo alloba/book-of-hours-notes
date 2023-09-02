@@ -12,7 +12,6 @@ aspects:
     amount: 10
 tags:
   - book
-  - actionable
   - studied
 lesson:
   - "lesson: lockworks & clockworks"

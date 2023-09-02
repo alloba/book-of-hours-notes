@@ -14,7 +14,6 @@ aspects:
     amount : 12
 tags:
   - book
-  - actionable
   - studied
 lesson:
   - "lesson: edicts liminal"

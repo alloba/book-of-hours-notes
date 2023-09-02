@@ -12,7 +12,6 @@ aspects:
     amount: 8
 tags:
   - book
-  - actionable
   - studied
 lesson:
   - "lesson: inks of power"

@@ -12,7 +12,6 @@ aspects:
     amount: 6
 tags:
   - book
-  - actionable
 lesson:
   - "lesson: maggephene mysteries"
 memory:

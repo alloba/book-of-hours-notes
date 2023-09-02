@@ -13,7 +13,6 @@ aspects:
     
 tags:
   - book
-  - actionable
 lesson:
   - "lesson: path & pilgrims"
 memory:

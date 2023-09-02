@@ -12,7 +12,6 @@ aspects:
     amount : 12
 tags:
   - book
-  - actionable
   - studied
 lesson:
   - "lesson: inks of containment"

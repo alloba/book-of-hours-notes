@@ -14,7 +14,6 @@ aspects:
     amount : 1
 tags:
   - book
-  - actionable
 lesson:
   - "lesson: the great signs and the great scars"
 memory:

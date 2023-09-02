@@ -14,7 +14,6 @@ aspects:
     amount : 6
 tags:
   - book
-  - actionable
   - studied
 lesson:
   - "lesson: path & pilgrim"

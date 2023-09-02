@@ -12,7 +12,6 @@ aspects:
     amount : 4
 tags:
   - book
-  - actionable
 lesson:
   - "lesson: horns & ivories"
 memory:
