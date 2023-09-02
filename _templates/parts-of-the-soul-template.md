@@ -6,7 +6,6 @@ aspects:
     amount: 1
 tags: 
   - soul
-  - card
 ---
 <%*
 let filename = tp.file.title

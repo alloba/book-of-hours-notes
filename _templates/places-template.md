@@ -3,7 +3,6 @@ aspects:
   - name: 
     amount: 1
 tags: 
-  - place
   - location
 ---
 

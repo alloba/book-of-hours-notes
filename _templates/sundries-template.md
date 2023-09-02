@@ -2,7 +2,6 @@
 aspects: 
 tags: 
   - sundries
-  - card
 ---
 <%*
 let filename = tp.file.title
