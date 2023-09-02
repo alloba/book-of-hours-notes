@@ -24,3 +24,4 @@ I've gained more understanding of Watchman's Paradoxes. [Use this card with Cons
 - [[The Locksmith's Dream - Stole Reflections]]
 - [[The Known-Unknown Tantra]]
 - [[Prophecies of Glory]]
+- [[The Book of the White Cat]]

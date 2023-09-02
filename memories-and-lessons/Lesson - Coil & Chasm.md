@@ -22,3 +22,4 @@ Lesson: Coil & Chasm
 I've gained more understanding of Coil & Chasm. [Use this card with Consider.]
 ## Sources
 - [[Stolen Histories]]
+- [[The Tantra of Worms]]

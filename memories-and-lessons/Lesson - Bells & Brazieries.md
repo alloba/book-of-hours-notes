@@ -20,3 +20,5 @@ tags:
 
 ## Sources
 - [[On Resonance]]
+- [[Vinzant's Minglings]]
+- [[Amiranis Beteli]]

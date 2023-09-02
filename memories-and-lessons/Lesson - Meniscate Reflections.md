@@ -14,7 +14,7 @@ tags:
   - 
 ---
 
-# Lesdson - Meniscate Reflections
+# Lesson - Meniscate Reflections
 
 ## Description
 Lesson: Meniscate Reflections

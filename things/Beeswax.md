@@ -25,3 +25,4 @@ It begins as a flower. [Beeswax can be used to make candles, if you have a skill
 - [[Pantry]]
 - [[Beehive]]
 - [[Our Lady Beneath]]
+- [[Chapel Malachite]]

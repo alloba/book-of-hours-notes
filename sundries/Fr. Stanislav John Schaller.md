@@ -20,6 +20,8 @@ aspects:
     amount: 3
   - name: "visitor: the affair of the grunewald provision"
     amount: 1
+  - name: "visitor: the affair of the open reverend"
+    amount: 1
 tags:
   - sundries
   - card

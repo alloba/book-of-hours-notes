@@ -21,3 +21,4 @@ Records Box
 A treasure stored by a musician-spy.
 ## Locations
 - [[Ivory Vault]]
+- [[Loading Dock]]

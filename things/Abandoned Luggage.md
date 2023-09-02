@@ -23,3 +23,4 @@ Abandoned Luggage
 Long past the help of any lost-and-found.
 ## Locations
 - [[A Walk on the Moor]]
+- [[Loading Dock]]

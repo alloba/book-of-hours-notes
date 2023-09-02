@@ -28,3 +28,5 @@ Memory: Fear
 - [[Stolen Histories]]
 - [[The Encircling Tantra]]
 - [[Hunting Journals of Bryan Dewulf]]
+- [[The Tantra of Worms]]
+- [[Key of Night]]

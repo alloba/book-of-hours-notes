@@ -21,3 +21,4 @@ Stargall Ink
 An ink traditionally (but only rarely) made with meteoric iron; a minor Ink of Power.
 ## Locations
 - [[Fludd Gallery]]
+- [[Cell - Worm-Inhabited]]

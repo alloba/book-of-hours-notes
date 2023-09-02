@@ -28,3 +28,7 @@ Memory: Foresight
 - [[The Book of Dissolution]]
 - [[De Horis Book 2]]
 - [[Bancroft Diaries]]
+- [[Vinzant's Minglings]]
+- [[Eva's Treasury]]
+- [[The Vinzant Inscriptions]]
+- [[The Carmine Petal - Unexpurgated]]

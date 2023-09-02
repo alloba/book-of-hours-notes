@@ -25,3 +25,4 @@ Distilled from apples in the oldest forest of the western Continent.
 - [[Motley Tower - Dispensary]]
 - [[Catacombs]]
 - [[Hall of Voices]]
+- [[Chapel Calicite]]

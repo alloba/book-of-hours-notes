@@ -14,7 +14,7 @@ tags:
   - skill
 ---
 
-# Bells and Brazieries
+# Bells & Brazieries
 
 ## Description
 Bells & Brazieries

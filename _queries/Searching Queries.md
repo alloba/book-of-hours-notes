@@ -7,14 +7,14 @@ let containsAspects = (item, valids) => {
 
 
 
-let working_set = dv.pages('"things"')
+let working_set = dv.pages('"memories-and-lessons"')
 
 
 dv.table(
 	['Item', 'Aspects'],
 	working_set
 	.filter(x => x.aspects)
-	.filter(x => containsAspects(x, ['tool', 'liquid']))
+	.filter(x => containsAspects(x, ['knock', 'forge']) && ! containsAspects(x, ['lesson']))
 	.map(x => 
 	[
 		x.file.link,
@@ -23,6 +23,5 @@ dv.table(
 	) 
 )
 ```
-
 
 

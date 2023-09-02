@@ -24,3 +24,4 @@ Never, never, never call it 'whale vomit'.
 ## Locations
 - [[Fludd Gallery]]
 - [[Our Lady Beneath]]
+- [[Chapel Calicite]]

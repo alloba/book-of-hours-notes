@@ -20,3 +20,4 @@ White-silver sand in which the voice of the waves lingers...
 ## Locations
 - [[Long Tower - Solomon's Study]]
 - [[Night Gallery]]
+- [[Cell - Worm-Inhabited]]

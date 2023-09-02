@@ -31,3 +31,4 @@ A murky, sweet-smelling liquid crowded with sediment.
 - [[Abandoned Luggage]]
 - [[Stores]]
 - [[Gaol Kitchen]]
+- [[Chapel Malachite]]

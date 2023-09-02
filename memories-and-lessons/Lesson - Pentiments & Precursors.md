@@ -22,3 +22,4 @@ Lesson: Pentiments & Precursors
 I've gained more understanding of Pentiments & Precursors. [Use this card with Consider.]
 ## Sources
 - [[The Turquoise Hand]]
+- [[Key of Night]]

@@ -33,3 +33,4 @@ Light it in remembrance.
 - [[Gaol Cellar]]
 - [[Catacombs]]
 - [[Hall of Voices]]
+- [[Chapel Calicite]]

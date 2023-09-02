@@ -27,3 +27,5 @@ Orpiment Exultant
 The <i>encaustum terminale</i> of the Fourth History. It's the incandescent orange of Forge. One ingredient - it's been, as it were, long-rumoured - is the blood of candescents. Certain Masonic and related traditions venerate what they call 'O.E'.  [Use an Encaustum ink with your Journal to make Determinations and record Histories. If the Hours listen, the world changes.]
 ## Locations
 - [[Ambered Casket]]
+- crafting
+	- [[Transformations & Liberations]] + [[Iotic Essence]] + [[Forge]](15)

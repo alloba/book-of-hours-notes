@@ -28,3 +28,4 @@ The Ravelines abandoned their lands, and yet, someone is still making this wine.
 - [[Pantry]]
 - [[Hermit Cell]]
 - [[Smuggler's Den]]
+- [[Slim Parcel]]

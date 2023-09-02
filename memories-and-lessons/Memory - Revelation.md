@@ -25,3 +25,5 @@ Some truths come to us from outside, or above.
 - [[Prophecies of Glory]]
 - [[Letters to My Successor]]
 - [[The Lion and the Glass]]
+- [[Sunset Passages]]
+- [[The Book of the White Cat]]

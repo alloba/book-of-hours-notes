@@ -21,3 +21,4 @@ Heart in a Jar
 An offering, or an exhibit?
 ## Locations
 - [[Examination Room]]
+- [[Crucible Tower - Interview Laboratory]]

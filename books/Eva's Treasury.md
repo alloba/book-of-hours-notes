@@ -13,10 +13,11 @@ aspects:
 tags:
   - book
   - actionable
+  - studied
 lesson:
-  - "lesson: "
+  - "lesson: anbary & lapidary"
 memory:
-  - "memory: "
+  - "memory: foresight"
 ---
 
 # Eva's Treasury
@@ -26,5 +27,10 @@ Eva's Treasury
 
 Eva Dewulf, last of the Brancrugs, discusses the occult and aesthetic properties of jewels and other precious minerals.
 ### Partial Study Description
+I'm Reading...
 
+Black nephrite and scolecite, for Nowhere; orichalc and amber, for Ys; amethyst for the Night Key of the Spider Door...
 ### Study Complete Description
+I've Read...
+
+Eva points out - bitterly? - that there is no shortage of uplifting parables and proverbs about the saving graces of a flaw in a jewel; but that no-one, 'not jeweller, not priest, not Hour' has ever found a way to repair such a flaw.

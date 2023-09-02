@@ -23,3 +23,4 @@ I've gained more understanding of The Great Signs and the Great Scars. [Use this
 ## Sources
 - [[Cardea's Delights]]
 - [[The Rapture of Forculus]]
+- [[Oghkor Oghkor Tissilak Oghkor]]

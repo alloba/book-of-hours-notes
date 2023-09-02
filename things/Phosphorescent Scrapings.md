@@ -24,5 +24,6 @@ Rendered inert, but still luminous.
 ## Locations
 - [[Examination Room]]
 - [[Pantry]]
+- [[Crucible Tower - Interview Laboratory]]
 - crafting 
 	- [[The Sea-Caves]]

@@ -31,5 +31,6 @@ A ruddy liquor wrung from flowers - even when the flowers aren't red.
 - [[Infirmary]]
 - [[Fludd Gallery]]
 - [[Cell - QuestionMark]]
+- [[Chapel Malachite]]
 - crafting
 	- [[Desires & Dissolutions]] + [[Grail]](10) +[[Flower]]

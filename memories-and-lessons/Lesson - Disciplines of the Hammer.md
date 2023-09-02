@@ -23,3 +23,4 @@ I've gained more understanding of Disciplines of the Hammer. [Use this card with
 ## Sources
 - [[The Carmine Petal - Revised]]
 - [[De Horis Book 2]]
+- [[The Carmine Petal - Unexpurgated]]

@@ -24,3 +24,4 @@ I've gained more understanding of Glassblowing & Vesselcrafting. [Use this card 
 - [[On Imperfections]]
 - [[Advice on Containment]]
 - [[On What is Contained By Silver]]
+- [[Towards a Fundamental Aesthetic]]

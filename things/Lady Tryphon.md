@@ -19,3 +19,4 @@ tags:
 A very old portrait in the Byzantine style.
 ## Locations
 - [[Fludd Gallery]]
+- [[Crucible Tower - Governor's Quarters]]

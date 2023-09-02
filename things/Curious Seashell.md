@@ -22,3 +22,4 @@ Brancrug is said to lie in the Bounds where the world ends. Odd creatures have m
 ## Locations
 - [[Windlit Gallery]]
 - [[Beachcombing]]
+- [[Chapel Malachite]]

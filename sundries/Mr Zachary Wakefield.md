@@ -4,6 +4,8 @@ aspects:
     amount: 1
   - name: "visitor: the affair of the messenger's casket"
     amount: 1
+  - name: "visitor: the affair of the open reverend"
+    amount: 1
   - name: visitor
     amount: 1
   - name: "understands phrygian"

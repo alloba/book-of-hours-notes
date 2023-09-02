@@ -23,3 +23,4 @@ Desiccated Witchworms
 Nasty little things, but almost safe when they're this dead.
 ## Locations
 - [[Motley Tower - Dispensary]]
+- [[Cell - Worm-Inhabited]]

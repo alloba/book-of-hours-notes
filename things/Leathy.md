@@ -28,3 +28,4 @@ Leathy
 ## Locations
 - [[Motley Tower - Dispensary]]
 - [[Night Gallery]]
+- [[Chapel Malachite]]

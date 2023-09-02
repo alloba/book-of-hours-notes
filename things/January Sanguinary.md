@@ -24,3 +24,4 @@ Also called <i>sanguis saltandis</i> or, by the ignorantly superstitious, 'true 
 ## Locations
 - [[Motley Tower - Dispensary]]
 - [[Hermit Cell]]
+- [[Records Box]]

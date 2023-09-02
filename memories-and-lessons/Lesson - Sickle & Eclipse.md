@@ -24,3 +24,4 @@ I've gained more understanding of Sickle & Eclipse. [Use this card with Consider
 - [[Exorcism for Girls]]
 - [[Observations on the Peacock Door]]
 - [[The Sky in the Scar]]
+- [[As the Sun His Course]]

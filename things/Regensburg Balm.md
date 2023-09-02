@@ -21,3 +21,4 @@ Regensburg Balm
 An invaluable herbal cure introduced to Hush House by the physician Natan after his exile from Regensburg.
 ## Locations
 - [[Foundry]]
+- [[Crucible Tower - Interview Laboratory]]

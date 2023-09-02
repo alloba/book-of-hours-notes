@@ -23,3 +23,4 @@ CRUSH.
 - [[Motley Tower - Dispensary]]
 - [[Our Lady Beneath]]
 - [[Hall of Voices]]
+- [[Chapel Malachite]]

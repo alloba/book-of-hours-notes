@@ -20,3 +20,4 @@ Far too cold ever to melt in anything but the hottest noonday sun. It will, very
 ## Locations
 - [[Fludd Gallery]]
 - [[Motley Tower - Dispensary]]
+- [[Crucible Tower - Interview Laboratory]]

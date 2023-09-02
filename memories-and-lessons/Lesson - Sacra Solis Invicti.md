@@ -23,3 +23,4 @@ I've gained more understanding of Sacra Solis Invicti. [Use this card with Consi
 ## Sources
 - [[Gospel of Nicodemus]]
 - [[Shuritic Book of the Suns]]
+- [[Sunset Passages]]

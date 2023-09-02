@@ -23,3 +23,4 @@ I've gained more understanding of Transformations & Liberations. [Use this card 
 ## Sources
 - [[The Incandescent Tantra]]
 - [[The Book of Dissolution]]
+- [[The Vinzant Inscriptions]]

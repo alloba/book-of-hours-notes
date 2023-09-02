@@ -25,3 +25,4 @@ A poison sometimes known as 'the Message of the Swan'.
 - [[Infirmary]]
 - [[Night Gallery]]
 - [[Gaol Cellar]]
+- [[Crucible Tower - Governor's Quarters]]

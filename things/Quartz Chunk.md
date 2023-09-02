@@ -23,3 +23,4 @@ Ice, rock, winking light.
 - [[Fludd Gallery]]
 - [[Our Lady Beneath]]
 - [[A Walk on the Moor]]
+- [[Chapel Malachite]]
