@@ -13,7 +13,7 @@ aspects:
   - name: "effective against infestations"
     amount: 1
 tags:
-  - 
+  - skill
 ---
 
 # Stone Stories

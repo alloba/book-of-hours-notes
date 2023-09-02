@@ -13,7 +13,7 @@ aspects:
   - name: "effective against curses"
     amount: 1
 tags:
-  - 
+  - skill
 ---
 
 # Sacra Solis Invicti
