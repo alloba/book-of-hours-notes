@@ -1,8 +1,0 @@
----
-tags:
-  - misc
----
-
-- March 7th, 1936 - There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates... 
-	- [[The Librarian]] has washed up upon the shore of [[Saint Brandan's Cove]]. They have arrived after weathering a fierce storm, and have only [[A Drowned Book]] with them. 
-	- They recall [[An Old Friend's Address]], and receive shelter with them from the storm. 

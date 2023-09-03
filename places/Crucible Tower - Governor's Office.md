@@ -11,4 +11,4 @@ tags:
 ## Description
 Crucible Tower: Governor's Office
 
-The Governor's office - quietly luxurious, at least by the standards of the Cucurbit. Collers was devoted to his cause and his service, but he did insist on his little pleasures.
+The Governor's office - quietly luxurious, at least by the standards of the Cucurbit. [[George Collers|Collers]] was devoted to his cause and his service, but he did insist on his little pleasures.

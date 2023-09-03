@@ -23,6 +23,6 @@ challenges:
 ## Description
 Cage
 
-Valentine Dewulf put his only friends in cages. Did he close the cage doors?
+[[world-at-large/Valentine Dewulf|Valentine Dewulf]] put his only friends in cages. Did he close the cage doors?
 ## Locations
 - [[Gullscry Tower - Eales' Room]]

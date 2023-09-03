@@ -15,7 +15,7 @@ tags:
 ## Description
 'Chac'
 
-Valentine Dewulf's magnificent green cockatoo. The painting is signed by Valentine himself.
+[[world-at-large/Valentine Dewulf|Valentine Dewulf]]'s magnificent green cockatoo. The painting is signed by Valentine himself.
 ## Locations
 - [[Gullscry Tower - Valentine's Room]]
 - [[Night Gallery]]

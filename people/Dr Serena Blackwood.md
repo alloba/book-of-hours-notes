@@ -27,6 +27,8 @@ tags:
 ## Description
 Dr Serena Blackwood
 
-One-time Librarian of Hush House, one-time Librarian of the Invisible Serapeum in Alexandria, and currently... what, exactly? Serena is close-mouthed, but I know that she has worked with the St Rhonwen Trust.
-## Sources
+One-time Librarian of Hush House, one-time Librarian of the Invisible Serapeum in Alexandria, and currently... what, exactly? Serena is close-mouthed, but I know that she has worked with the [[St Rhonwen's Trust]].
+## Info
+
+Not a great amount of detail is known about her through records, although she is known to have assisted [[Christopher Illopoly]] by preparing him a space at Hush House, as well as [[George Collers]] with his clock project. Although, she perhaps came to regret dealing with the latter. 
 

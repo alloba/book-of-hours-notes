@@ -11,4 +11,4 @@ tags:
 ## Description
 Fludd Gallery
 
-Thirza Blake, seventh Librarian of the House, extended this space, decorating it with semi-precious materials and filling it with the finest art Hush House's money could buy. (Of course, after her enthusiasms brought the House to the brink of penury, much of it had to be sold off.)
+[[world-at-large/Thirza Blake|Thirza Blake]], seventh Librarian of the House, extended this space, decorating it with semi-precious materials and filling it with the finest art Hush House's money could buy. (Of course, after her enthusiasms brought the House to the brink of penury, much of it had to be sold off.)
