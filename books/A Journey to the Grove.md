@@ -23,7 +23,7 @@ memory:
 ## Description
 A Journey to the Grove
 
-Black Elie, who much later became Damascene Matriarch of the Sisterhood of the Knot, recounts her journey to the Grove of Green Immortals.
+Black Elie, who much later became Damascene Matriarch of the [[Sisterhood of the Knot]], recounts her journey to the Grove of Green Immortals.
 ### Partial Study Description
 
 ### Study Complete Description

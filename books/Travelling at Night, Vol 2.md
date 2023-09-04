@@ -24,11 +24,11 @@ memory:
 ## Description
 Travelling at Night, vol 2
 
-The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering.
+The annotated dream-journals of [[Christopher Illopoly]], sometimes called 'the only readable occultist': literate, entertaining, bewildering.
 ### Partial Study Description
 I'm Reading...
 
-There is an extensive discussion of the comparisons between Illopoly's own dreams and those of the Emperor Elagabalus, who Illopoly regards as a dupe or avatar of the Sun-in-Rags. 'The White is west of the world,' Illopoly remarks, 'and Winter does not wait forever.''
+There is an extensive discussion of the comparisons between Illopoly's own dreams and those of the Emperor Elagabalus, who Illopoly regards as a dupe or avatar of the [[Sun-in-Rags]]. 'The White is west of the world,' Illopoly remarks, 'and Winter does not wait forever.''
 ### Study Complete Description
 I've Read...
 

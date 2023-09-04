@@ -32,3 +32,4 @@ Memory: Foresight
 - [[Eva's Treasury]]
 - [[The Vinzant Inscriptions]]
 - [[The Carmine Petal - Unexpurgated]]
+- [[In the Malleary]]

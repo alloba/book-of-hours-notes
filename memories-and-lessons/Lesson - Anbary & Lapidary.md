@@ -22,3 +22,4 @@ Lesson: Anbary & Lapidary
 I've gained more understanding of Anbary & Lapidary. [Use this card with Consider.]
 ## Sources
 - [[Eva's Treasury]]
+- [[In the Malleary]]

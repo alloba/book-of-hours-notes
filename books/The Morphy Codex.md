@@ -26,7 +26,7 @@ memory:
 ## Description
 The Morphy Codex
 
-A priestess of the Sisterhood of the Knot claims to have discerned the true meaning of the Thunderskin's birth.
+A priestess of the [[Sisterhood of the Knot]] claims to have discerned the true meaning of the Thunderskin's birth.
 ### Partial Study Description
 I'm Reading...
 

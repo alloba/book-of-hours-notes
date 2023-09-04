@@ -1,9 +1,6 @@
 ---
-aspects: 
 tags: 
-  - thing
-  - actionable
-  - visitor | resident
+- person
 ---
 
 <%*
@@ -16,7 +13,3 @@ tR += `# ${filename}`
 %>
 
 ## Description
-
-## Info
-
-## Quotes

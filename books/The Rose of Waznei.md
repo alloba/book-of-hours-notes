@@ -26,7 +26,7 @@ memory:
 ## Description
 The Rose of Waznei
 
-The heretical teachings of a disgraced offshoot of the Sisterhood of the Knot, that arcane-contemplative order that existed in all histories. This was recorded by 'Waznei', and dedicated to St Respicius.
+The heretical teachings of a disgraced offshoot of the [[Sisterhood of the Knot]], that arcane-contemplative order that existed in all histories. This was recorded by 'Waznei', and dedicated to St Respicius.
 ### Partial Study Description
 I'm Reading...
 

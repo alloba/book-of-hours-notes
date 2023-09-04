@@ -48,7 +48,7 @@
     },
     {
       "folder": "people",
-      "template": "_templates/sundries-template.md"
+      "template": "_templates/character-template.md"
     },
     {
       "folder": "skills-and-languages",

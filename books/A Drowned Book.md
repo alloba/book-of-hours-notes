@@ -2,10 +2,6 @@
 aspects:
   - name: thing
     amount: 1
-  - name: rose
-    amount: 0
-  - name: "mystery: grail"
-    amount: 999
   - name: readable
     amount: 1
   - name: journal
@@ -21,5 +17,7 @@ tags:
 
 ## Description
 
-The one possession I kept from the shipwreck. It must be important to me.
+A Drowned Book
+
+The one possession I kept from the shipwreck. It must be important to me. [The Aspects below tell you more about how and where you can use this item. Mouse over them to learn more.]
 

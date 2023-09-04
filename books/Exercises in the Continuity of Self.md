@@ -24,7 +24,7 @@ memory:
 ## Description
 Exercises in the Continuity of Self
 
-Techniques proposed by the Haustorium - the most inaccessible and upsetting of the libraries of the Watchman's Tree - for 'the persistence of memory after the body is discarded'.
+Techniques proposed by the Haustorium - the most inaccessible and upsetting of the libraries of [[the Watchman's Tree]] - for 'the persistence of memory after the body is discarded'.
 ### Partial Study Description
 I'm Reading...
 

@@ -21,6 +21,7 @@ Auroral Contemplations
 
 To know what will pass in what has passed.' The practitioners of this discipline see endings and beginnings, passages and transitions, in the same mode as dawn and sunset.
 ## Tree of Wisdom Entries
+### Illumination II
 The First Sunrise
 
 Yesterday's light determines the colours of tomorrow...  and we all began in light. [Auroral Contemplations]

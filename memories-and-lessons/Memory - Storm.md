@@ -13,9 +13,9 @@ tags:
 # Memory - Storm
 
 ## Description
-Storm
+Memory: Storm
 
-Thunder-roaring, lightning-lashed skies.
+There are storms great enough to shake the moon from the sky, and one's thoughts from one's skull.
 ## Sources
 - [[What does not Bark]]
 - [[Those Who do not Sleep]]

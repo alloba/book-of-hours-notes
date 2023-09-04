@@ -8,6 +8,8 @@ aspects:
     amount : 1
   - name: "written in sanskrit"
     amount : 1
+  - name: "tally price"
+    amount : 1
   - name: "mystery: knock"
     amount : 8
 tags:

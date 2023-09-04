@@ -15,6 +15,6 @@ tags:
 ## Description
 Rector's Assistance
 
-Reverend Timothy, Rector of Brancrug, ordained by the Church of the Unconquered Sun. A learned man, blessed in the Tally, the Gate, and the Light. [Make use of the Rector's help before dawn.]
+[[Reverend Timothy]], Rector of Brancrug, ordained by the Church of the Unconquered Sun. A learned man, blessed in the Tally, the Gate, and the Light. [Make use of the Rector's help before dawn.]
 ## Sources
 

@@ -24,13 +24,13 @@ memory:
 # Against the Sisterhood of the Knock and the Foulness of Their Depraved Customs
 
 ## Description
-Against the Sisterhood of the Knot and the Foulness of their Depraved Customs
+Against the [[Sisterhood of the Knot]] and the Foulness of their Depraved Customs
 
-Hieronymus Pseudo-Hypnerotomachus wrote this furious screed about the sinister influence of the Sisterhood of the Knot on his own Church of the Unconquered Sun.
+Hieronymus Pseudo-Hypnerotomachus wrote this furious screed about the sinister influence of the [[Sisterhood of the Knot]] on his own Church of the Unconquered Sun.
 ### Partial Study Description
 I'm Reading...
 
-Hieronymus claims that the powers served by the Sisterhood of the Knot made an arrangement: the Thunderskin loved the Yew, and the Grail destroyed him, as restitution for the destruction of the Axe's loved ones. Hieronymus' writing becomes incoherent with rage at this point.
+Hieronymus claims that the powers served by the [[Sisterhood of the Knot]] made an arrangement: the Thunderskin loved the Yew, and the Grail destroyed him, as restitution for the destruction of the Axe's loved ones. Hieronymus' writing becomes incoherent with rage at this point.
 ### Study Complete Description
 I've Read...
 

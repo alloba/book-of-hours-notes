@@ -31,6 +31,6 @@ tags:
 ## Description
 Dr Ibn al-Adim
 
-'The Aleppine': Historian, doctor, and above all, traveller. The good doctor has been associated with all but one of the libraries of the Watchman's Tree. He was even Secretary Nunciant of Hush House for a little while, but he has never been on good terms with the Suppression Bureau. 
+'The Aleppine': Historian, doctor, and above all, traveller. The good doctor has been associated with all but one of the libraries of [[the Watchman's Tree]]. He was even Secretary Nunciant of Hush House for a little while, but he has never been on good terms with the Suppression Bureau. 
 ## Sources
 

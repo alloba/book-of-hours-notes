@@ -8,10 +8,10 @@ tags:
   - thing
 ---
 
-# Musgrave Dewulf
+# [[world-at-large/Musgrave Dewulf|Musgrave Dewulf]]
 
 ## Description
-'Musgrave Dewulf'
+'[[world-at-large/Musgrave Dewulf|Musgrave Dewulf]]'
 
 The bust is carved from wood - cherry?
 ## Locations

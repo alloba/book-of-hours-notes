@@ -47,4 +47,4 @@ Applying 20 of an aspect to the journal applies a determination.
 ### Red, The First Flower
 Make a Determination: Red, the First Flower
 
-The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Red Flower of Calyptra -'the fire fuelled by truth' was its first defence. Fire consumes knowledge... but fire also gives light. The Tree is rooted in paradox. [Adds Forge and Rose to your journal; replaces any other First Flower Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]
+[[The Watchman's Tree]] is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Red Flower of Calyptra -'the fire fuelled by truth' was its first defence. Fire consumes knowledge... but fire also gives light. The Tree is rooted in paradox. [Adds Forge and Rose to your journal; replaces any other First Flower Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]

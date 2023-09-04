@@ -26,7 +26,7 @@ In 1534 the Bronze King Henry dissolved the foundation, exiled the brethren, and
 18th century -> 1896. [[Curia Period]]
 A secretive cabal of scholars establish the 'Curia of the Isle' to manage Hush House, making it a haven of knowledge. 
 
-- 1929 - [[world-at-large/Thirza Blake|Thirza Blake]] brings the House to penury, causing a change in power on the Isle as a result. 
+- ? - [[world-at-large/Thirza Blake|Thirza Blake]] brings the House to penury, causing a change in power on the Isle as a result. 
 
 
 # Nocturnal Period
@@ -34,8 +34,10 @@ A secretive cabal of scholars establish the 'Curia of the Isle' to manage Hush H
 A previous librarian's ([[world-at-large/Thirza Blake|Thirza Blake]]) enthusiasms sunk Hush House into great debt. The Suppression Bureau stepped in and offered funding. In exchange, Hush House underwent yearly inspections, and gave a portion of the Isle for the Branch's prison. 
 
 - 1915 - The Suppression Bureau has the bells "Shur's Tongue" and "Janice" recast, as a repayment of a favor rendered by Serena Blackwood. 
-- 1929 - A great fire runs through part of Hull House. The fire was caused by the power below the prison, escaped from the [[Oubliette Containment]]. This caused the death of [[George Collers]], and largely marks the end of the Suppression Bureau's presence on the Isle. 
+- 1929 - A great fire runs through the gaol of Hull House. The fire was caused by the power below the prison, escaped from the [[Oubliette Containment]]. This caused the death of [[George Collers]], and marks the end of the Suppression Bureau's presence on the Isle, as well as the end of the Nocturnal period. 
 # Present Day
 
-- March 7th, 1936 - There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates... 
-	- [[The Librarian]] has washed up upon the shore of [[Saint Brandan's Cove]]. They have arrived after weathering a fierce storm, and have only [[A Drowned Book]] with them. 
+>March 7th, 1936 - There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates are very difficult to find, but perhaps we have found one in you. Take care on  your journey - the seas around Brancrug are treacherous.
+
+- 1930 - The Restoration takes place. The violent methods employed by the New King's agents in search of his enemies generated much animosity in Brancrug Village. 
+- [[The Librarian]] has washed up upon the shore of [[Saint Brandan's Cove]]. They have arrived after weathering a fierce storm, and have only [[A Drowned Book]] with them. 

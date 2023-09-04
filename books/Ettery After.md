@@ -24,7 +24,7 @@ memory:
 ## Description
 Ettery After
 
-An anonymous erotic novel occasionally claimed to have been written by Eva Dewulf, although at least two duels were fought in her honour to avenge this slander.
+An anonymous erotic novel occasionally claimed to have been written by [[world-at-large/Eva Dewulf|Eva Dewulf]], although at least two duels were fought in her honour to avenge this slander.
 ### Partial Study Description
 I'm Reading...
 

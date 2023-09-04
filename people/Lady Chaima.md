@@ -23,6 +23,6 @@ tags:
 ## Description
 Lalla Chaima
 
-Huntress, goumier, occasional Bureau consultant. When it can't be killed, and it really needs killing, Chaima's the one they turn to.
+Huntress, goumier, occasional [[Suppression Bureau|Bureau]] consultant. When it can't be killed, and it really needs killing, Chaima's the one they turn to.
 ## Sources
 
