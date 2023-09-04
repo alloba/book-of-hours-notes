@@ -19,7 +19,7 @@ tags:
 ---
 # Lord Franklin Bancroft
 ## Description
-Lord Franklin Bancroft
+Lord [[Franklin Bancroft]]
 
 Rakehell, dilettante, infuriating prodigy. Possibly dead, possibly real.
 ## Sources

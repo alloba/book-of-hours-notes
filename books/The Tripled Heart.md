@@ -28,7 +28,7 @@ memory:
 ## Description
 The Tripled Heart
 
-Sacred poems composed in honour of the Hours venerated by the Sisterhood of the Triple Knot.
+Sacred poems composed in honour of the Hours venerated by the [[Sisterhood of the Triple Knot]].
 ### Partial Study Description
 I'm Reading...
 

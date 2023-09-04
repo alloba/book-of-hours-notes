@@ -17,6 +17,6 @@ tags:
 ## Description
 Regensburg Menorah
 
-A relic of the physician Natan of Regensburg.
+A relic of the physician [[Natan of Regensburg]].
 ## Locations
 - [[Motley Tower - Regensburg Room]]

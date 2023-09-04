@@ -26,7 +26,7 @@ memory:
 ## Description
 On the Winding Stair
 
-Gregory Wheelock, the master mason and architect employed by Walter Dewulf to construct the Winding Stair and the guest chambers in Hush House, describes a more ambitious and dangerous project.
+Gregory Wheelock, the master mason and architect employed by [[world-at-large/Walter Dewulf|Walter Dewulf]] to construct the Winding Stair and the guest chambers in Hush House, describes a more ambitious and dangerous project.
 ### Partial Study Description
 I'm Reading...
 

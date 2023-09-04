@@ -24,7 +24,7 @@ memory:
 ## Description
 The Black Book of Brittany
 
-A volume of ink-lore gifted to St Brandan's by Brian of Brittany, who was made Earl of Cornwall after the Norman Conquest.
+A volume of ink-lore gifted to St Brandan's by [[Brian of Brittany]], who was made Earl of Cornwall after the Norman Conquest.
 ### Partial Study Description
 I'm Reading...
 

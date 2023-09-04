@@ -21,7 +21,7 @@ tags:
 ## Description
 Tridesma Hiera
 
-The rites of the Sisterhood of the Triple Knot, which include certain mysteries of the dwellers in the Wood behind the World.
+The rites of the [[Sisterhood of the Triple Knot]], which include certain mysteries of the dwellers in the Wood behind the World.
 ## Tree of Wisdom Entries
 ## Preservation III
 The Light, the Night, the Wood

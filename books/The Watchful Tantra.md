@@ -29,7 +29,7 @@ Notorious for its involvement in the deaths of Dafyd Jones and Meredith Blaine, 
 ### Partial Study Description
 I'm Reading...
 
-The Tantra describes processes of occult illumination, including a formula which may show the way from the 'Hunter's Gate' to the 'Serpent Gate' - which in the West is usually called the Spider's Door. 
+The Tantra describes processes of occult illumination, including a formula which may show the way from the 'Hunter's Gate' to the '[[Serpent Gate]]' - which in the West is usually called the [[Serpent Gate|Spider's Door]]. 
 ### Study Complete Description
 I've Read...
 

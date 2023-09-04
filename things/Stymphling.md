@@ -19,6 +19,6 @@ tags:
 ## Description
 Stymphling
 
-Eva Dewulf taught her father Valentine how to hatch these silvery little villains, but he never learnt to like them.
+[[world-at-large/Eva Dewulf|Eva Dewulf]] taught her father Valentine how to hatch these silvery little villains, but he never learnt to like them.
 ## Locations
 - [[Gullscry Tower - Eales' Room]]

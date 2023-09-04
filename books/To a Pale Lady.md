@@ -24,7 +24,7 @@ memory:
 ## Description
 To a Pale Lady
 
-A collection of Franklin Bancroft's letters to Eva Dewulf.
+A collection of [[Franklin Bancroft]]'s letters to [[world-at-large/Eva Dewulf|Eva Dewulf]].
 ### Partial Study Description
 
 ### Study Complete Description

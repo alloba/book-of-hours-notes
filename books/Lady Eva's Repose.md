@@ -24,7 +24,7 @@ memory:
 ## Description
 Lady Eva's Repose
 
-A 'meditation' on the drowning of Lady Eva Dewulf and her two grandchildren, written in the years when the estate was abandoned by Father Theo, once the Dewulf family chaplain, one of the few to remain on the Isle in those desolate years.
+A 'meditation' on the drowning of Lady [[world-at-large/Eva Dewulf|Eva Dewulf]] and her two grandchildren, written in the years when the estate was abandoned by Father Theo, once the Dewulf family chaplain, one of the few to remain on the Isle in those desolate years.
 ### Partial Study Description
 I'm Reading...
 
@@ -32,4 +32,4 @@ I'm Reading...
 ### Study Complete Description
 I've Read...
 
-Father Theo has come to believe that Eva sought an escape from a family curse - the 'pale heritage' of Hafren her forebear, or the curse placed upon the line by the cunning-man Red William in the time of Hendrik Dewulf. He had begun by believing neither curse was real; but as the book concludes, he decides that he has determined to believe in them, rather than accept the three deaths as a futile tragedy. 'One does not so easily escape the long necessity of faith,' he concludes.
+Father Theo has come to believe that Eva sought an escape from a family curse - the 'pale heritage' of [[Hafren]] her forebear, or the curse placed upon the line by the cunning-man [[Red William]] in the time of [[world-at-large/Hendrik Dewulf|Hendrik Dewulf]]. He had begun by believing neither curse was real; but as the book concludes, he decides that he has determined to believe in them, rather than accept the three deaths as a futile tragedy. 'One does not so easily escape the long necessity of faith,' he concludes.

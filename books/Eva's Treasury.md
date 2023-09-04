@@ -24,7 +24,7 @@ memory:
 ## Description
 Eva's Treasury
 
-Eva Dewulf, last of the Brancrugs, discusses the occult and aesthetic properties of jewels and other precious minerals.
+[[world-at-large/Eva Dewulf|Eva Dewulf]], last of the Brancrugs, discusses the occult and aesthetic properties of jewels and other precious minerals.
 ### Partial Study Description
 I'm Reading...
 

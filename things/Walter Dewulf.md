@@ -11,7 +11,7 @@ tags:
 # Walter Dewulf
 
 ## Description
-'Walter Dewulf'
+'[[world-at-large/Walter Dewulf|Walter Dewulf]]'
 
 The bust is carved from serpentinite - a striking local stone.
 ## Locations

@@ -32,4 +32,4 @@ Illopoly's disquisitions on fire and the Unburnt God are interrupted by passages
 ### Study Complete Description
 I've Read...
 
-'To reach the Stag Door, I believe that all you really need is to want something enough. But I've never wanted anything that much, except of course Baldomera, and I'm very much afraid that the knot in the story is this: what Baldomera wants is the Stag Door. But here's something I learnt in Persia. Perhaps it'll teach you what *you* want.'
+'To reach [[The Stag Door]], I believe that all you really need is to want something enough. But I've never wanted anything that much, except of course Baldomera, and I'm very much afraid that the knot in the story is this: what Baldomera wants is the Stag Door. But here's something I learnt in Persia. Perhaps it'll teach you what *you* want.'

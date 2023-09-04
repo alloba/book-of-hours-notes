@@ -15,6 +15,6 @@ tags:
 ## Description
 Hendrik's Blade
 
-A long hunting knife, or a short close-quarters sword. A plaque reads 'Hendrik Dewulf, 1525'
+A long hunting knife, or a short close-quarters sword. A plaque reads '[[world-at-large/Hendrik Dewulf|Hendrik Dewulf]], 1525'
 ## Locations
 - [[Hall of Division]]

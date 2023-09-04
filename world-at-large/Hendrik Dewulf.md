@@ -1,0 +1,1 @@
+1st Baron Brancrug. Granted Brancrug Isle in 1536, after the dissolution of [[St Brandan's]]

@@ -19,16 +19,16 @@ memory:
   - "memory: foresight"
 ---
 
-# Journal of Walter Dewulf
+# Journal of [[world-at-large/Walter Dewulf|Walter Dewulf]]
 
 ## Description
-Journal of Walter Dewulf
+Journal of [[world-at-large/Walter Dewulf|Walter Dewulf]]
 
-Walter Dewulf, 3rd Baron Brancrug, was grandson of Thomas, son of the disgraced Giles, who eloped with 'Pale Hafren'. The Dewulf line might have ended here if the Seneschale Ernestine - by then over eighty - had not managed to reconcile Thomas with a dying Giles.
+[[world-at-large/Walter Dewulf|Walter Dewulf]], 3rd Baron Brancrug, was grandson of [[Thomas Dewulf|Thomas]], son of the disgraced Giles, who eloped with 'Pale [[Hafren]]'. The Dewulf line might have ended here if the Seneschale [[Ernestine Peterhans|Ernestine]] - by then over eighty - had not managed to reconcile Thomas with a dying Giles.
 ### Partial Study Description
 I'm Reading...
 
-Walter, though nominally siding with the Parliamentarians, manages to stay out of the war... but in 1642, his son Bryan runs away on the night of his sixteenth birthday and joins the Royalist army. He is captured and returned to his father, who pleads for mercy and gives his parole for his son's good behaviour.
+Walter, though nominally siding with the Parliamentarians, manages to stay out of the war... but in 1642, his son [[Bryan Dewulf|Bryan]] runs away on the night of his sixteenth birthday and joins the Royalist army. He is captured and returned to his father, who pleads for mercy and gives his parole for his son's good behaviour.
 ### Study Complete Description
 I've Read...
 

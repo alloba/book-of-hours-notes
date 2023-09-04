@@ -22,13 +22,15 @@ memory:
 ---
 
 # The Known-Unknown Tantra
+The Known-Unknown Tantra
 
+Carlos Garcia Sauri, the ectastic mystic of the Pyrenees, was known to recite this in three languages, though he had never visited the Subcontinent.
 ## Description
 
 ### Partial Study Description
 I'm Reading...
 
-The Known-Unknown Tantra describes a journey to the White Door of the Mansus, beyond which speech ceases. It describes a mantra which can be used, at the right place and time, to achieve that door.
+The Known-Unknown Tantra describes a journey to [[The White Door]] of [[world-at-large/The Mansus|The Mansus]], beyond which speech ceases. It describes a mantra which can be used, at the right place and time, to achieve that door.
 ### Study Complete Description
 I've Read...
 

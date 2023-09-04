@@ -27,6 +27,6 @@ challenges:
 ## Description
 Desk: Eva
 
-A magnificent eighteenth-century secretary desk commissioned for Lady Eva Dewulf, last of the Brancrug Dewulfs.
+A magnificent eighteenth-century secretary desk commissioned for Lady [[world-at-large/Eva Dewulf|Eva Dewulf]], last of the Brancrug Dewulfs.
 ## Locations
 - [[Watchman's Tower - First Floor]]

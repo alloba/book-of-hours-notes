@@ -30,7 +30,7 @@ An extremely heterodox account of the Nazarene Messiah and his works, describing
 ### Partial Study Description
 I'm Reading...
 
-Seven were the wounds of His body, seven the doors of the House. Seven the lesser aspects of the Hours, and Knock the aspect above all, for the Mother of Ants is the Mother of Salvation.'
+Seven were the wounds of His body, seven the doors of the House. Seven the lesser aspects of the Hours, and Knock the aspect above all, for the [[Mother of Ants]] is the Mother of Salvation.'
 ### Study Complete Description
 I've Read...
 

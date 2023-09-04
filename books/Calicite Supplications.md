@@ -24,7 +24,9 @@ memory:
 # Calicite Supplications
 
 ## Description
+Calicite Supplications
 
+Prayers addressed to the Red Grail by the [[Sisterhood of the Triple Knot]].
 ### Partial Study Description
 I'm Reading...
 

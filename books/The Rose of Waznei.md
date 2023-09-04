@@ -34,4 +34,4 @@ The offshoot favoured by Waznei - 'the True Sisterhood' - followed St Respicius 
 ### Study Complete Description
 I've Read...
 
-Seek in dreams; seek the Mansus. The Third Mark can be achieved only when one has passed the Stag Door. One must pass the Wood. One must rise to the White Door. The Stag Door awaits the light-bearer, in the sight of Ghirbi.'
+Seek in dreams; seek the Mansus. The Third Mark can be achieved only when one has passed [[The Stag Door]]. One must pass the Wood. One must rise to [[The White Door]]. The Stag Door awaits the light-bearer, in the sight of Ghirbi.'

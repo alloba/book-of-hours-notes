@@ -25,7 +25,7 @@ memory:
 ## Description
 The Secret Colours
 
-Black Elie, disgraced Damascene Matriarch of the Sisterhood of the Triple Knot, wrote this while fleeing the 'agents of the Duty.'
+Black Elie, disgraced Damascene Matriarch of the [[Sisterhood of the Triple Knot]], wrote this while fleeing the 'agents of the Duty.'
 ### Partial Study Description
 
 ### Study Complete Description

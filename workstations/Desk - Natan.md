@@ -27,6 +27,6 @@ challenges:
 ## Description
 Desk: Natan
 
-It's an apothecary's desk, all right, but it dates from at least a hundred years after Natan of Regensburg came here. Of course his son, his grandson, and his great-grand-son were all Natans too…
+It's an apothecary's desk, all right, but it dates from at least a hundred years after [[Natan of Regensburg]] came here. Of course his son, his grandson, and his great-grand-son were all Natans too…
 ## Locations
 - [[Motley Tower - Regensburg Room]]

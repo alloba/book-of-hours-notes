@@ -11,7 +11,7 @@ tags:
 # Eva Dewulf
 
 ## Description
-'Eva Dewulf'
+'[[world-at-large/Eva Dewulf|Eva Dewulf]]'
 
 This is the crystal called scolecite - the worm-stone - polished to chill smoothness.
 ## Locations

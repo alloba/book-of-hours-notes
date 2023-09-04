@@ -25,7 +25,7 @@ memory:
 ## Description
 Seven Faces of Icarus
 
-In the early 1530s, the last Abbot of St Brandan's, called 'Roaring Richard', set down his conversations with the illiterate local cunning-man, Red William.
+In the early 1530s, the last Abbot of St Brandan's, called 'Roaring Richard', set down his conversations with the illiterate local cunning-man, [[Red William]].
 ### Partial Study Description
 
 ### Study Complete Description

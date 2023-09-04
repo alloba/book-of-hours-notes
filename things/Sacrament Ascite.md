@@ -17,7 +17,7 @@ tags:
 ## Description
 Sacrament Ascite
 
-Back in the Dawn Period, the Sisterhood of the Triple Knot used this in the rites of the Horned-Axe.
+Back in the Dawn Period, the [[Sisterhood of the Triple Knot]] used this in the rites of the Horned-Axe.
 ## Locations
 - [[Fludd Gallery]]
 - [[Catacombs]]

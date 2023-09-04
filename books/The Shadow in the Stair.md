@@ -24,7 +24,7 @@ memory:
 ## Description
 The Shadow in the Stair
 
-Ernestine Peterhans records her conversations with the 'little darkness' in Hush House's Stair Tenebrous, which she calls 'Donkerling'.
+[[Ernestine Peterhans]] records her conversations with the 'little darkness' in Hush House's Stair Tenebrous, which she calls 'Donkerling'.
 ### Partial Study Description
 I'm Reading...
 

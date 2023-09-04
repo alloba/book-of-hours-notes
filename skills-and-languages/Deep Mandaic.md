@@ -21,7 +21,7 @@ tags:
 ## Description
 Mandaic
 
-The most secret script of the innermost rites of the deep sects of the deep desert. The birth-tongue, it is claimed, of the Mother of Ants herself.
+The most secret script of the innermost rites of the deep sects of the deep desert. The birth-tongue, it is claimed, of the [[Mother of Ants]] herself.
 ## Tree of Wisdom Entries
 
 ### Horomachistry I

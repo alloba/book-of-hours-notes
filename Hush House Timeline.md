@@ -6,21 +6,22 @@ tags:
 # Dawn Period
 599? -> ?. [[Dawn Period]]
 
-599 AD is traditionally the date of the first foundation on the Isle, but the timeline is murky. The Sisterhood of the Triple knot built their first templates much earlier. 
+599 AD is traditionally the date of the first foundation on the Isle, but the timeline is murky. The [[Sisterhood of the Triple knot]] built their first templates much earlier. 
 
 # Solar Gothic Period
 11th century -> 16th century.  [[Solar Gothic Period]]
-
 During this time the sisters and brothers of [[St Brandan's]] dwelt on the Isle. 
-In 1534 the Bronze King Henry dissolved the foundation, exiled the brethren, and gave the Isle to the family Dewulf.
 
 - 1230 - 1350 
 	- An endowment was given to the abbey by Eva de Braose, which enables expansion projects. 
 	- The Winter Tower is constructed, and dedicated to the Madrugad
 	- Abbess Nonna dies, 'by poisoning and Arts unsanctioned'. This causes the monastery to be reformed to only accept male novices. (1349) 
+- 1534 the [[King Henry VIII|Bronze King]] Henry dissolved St Brandan's, exiled the brethren, and gave the Isle to the family Dewulf, for services rendered.
 
 # Baronial Period
-16th century -> 1759. This time period had the Dewulf family governing the Isle as the Barons Brancrug, and was ended by a tragic death of their family line. 
+1534 -> 1759. This time period had the Dewulf family governing the Isle as the Barons Brancrug, and was ended by a tragic death of their family line. 
+
+- 1534 - Hendrik Dewulf gains ownership of the Isle. 
 
 # Curia Period
 18th century -> 1896. [[Curia Period]]

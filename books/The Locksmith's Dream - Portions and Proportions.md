@@ -32,4 +32,4 @@ In this volume, Galmier records fewer dreams, and explicates more of her own ela
 ### Study Complete Description
 I've Read...
 
-'The finest artisans all dream of the White Door in the end. I'm no artisan, only a scholar. I think there's a Secret that all these artisans know, but I think that Secret is only half the story.'
+'The finest artisans all dream of [[The White Door]] in the end. I'm no artisan, only a scholar. I think there's a Secret that all these artisans know, but I think that Secret is only half the story.'

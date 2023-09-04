@@ -19,5 +19,5 @@ tags:
 ## Description
 Coil & Chasm
 
-Worms, Seven-Coils, dangerous places; how earthquakes are bound and why they are released.
+Worms, [[Seven-Coils]], dangerous places; how earthquakes are bound and why they are released.
 ## Tree of Wisdom Entries

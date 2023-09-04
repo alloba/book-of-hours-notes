@@ -25,7 +25,7 @@ memory:
 ## Description
 Ascite Supplications
 
-Prayers addressed to the Horned-Axe by the Sisterhood of the Triple Knot.
+Prayers addressed to the Horned-Axe by the [[Sisterhood of the Triple Knot]].
 ### Partial Study Description
 
 ### Study Complete Description

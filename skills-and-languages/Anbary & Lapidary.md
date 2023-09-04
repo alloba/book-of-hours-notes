@@ -19,5 +19,5 @@ tags:
 ## Description
 Anbary & Lapidary
 
-'Lightning is a little life, and jewels are its eyes.' - Eva Dewulf
+'Lightning is a little life, and jewels are its eyes.' - [[world-at-large/Eva Dewulf|Eva Dewulf]]
 ## Tree of Wisdom Entries

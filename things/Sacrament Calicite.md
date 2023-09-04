@@ -17,7 +17,7 @@ tags:
 ## Description
 Sacrament Calicite
 
-Back in the Dawn Period, the Sisterhood of the Triple Knot used this in the rites of the Red Grail.
+Back in the Dawn Period, the [[Sisterhood of the Triple Knot]] used this in the rites of the Red Grail.
 ## Locations
 - [[Fludd Gallery]]
 - [[Chapel Calicite]]

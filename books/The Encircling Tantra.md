@@ -30,7 +30,7 @@ The explorer and entrepreneur T. Everett Duplantis once attempted to plunder the
 ### Partial Study Description
 I'm Reading...
 
-The Encircling Tantra speaks of the Serpent Gate, that hungry portal sometimes known as the Spider's Door, which is sacred to the Mother of Ants, through which the Great Hooded Princes pass. 
+The Encircling Tantra speaks of the [[Serpent Gate]], that hungry portal sometimes known as the [[Serpent Gate|Spider's Door]], which is sacred to the [[Mother of Ants]], through which the Great Hooded Princes pass. 
 ### Study Complete Description
 I've Read...
 

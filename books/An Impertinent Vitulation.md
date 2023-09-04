@@ -24,7 +24,7 @@ memory:
 ## Description
 An Impertinent Vitulation
 
-A book of kitchen-garden techniques and aphrodisiac recipes recorded by Ernestine Peterhans, the 'Iron Seneschale' of Hush House for three generations of Dewulfs.
+A book of kitchen-garden techniques and aphrodisiac recipes recorded by [[Ernestine Peterhans]], the 'Iron Seneschale' of Hush House for three generations of Dewulfs.
 ### Partial Study Description
 I'm Reading...
 

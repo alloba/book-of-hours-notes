@@ -23,7 +23,7 @@ memory:
 ## Description
 Medusa's Lament
 
-On the death of the Hour called Seven-Coils, 'the Father of the Mother'.
+On the death of the Hour called [[Seven-Coils]], 'the Father of the Mother'.
 ### Partial Study Description
 
 ### Study Complete Description
