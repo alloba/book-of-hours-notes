@@ -18,6 +18,6 @@ tags:
 ## Description
 'The Sister-and-Witch'
 
-'The Sister-and-Witch brings together what cannot be apart. She is sought beneath the moon and at the water's edge. She is pearl, amber, coral; she cannot be touched; she cannot be separated.'
+'The [[Sister-and-Witch]] brings together what cannot be apart. She is sought beneath the moon and at the water's edge. She is pearl, amber, coral; she cannot be touched; she cannot be separated.'
 ## Locations
 - [[Infirmary]]

@@ -19,6 +19,6 @@ tags:
 ## Description
 Wire (Steel)
 
-The Colonel's metal.
+The [[The Colonel|Colonel]]'s metal.
 ## Locations
 - [[Stores]]

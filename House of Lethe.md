@@ -1,0 +1,1 @@
+The House of Lethe was an order of immortals who sought obscurity, rejecting their past and future.

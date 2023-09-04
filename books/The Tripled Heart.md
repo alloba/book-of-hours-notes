@@ -36,4 +36,4 @@ The Grail is celebrated for her colours, the Malachite for her sweetness, the Ax
 ### Study Complete Description
 I've Read...
 
-The Thunderskin, least of the Hours of the Knot when he is even counted among their number at all, is celebrated with an unexpectedly poignant elegy. 'What lives, departs; what is dead, remains.'
+The [[Thunderskin]], least of the Hours of the Knot when he is even counted among their number at all, is celebrated with an unexpectedly poignant elegy. 'What lives, departs; what is dead, remains.'

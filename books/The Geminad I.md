@@ -30,7 +30,7 @@ A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty
 ### Partial Study Description
 I'm Reading...
 
-These pages outline the nature, and the doctrines, of an Hour that weaves together the willing, an Hour that is sought beneath the moon and at the water's edge: the Sister-and-Witch. The language is wilful, knotty, poetic. It'll take some untangling.
+These pages outline the nature, and the doctrines, of an Hour that weaves together the willing, an Hour that is sought beneath the moon and at the water's edge: the [[Sister-and-Witch]]. The language is wilful, knotty, poetic. It'll take some untangling.
 ### Study Complete Description
 I've Read...
 

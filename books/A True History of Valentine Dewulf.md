@@ -13,9 +13,9 @@ aspects:
 tags:
   - book
 lesson:
-  - "lesson: "
+  - "lesson: furs & feathers"
 memory:
-  - "memory: "
+  - "memory: fear"
 ---
 
 # A True History of Valentine Dewulf
@@ -23,7 +23,12 @@ memory:
 ## Description
 A True History of Valentine Dewulf
 
-Written in the third person by Valentine Dewulf. Rarely coherent, though it includes some useful footnotes on falconry and on exotic veterinary medicine.
+Written in the third person by [[world-at-large/Valentine Dewulf|Valentine Dewulf]]. Rarely coherent, though it includes some useful footnotes on falconry and on exotic veterinary medicine.
 ### Partial Study Description
+I'm Reading...
 
+Valentine is obssessed with the meaning of the Dewulf coat-of-arms: 'On a field or, a chevron enarched gules between two corby heads erased sable in chief and a wolf sejant sable in base.'
 ### Study Complete Description
+I've Read...
+
+'Long have the two birds pursued my blood, yet one is no Crow, yet it is darker. Long has the Wolf rolled itself in gold like a clovered cow, until its slobberings stain our thoughts…'

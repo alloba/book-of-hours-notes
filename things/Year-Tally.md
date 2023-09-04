@@ -15,7 +15,7 @@ tags:
 ## Description
 Year-Tally
 
-A chitty worth an additional year of life, scrupulously obtained through carefully balanced thaumaturgic attention to the Cindered Tally of the Madrugad.
+A chitty worth an additional year of life, scrupulously obtained through carefully balanced thaumaturgic attention to the Cindered Tally of the [[Madrugad]].
 ## Locations
 - [[Box of Rarities]]
 - [[Vestibulum Transitus]]

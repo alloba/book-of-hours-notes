@@ -27,7 +27,7 @@ memory:
 ## Description
 On Matthias and the Amethyst Imago: Loss
 
-An account of an occult romance. A certain Para, son of Aaron, claims to have written this in a single night as part of his initiation into the Damascene branch of the House of Lethe - that order of immortals who rejected their past and future.
+An account of an occult romance. A certain Para, son of Aaron, claims to have written this in a single night as part of his initiation into the Damascene branch of the [[House of Lethe]] - that order of immortals who rejected their past and future.
 ### Partial Study Description
 
 ### Study Complete Description

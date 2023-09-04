@@ -28,7 +28,7 @@ A lively account of the creation of each jewel at the world's beginning.
 ### Partial Study Description
 I'm Reading...
 
-Lively, yes; but also almost entirely nonsense. 'Pearl, the tears of the forgotten moon, caught by the Lionsmith in his net. Ruby, the blood of the first bird, stung by the Lionsmith's hammer.'
+Lively, yes; but also almost entirely nonsense. 'Pearl, the tears of the forgotten moon, caught by the [[Lionsmith]] in his net. Ruby, the blood of the first bird, stung by the Lionsmith's hammer.'
 ### Study Complete Description
 I've Read...
 

@@ -8,7 +8,7 @@ tags:
   - thing
 ---
 
-# Stained Glass Window - The Madrugad
+# Stained Glass Window - The [[Madrugad]]
 
 ## Description
 Stained Glass Window: the Madrugad

@@ -21,3 +21,7 @@ Sights & Sensations
 
 To mix the rarest colours, a merciless detachment is required.
 ## Tree of Wisdom Entries
+### Hushery I
+The End
+
+The artist knows: their every work could be improved. The artist understands: perfect work can never be completed. Perfection exists only as absence: Hushery understands this.

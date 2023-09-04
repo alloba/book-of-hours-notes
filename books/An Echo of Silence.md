@@ -25,7 +25,7 @@ memory:
 ## Description
 An Echo of Silence
 
-A very heterodox history of the House of Lethe as recorded by 'the Serenity' - a Lethean adept who declares that the House of Lethe was created explicitly to prevent the ascension of any more mortals to Name or Hour status.
+A very heterodox history of the [[House of Lethe]] as recorded by 'the Serenity' - a Lethean adept who declares that the House of Lethe was created explicitly to prevent the ascension of any more mortals to Name or Hour status.
 ### Partial Study Description
 
 ### Study Complete Description

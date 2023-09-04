@@ -24,7 +24,7 @@ memory:
 ## Description
 On Imperfections
 
-Poemander, light-smith and Lantern-long, describes the process of 'transinhabitation', which he calls 'a manifestation of imperfection.'
+[[Poemander]], light-smith and Lantern-long, describes the process of 'transinhabitation', which he calls 'a manifestation of imperfection.'
 ### Partial Study Description
 I'm Reading...
 

@@ -21,6 +21,15 @@ Sky Stories
 
 The nine winds gossip, and sometimes we can listen.
 ## Tree of Wisdom Entries
+### Horomachistry I
+The Tryst
+
+The Pilgrim's intrigue and the Grail's scheme
+The Sun in shadow and the Forge unseen
+The Swan King and the Elagabaline.
+
+This is Horomachistry.
+
 ### Birdsong III
 The Roost
 

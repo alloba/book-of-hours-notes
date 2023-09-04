@@ -17,6 +17,6 @@ tags:
 ## Description
 Skaptodon Fang
 
-It is rare for the Lionsmith to make skaptodons, now; but they are difficult to kill, and they live a very long time.
+It is rare for the [[Lionsmith]] to make skaptodons, now; but they are difficult to kill, and they live a very long time.
 ## Locations
 - [[Motley Tower - Dispensary]]

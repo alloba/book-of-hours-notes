@@ -26,7 +26,7 @@ memory:
 ## Description
 On What is Contained By Silver
 
-A dire bestiary of the horrors to be found in mirrors. This is a recent edition of a third century text by 'Poemander'.
+A dire bestiary of the horrors to be found in mirrors. This is a recent edition of a third century text by '[[Poemander]]'.
 ### Partial Study Description
 I'm Reading...
 

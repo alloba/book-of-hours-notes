@@ -26,4 +26,4 @@ Purifications & Exaltations
 ### Ithastry I
 The Tree
 
-Never underestimate the Hour named Madrugad. Foolish adepts deride her as an Hour of ashes. What do they think the Watchman's Tree sprang from? Fire purifies; light exalts.
+Never underestimate the Hour named [[Madrugad]]. Foolish adepts deride her as an Hour of ashes. What do they think the Watchman's Tree sprang from? Fire purifies; light exalts.

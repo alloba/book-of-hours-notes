@@ -30,7 +30,7 @@ Christoph Larquebus claimed to have purchased two hand-written copies of the Cod
 ### Partial Study Description
 I'm Reading...
 
-The Sister-and-Witch came from the West, where they were born in two wombs, one a princess, one a monster. Nevertheless they loved each other from birth, and met in secret 'to seek union'.
+The [[Sister-and-Witch]] came from the West, where they were born in two wombs, one a princess, one a monster. Nevertheless they loved each other from birth, and met in secret 'to seek union'.
 ### Study Complete Description
 I've Read...
 

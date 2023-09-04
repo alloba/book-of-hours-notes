@@ -30,7 +30,7 @@ Just before the outbreak of the Great War, 'Alexander Sparrow' - almost certainl
 ### Partial Study Description
 I'm Reading...
 
-The Tantra describes the Great Hooded Princes - a dynasty of unclear origin - engaging in prayers, sacrifices and poetry in honour of the Key-Serpent, the Crossroads-Twins and the Mirror-Queen. 'Nagi encircles; Nagi arises from wounds; Nagi spares those who are already harmed.'
+The Tantra describes the [[Great Hooded Princes]] - a dynasty of unclear origin - engaging in prayers, sacrifices and poetry in honour of the Key-Serpent, the Crossroads-Twins and the Mirror-Queen. 'Nagi encircles; Nagi arises from wounds; Nagi spares those who are already harmed.'
 ### Study Complete Description
 I've Read...
 

@@ -22,7 +22,7 @@ tags:
 ## Description
 Killasimi
 
-If there is speech in Nowhere; if there is a language used by the Dead; if the House of the Moon has a native tongue; then it must be Killasimi. If none of this is true, it is still not a language to be spoken in daylight. Each word breathes woe. Read it, as they say, and weep.
+If there is speech in [[Nowhere]]; if there is a language used by the Dead; if the House of the Moon has a native tongue; then it must be Killasimi. If none of this is true, it is still not a language to be spoken in daylight. Each word breathes woe. Read it, as they say, and weep.
 ## Tree of Wisdom Entries
 
 ### Skolekosophy I

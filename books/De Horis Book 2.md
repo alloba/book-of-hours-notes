@@ -30,8 +30,8 @@ In Latin. A nineteenth-century reprint (by the indefatigable Nathaniel Darcy-Eve
 ### Partial Study Description
 I'm Reading...
 
-This volume deals mostly with the Hour called Lionsmith, the Hour called the Tribune of Scars, and with their enmity.
+This volume deals mostly with the Hour called [[Lionsmith]], the Hour called the [[Tribune of Scars]], and with their enmity.
 ### Study Complete Description
 I've Read...
 
-'The Lionsmith makes monsters to defeat the Tribune; but the scars of the Tribune are each a weapon.'
+'The [[Lionsmith]] makes monsters to defeat the Tribune; but the scars of the Tribune are each a weapon.'

@@ -24,7 +24,7 @@ memory:
 ## Description
 By Their Marks Shall Ye Know them
 
-A monster-hunting initiate of the Hour named the Colonel, who identifies herself as 'Little Sophia', provides advice on finding the weak spots of Long.
+A monster-hunting initiate of the Hour named [[the Colonel]], who identifies herself as 'Little Sophia', provides advice on finding the weak spots of Long.
 ### Partial Study Description
 I'm Reading...
 

@@ -22,3 +22,4 @@ Lesson: Furs & Feathers
 I've gained more understanding of Furs & Feathers. [Use this card with Consider.]
 ## Sources
 - [[Hunting Journals of Bryan Dewulf]]
+- [[A True History of Valentine Dewulf]]

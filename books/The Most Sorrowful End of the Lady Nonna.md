@@ -29,7 +29,7 @@ An unauthorised account of the death of Abbess Nonna, written by Eusebia, one of
 ### Partial Study Description
 I'm Reading...
 
-Nonna has introduced Eusebia to an unsanctioned Thunderskin-cult which meets in the caves below the Abbey; there she and others perform sacred dances for 'the Preservation of the Kingdom.'
+Nonna has introduced Eusebia to an unsanctioned [[Thunderskin]]-cult which meets in the caves below the Abbey; there she and others perform sacred dances for 'the Preservation of the Kingdom.'
 ### Study Complete Description
 I've Read...
 

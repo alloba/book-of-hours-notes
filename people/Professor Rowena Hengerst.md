@@ -21,7 +21,7 @@ tags:
 ---
 # Professor Rowena Hengerst
 ## Description
-Professor Rowena Hengerst
+Professor [[Rowena Hengerst]]
 
 For many years, under many names, Rowena has done, learnt, or eaten many things she really shouldn't have. But for many years, under many names, she's served as the protectress of Hush House.
 ## Sources

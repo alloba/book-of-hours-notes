@@ -25,7 +25,7 @@ memory:
 ## Description
 On Matthias and the Amethyst Imago: Pursuit
 
-An account of an occult romance. A certain Mek claims to have written this in a single night as part of his initiation into the Theban branch of the House of Lethe - that order of immortals who used the arts of water to conceal themselves.
+An account of an occult romance. A certain Mek claims to have written this in a single night as part of his initiation into the Theban branch of the [[House of Lethe]] - that order of immortals who used the arts of water to conceal themselves.
 ### Partial Study Description
 
 ### Study Complete Description

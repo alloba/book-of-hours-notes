@@ -9,7 +9,7 @@ tags:
 # Chancel of the Abbey Church
 Chancel of the Abbey Church
 
-The Church of the Unconquered Sun acknowledges only a handful of Hours: the Sun in Rags or Splendour; the Meniscate; the Madrugad; the Watchman; and, reluctantly, the Wolf-Divided. Any other so-called 'Hours' must be lesser powers, wicked impostors, or superstitions.
+The Church of the Unconquered Sun acknowledges only a handful of Hours: the Sun in Rags or Splendour; the Meniscate; the [[Madrugad]]; the Watchman; and, reluctantly, the Wolf-Divided. Any other so-called 'Hours' must be lesser powers, wicked impostors, or superstitions.
 
 So the Church denies two of the three Hours of the Chancel. And yet it's the Chancel who are said to determine which of their peers qualify as Hours. That's theology for you.
 

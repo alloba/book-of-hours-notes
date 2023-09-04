@@ -23,7 +23,7 @@ memory:
 ## Description
 The Serenity of the Black Wood
 
-An allegorical history of the House of Lethe, which it is here implied was inspired by the Centipede. 'Sereno Blackwood' is an occult alias to this day.
+An allegorical history of the [[House of Lethe]], which it is here implied was inspired by the Centipede. 'Sereno Blackwood' is an occult alias to this day.
 ### Partial Study Description
 
 ### Study Complete Description

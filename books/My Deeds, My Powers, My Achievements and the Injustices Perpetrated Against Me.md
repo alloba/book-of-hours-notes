@@ -25,7 +25,7 @@ memory:
 ## Description
 My Deeds, My Powers, My Achievements and the Injustices Perpetrated Against Me
 
-A diatribe by Hokobald of Pocsind, formerly of the order of immortals called the House of Lethe (later the Ordo Limiae; much latter the Obliviates). He has scores to settle.
+A diatribe by Hokobald of Pocsind, formerly of the order of immortals called the [[House of Lethe]] (later the Ordo Limiae; much latter the Obliviates). He has scores to settle.
 ### Partial Study Description
 
 ### Study Complete Description

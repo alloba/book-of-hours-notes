@@ -25,7 +25,7 @@ memory:
 ## Description
 The Wonderful Shape
 
-Blessings and invocations of the Triple Knot recorded at a sanctuary in Cyprus notable for its weavers, sculptors, and gardeners.
+Blessings and invocations of the [[Sisterhood of the Triple Knot|Triple Knot]] recorded at a sanctuary in Cyprus notable for its weavers, sculptors, and gardeners.
 ### Partial Study Description
 
 ### Study Complete Description

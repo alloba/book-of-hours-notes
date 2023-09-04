@@ -6,7 +6,7 @@ tags:
 # Dawn Period
 599? -> ?. [[Dawn Period]]
 
-599 AD is traditionally the date of the first foundation on the Isle, but the timeline is murky. The [[Sisterhood of the Triple knot]] built their first templates much earlier. 
+599 AD is traditionally the date of the first foundation on the Isle, but the timeline is murky. The [[Sisterhood of the Triple Knot]] built their first templates much earlier. 
 
 # Solar Gothic Period
 11th century -> 16th century.  [[Solar Gothic Period]]
@@ -14,7 +14,7 @@ During this time the sisters and brothers of [[St Brandan's]] dwelt on the Isle.
 
 - 1230 - 1350 
 	- An endowment was given to the abbey by Eva de Braose, which enables expansion projects. 
-	- The Winter Tower is constructed, and dedicated to the Madrugad
+	- The Winter Tower is constructed, and dedicated to the [[Madrugad]]
 	- Abbess Nonna dies, 'by poisoning and Arts unsanctioned'. This causes the monastery to be reformed to only accept male novices. (1349) 
 - 1534 the [[King Henry VIII|Bronze King]] Henry dissolved St Brandan's, exiled the brethren, and gave the Isle to the family Dewulf, for services rendered.
 
@@ -40,5 +40,5 @@ A previous librarian's ([[world-at-large/Thirza Blake|Thirza Blake]]) enthusiasm
 
 >March 7th, 1936 - There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates are very difficult to find, but perhaps we have found one in you. Take care on  your journey - the seas around Brancrug are treacherous.
 
-- 1930 - The Restoration takes place. The violent methods employed by the New King's agents in search of his enemies generated much animosity in Brancrug Village. 
+- 1930 - The Restoration takes place. The violent methods employed by [[King Henry IX|the New King]]'s agents in search of his enemies generated much animosity in Brancrug Village. 
 - [[The Librarian]] has washed up upon the shore of [[Saint Brandan's Cove]]. They have arrived after weathering a fierce storm, and have only [[A Drowned Book]] with them. 

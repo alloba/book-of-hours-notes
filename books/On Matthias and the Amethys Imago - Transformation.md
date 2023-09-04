@@ -26,7 +26,7 @@ memory:
 ## Description
 On Matthias and the Amethyst Imago: Transformation
 
-An account of an occult romance. A certain Iyavogos claims to have written this in a single night as part of his initiation into the Aleppine branch of the House of Lethe - that order of immortals who would not pledge themselves to any Hour.
+An account of an occult romance. A certain Iyavogos claims to have written this in a single night as part of his initiation into the Aleppine branch of the [[House of Lethe]] - that order of immortals who would not pledge themselves to any Hour.
 ### Partial Study Description
 I'm Reading...
 

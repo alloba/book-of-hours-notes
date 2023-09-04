@@ -5,4 +5,4 @@ The leader of rebels, captured by [[world-at-large/Hendrik Dewulf|Hendrik Dewulf
 The final relationship between Red William and Hendrik Dewulf is not entirely clear. William was kept in a prison cell under the manor after his capture, but the cell was hardly anything severe. 
 
 The description of the [[Hermit Cell]] supposes an answer: 
-> Perhaps that other story is true - that William was an initiate of the Thunderskin, secretly maintained by Hendrik to prophesy for him 'in the ancient manner.' 
+> Perhaps that other story is true - that William was an initiate of the [[Thunderskin]], secretly maintained by Hendrik to prophesy for him 'in the ancient manner.' 

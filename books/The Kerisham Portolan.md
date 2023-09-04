@@ -31,4 +31,4 @@ It quickly becomes clear that many of its destinations no longer exist, or never
 ### Study Complete Description
 I've Read...
 
-Two pages have been gummed together. When teased apart they reveal a route to 'Ys Behind the Wave' - marked in red and gold inks with heavily underlined warnings. 'HERE THE FINAL CITY'. 'STRIKE THE HOURS.' 'LEST EARTH AND SKY BREAK OPEN…'
+Two pages have been gummed together. When teased apart they reveal a route to '[[Ys]] Behind the Wave' - marked in red and gold inks with heavily underlined warnings. 'HERE THE FINAL CITY'. 'STRIKE THE HOURS.' 'LEST EARTH AND SKY BREAK OPEN…'

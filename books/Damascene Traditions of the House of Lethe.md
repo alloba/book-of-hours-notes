@@ -23,9 +23,9 @@ memory:
 # Damascene Traditions of the House of Lethe
 
 ## Description
-Damascene Traditions of the House of Lethe
+Damascene Traditions of the [[House of Lethe]]
 
-The House of Lethe was an order of immortals who sought obscurity, rejecting their past and future. If the author of this short text is to be believed, the initiates of the Damascene branch were much more radical than their fellows elsewhere.
+The [[House of Lethe]] was an order of immortals who sought obscurity, rejecting their past and future. If the author of this short text is to be believed, the initiates of the Damascene branch were much more radical than their fellows elsewhere.
 ### Partial Study Description
 
 ### Study Complete Description

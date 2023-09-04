@@ -26,6 +26,6 @@ challenges:
 ## Description
 Rowenarium
 
-Rowena the Ligeian, protectress of the House, holds the Mare's Key of worm-stone, which opens the door to Nowhere. Now and then, she has lent it unwisely. But only once has she lent it to Ys.
+[[Rowena Hengerst|Rowena]] the Ligeian, protectress of the House, holds the Mare's Key of worm-stone, which opens the door to [[Nowhere]]. Now and then, she has lent it unwisely. But only once has she lent it to [[Ys]].
 ## Locations
 - [[places/Rowenarium|Rowenarium]]

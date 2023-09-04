@@ -32,7 +32,7 @@ The Limian Burzghash's gazetteer of the patterns and rhythms of the Hours' progr
 ### Partial Study Description
 I'm Reading...
 
-'Each century in the Mansus is a great feasting-hall. In each ninety-ninth year, the hall falls silent; the Elegiast sits alone at the feast.'
+'Each century in the Mansus is a great feasting-hall. In each ninety-ninth year, the hall falls silent; the [[Elegiast]] sits alone at the feast.'
 ### Study Complete Description
 I've Read...
 

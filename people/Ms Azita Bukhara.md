@@ -29,6 +29,6 @@ tags:
 ## Description
 Ms Azita Bukhara
 
-Businesswoman, chess-master, initiate of the scarred Hour sometimes called the Colonel.
+Businesswoman, chess-master, initiate of the scarred Hour sometimes called [[the Colonel]].
 ## Sources
 

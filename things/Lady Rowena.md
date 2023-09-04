@@ -11,7 +11,7 @@ tags:
 # Lady Rowena
 
 ## Description
-'Lady Rowena'
+'Lady [[Rowena Hengerst|Rowena]]'
 
 For as long as there has been a Hush House, there have been stories of its enigmatic protectress.
 ## Locations

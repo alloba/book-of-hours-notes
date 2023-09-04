@@ -30,3 +30,4 @@ Memory: Fear
 - [[Hunting Journals of Bryan Dewulf]]
 - [[The Tantra of Worms]]
 - [[Key of Night]]
+- [[A True History of Valentine Dewulf]]

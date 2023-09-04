@@ -32,4 +32,4 @@ Sparrow acknowledges five Histories, insists the Third History may be 'overrun b
 ### Study Complete Description
 I've Read...
 
-Sparrow, with his usual paranoia, appears to be conflating the horror of the Worm Wars and the Great Writhing with the activities of the Great Hooded Princes. Still, he draws thought-provoking comparisons between the Princes - normally conceived as exotic Knock-long - and the widely feared Worms.
+Sparrow, with his usual paranoia, appears to be conflating the horror of the Worm Wars and the Great Writhing with the activities of the [[Great Hooded Princes]]. Still, he draws thought-provoking comparisons between the Princes - normally conceived as exotic Knock-long - and the widely feared Worms.

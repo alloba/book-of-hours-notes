@@ -23,7 +23,7 @@ memory:
 ## Description
 Oblations in Iron
 
-A Monster-hunting initiate of the Hour named the Colonel, who identifies herself as 'Little Sophia', records the exhibits she has rendered to the Worm Museum in the Mansus.
+A Monster-hunting initiate of the Hour named [[the Colonel]], who identifies herself as 'Little Sophia', records the exhibits she has rendered to the Worm Museum in the Mansus.
 ### Partial Study Description
 I'm Reading...
 

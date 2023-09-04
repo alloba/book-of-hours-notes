@@ -13,7 +13,7 @@ tags:
 # The Thunderskin
 
 ## Description
-'The Thunderskin'
+'The [[Thunderskin]]'
 
 'He cannot be stilled; he demands the dance; he is beaten, like a drum. He is heard in the Wood below the world.'
 ## Locations

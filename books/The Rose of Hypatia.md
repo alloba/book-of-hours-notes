@@ -23,7 +23,7 @@ memory:
 ## Description
 The Rose of Hypatia
 
-A volume of collected teachings of the [[Sisterhood of the Knot]], that arcane-contemplative order that existed in all histories, but in some was very powerful indeed. This was recorded by 'Hypatia', and dedicated to St Nympha.
+A volume of collected teachings of the [[Sisterhood of the Triple Knot]], that arcane-contemplative order that existed in all histories, but in some was very powerful indeed. This was recorded by 'Hypatia', and dedicated to St Nympha.
 ### Partial Study Description
 
 ### Study Complete Description

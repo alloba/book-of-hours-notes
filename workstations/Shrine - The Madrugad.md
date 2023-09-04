@@ -26,6 +26,6 @@ challenges:
 ## Description
 Shrine: the Madrugad
 
-The Madrugad is the Hour which cannot be unbalanced; which quells and quiets; which comes before the sun
+The [[Madrugad]] is the Hour which cannot be unbalanced; which quells and quiets; which comes before the sun
 ## Locations
 - [[Glorious Stair]]

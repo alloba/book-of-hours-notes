@@ -23,7 +23,7 @@ memory:
 ## Description
 Opening the Sky
 
-An unusual recording of Verro's 'Opening the Sky', composed for the coronation of the New King, Henry IX. The record bears the Suppression stamp EXPUNGE.
+An unusual recording of Verro's 'Opening the Sky', composed for the coronation of [[King Henry IX|the New King]], Henry IX. The record bears the Suppression stamp EXPUNGE.
 ### Partial Study Description
 
 ### Study Complete Description

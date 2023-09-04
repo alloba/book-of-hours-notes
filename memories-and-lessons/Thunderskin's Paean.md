@@ -14,7 +14,7 @@ tags:
   - 
 ---
 
-# Thunderskin's Paean
+# [[Thunderskin]]'s Paean
 
 ## Description
 

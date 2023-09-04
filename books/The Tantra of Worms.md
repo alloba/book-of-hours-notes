@@ -30,7 +30,7 @@ The entomologist Juliana Zawistowski eventually came to insist that this text wa
 ### Partial Study Description
 I'm Reading...
 
-The Tantra explains various less than practical countermeasures against the Worms, the 'Serpents Which Are Not Serpents'. Moth and Winter are closest to them, and so understand their weaknesses, but both have their own perils. The Lionsmith crushes them, but that's not recommended for mortals.
+The Tantra explains various less than practical countermeasures against the Worms, the 'Serpents Which Are Not Serpents'. Moth and Winter are closest to them, and so understand their weaknesses, but both have their own perils. The [[Lionsmith]] crushes them, but that's not recommended for mortals.
 ### Study Complete Description
 I've Read...
 

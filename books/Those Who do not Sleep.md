@@ -26,7 +26,7 @@ memory:
 ## Description
 Those Who Do Not Sleep
 
-The mystic Brodnax discusses the origins of the Sister-and-Witch, and of the Thunderskin.
+The mystic Brodnax discusses the origins of the [[Sister-and-Witch]], and of the [[Thunderskin]].
 ### Partial Study Description
 I'm Reading...
 

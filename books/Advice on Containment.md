@@ -32,4 +32,4 @@ Thirza is irritatingly light on specifics, insisting above all that the duties o
 ### Study Complete Description
 I've Read...
 
-Thirza notes the similarities between the Lantern-long habit of 'scrining' - returning to the physical world, despite their absence of a body, by entering a mirror or light - and Poemander's techniques of confining Mansus-long to mirrors. She wonders whether Poemander himself might be lured to visit Hush House if provided with a sufficiently alluring scrine.
+Thirza notes the similarities between the Lantern-long habit of 'scrining' - returning to the physical world, despite their absence of a body, by entering a mirror or light - and [[Poemander]]'s techniques of confining Mansus-long to mirrors. She wonders whether Poemander himself might be lured to visit Hush House if provided with a sufficiently alluring scrine.

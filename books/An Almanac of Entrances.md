@@ -32,4 +32,4 @@ Harries discusses the role played by the 'Légion du Seuil' and the 'Company of 
 ### Study Complete Description
 I've Read...
 
-'The Mansus, as Ys, lacks walls; Ys and the Mansus have both their gates, and there may be no gate without a wall. Thus the paradox resolves, as all those who walk in dream will learn. But the Wood has neither gate nor wall, and so it is the Wood whose roots may creep after us into the hours of our waking.'
+'The Mansus, as [[Ys]], lacks walls; Ys and the Mansus have both their gates, and there may be no gate without a wall. Thus the paradox resolves, as all those who walk in dream will learn. But the Wood has neither gate nor wall, and so it is the Wood whose roots may creep after us into the hours of our waking.'
