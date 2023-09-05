@@ -12,8 +12,6 @@ aspects:
     amount : 18
   - name: "written in fucine"
     amount : 1
-  - name: "chionic theoplasma"
-    amount : 1
 tags:
   - book
 lesson:

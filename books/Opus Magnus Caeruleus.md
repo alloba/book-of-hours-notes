@@ -21,7 +21,7 @@ memory:
 ## Description
 Opus Magnus Caeruleus
 
-Ambrose Westcott used to render the title of this venerable and anonymous work mockingly as 'the Big Blue Business'. A kinder translation would be 'the Great Work in Azure'.
+[[Ambrose Westcott]] used to render the title of this venerable and anonymous work mockingly as 'the Big Blue Business'. A kinder translation would be 'the Great Work in Azure'.
 ### Partial Study Description
 
 ### Study Complete Description

@@ -24,3 +24,4 @@ I've gained more understanding of The Great Signs and the Great Scars. [Use this
 - [[Cardea's Delights]]
 - [[The Rapture of Forculus]]
 - [[Oghkor Oghkor Tissilak Oghkor]]
+- [[The Elations of Limentinus]]

@@ -22,3 +22,4 @@ Lesson: Drums & Dances
 I've gained more understanding of Drums & Dances. [Use this card with Consider.]
 ## Sources
 - [[Cheerful Ditty]]
+- [[Rapt in the King]]

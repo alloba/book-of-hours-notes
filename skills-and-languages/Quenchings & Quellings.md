@@ -21,5 +21,5 @@ tags:
 ## Description
 Quenchings & Quellings
 
-Arts which quench fires and bring solace to the troubled mind. 'A true adept is never troubled by fire, nor by fever, nor by restless spirit.' - Ambrose Westcott
+Arts which quench fires and bring solace to the troubled mind. 'A true adept is never troubled by fire, nor by fever, nor by restless spirit.' - [[Ambrose Westcott]]
 ## Tree of Wisdom Entries

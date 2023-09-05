@@ -24,7 +24,7 @@ memory:
 ## Description
 Ambrosial!
 
-Ambrose Westcott's inventive - one might say pioneering, or indeed buccaneering - essays into kitchencraft.
+[[Ambrose Westcott]]'s inventive - one might say pioneering, or indeed buccaneering - essays into kitchencraft.
 ### Partial Study Description
 I'm Reading...
 

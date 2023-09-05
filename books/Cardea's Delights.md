@@ -14,6 +14,7 @@ aspects:
     amount : 1
 tags:
   - book
+  - studied
 lesson:
   - "lesson: the great signs and the great scars"
 memory:

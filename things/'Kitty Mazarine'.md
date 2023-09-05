@@ -11,7 +11,7 @@ tags:
 # Kitty Mazarine
 
 ## Description
-'Kitty Mazarine'
+'[[Kitty Mazarine]]'
 
 This bust is carved from black limestone.
 ## Locations

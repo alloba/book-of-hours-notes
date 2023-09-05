@@ -5,13 +5,13 @@ let containsAspects = (item, valids) => {
 	return item.aspects.map(x => x.name).some(y => valids.includes(y))
 }
 
-let working_set = dv.pages('"memories-and-lessons"')
+let working_set = dv.pages('"things"')
 
 dv.table(
 	['Item', 'Aspects'],
 	working_set
 	.filter(x => x.aspects)
-	.filter(x => containsAspects(x, ['weather']))
+	.filter(x => containsAspects(x, ['fuel']))
 	.map(x => 
 	[
 		x.file.link,

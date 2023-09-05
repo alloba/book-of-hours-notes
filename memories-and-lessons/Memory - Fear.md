@@ -32,3 +32,4 @@ Memory: Fear
 - [[Key of Night]]
 - [[A True History of Valentine Dewulf]]
 - [[Seven Faces of Icarus]]
+- [[Skin of Silver]]

@@ -25,3 +25,4 @@ I've gained more understanding of Disciplines of the Hammer. [Use this card with
 - [[De Horis Book 2]]
 - [[The Carmine Petal - Unexpurgated]]
 - [[The High Traditions of the Noble Endeavour]]
+- [[Skin of Silver]]

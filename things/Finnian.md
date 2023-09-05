@@ -15,6 +15,6 @@ tags:
 ## Description
 Finnian
 
-Ambrose Westcott liked to name his hunting trophies after former rivals or adversaries whom (he said) his trophies resembled.
+[[Ambrose Westcott]] liked to name his hunting trophies after former rivals or adversaries whom (he said) his trophies resembled.
 ## Locations
 - [[Westcott Room]]

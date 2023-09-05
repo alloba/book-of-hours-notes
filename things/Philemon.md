@@ -15,6 +15,6 @@ tags:
 ## Description
 Philemon
 
-Ambrose Westcott liked to name his hunting trophies after former rivals whom (he said) his trophies resembled.
+[[Ambrose Westcott]] liked to name his hunting trophies after former rivals whom (he said) his trophies resembled.
 ## Locations
 - [[Westcott Room]]

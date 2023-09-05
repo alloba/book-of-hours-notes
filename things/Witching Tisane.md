@@ -25,4 +25,4 @@ Witching Tisane
 - [[Librarians's Quarters]]
 - Crafting
 	- [[Grail]](5) + [[Desires & Dissolutions]]
-	- [[Witching Tisane]] + [[Grail]](5)
+	- [[The Great Signs and the Great Scars]] + [[Grail]](5)

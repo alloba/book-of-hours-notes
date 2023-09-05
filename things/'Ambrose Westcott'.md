@@ -11,7 +11,7 @@ tags:
 # Ambrose Westcott
 
 ## Description
-'Ambrose Westcott'
+'[[Ambrose Westcott]]'
 
 This bust is cast in brass.
 ## Locations

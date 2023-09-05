@@ -23,3 +23,4 @@ I've gained more understanding of Anbary & Lapidary. [Use this card with Conside
 ## Sources
 - [[Eva's Treasury]]
 - [[In the Malleary]]
+- [[The Other Eye of the Serpent]]

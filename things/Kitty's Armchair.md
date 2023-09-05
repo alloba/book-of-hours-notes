@@ -13,6 +13,6 @@ tags:
 ## Description
 Kitty's Armchair
 
-This <i>looks</i> very like the armchair in which Kitty Mazarine, second Librarian, sat for El Bretón's famous group portrait.
+This <i>looks</i> very like the armchair in which [[Kitty Mazarine]], second Librarian, sat for El Bretón's famous group portrait.
 ## Locations
 - [[Watchman's Tower - Observatory]]

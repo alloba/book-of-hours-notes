@@ -23,6 +23,6 @@ challenges:
 ## Description
 Instrument: Piano
 
-A gift from Kitty Mazarine, who would sometimes pop by of an evening to sing. But her successor Solomon, never one for music, disliked the way its notes would drift up the stairs to the Reading Room, and forbade the staff to play their piano before sunset.
+A gift from [[Kitty Mazarine]], who would sometimes pop by of an evening to sing. But her successor Solomon, never one for music, disliked the way its notes would drift up the stairs to the Reading Room, and forbade the staff to play their piano before sunset.
 ## Locations
 - [[Servant's Hall]]

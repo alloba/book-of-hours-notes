@@ -11,4 +11,4 @@ tags:
 ## Description
 Westcott Room
 
-'By God, Sir, we shall have have no Cigars in the Library, and we shall have no House without a Smoking-Room.' Dr Ambrose Westcott (1734-1797)
+'By God, Sir, we shall have have no Cigars in the Library, and we shall have no House without a Smoking-Room.' Dr [[Ambrose Westcott]] (1734-1797)

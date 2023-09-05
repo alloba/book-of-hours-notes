@@ -32,3 +32,5 @@ Something fits just right.
 - [[The Grand Passage of the Hours]]
 - [[Oghkor Oghkor Tissilak Oghkor]]
 - [[Against Vitruvius]]
+- [[The Other Eye of the Serpent]]
+- [[The Elations of Limentinus]]
