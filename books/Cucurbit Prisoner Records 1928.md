@@ -27,7 +27,7 @@ Accounts by Governor Collers' private secretary of interventions and experiments
 ### Partial Study Description
 I'm Reading...
 
-Something called a 'Singlefoot', a horned mountain-dweller, is brought back from some kind of embassy to the Grove of Green Immortals. Collers expresses his irritation that Gervinus van Lauren refuses to assist in its containment.
+Something called a 'Singlefoot', a horned mountain-dweller, is brought back from some kind of embassy to the Grove of Green Immortals. Collers expresses his irritation that [[Gervinus Van Lauren]] refuses to assist in its containment.
 ### Study Complete Description
 I've Read...
 

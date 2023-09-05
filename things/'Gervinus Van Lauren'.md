@@ -8,7 +8,7 @@ tags:
   - thing
 ---
 
-# Gervinus Van Lauren
+# [[Gervinus Van Lauren]]
 
 ## Description
 'Gervinus van Lauren'

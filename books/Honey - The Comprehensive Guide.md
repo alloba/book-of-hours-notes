@@ -23,7 +23,7 @@ memory:
 ## Description
 Honey: the Comprehensive Guide
 
-Harvey Hattington - pilot, polymath, confectioner - writes with great enthusiasm about the 'marvellous work of the Bee'.
+[[Harvey Hattington]] - pilot, polymath, confectioner - writes with great enthusiasm about the 'marvellous work of the Bee'.
 ### Partial Study Description
 
 ### Study Complete Description

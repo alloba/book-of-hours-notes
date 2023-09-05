@@ -20,6 +20,6 @@ Sight, perception, inspiration, all the Glory's gifts. [One of the nine parts of
 ## Fatigued
 Phost [fatigued]
 
-Sight, perception, inspiration, all the Glory's gifts.
+Sight, perception, inspiration, all [[The Glory]]'s gifts.
 ## Strained
 

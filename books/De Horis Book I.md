@@ -34,4 +34,4 @@ This volume deals mostly with the Hours of the Wood: the Moth, the Black-Flax, t
 ### Study Complete Description
 I've Read...
 
-The Glory is a question, and the Moth always answers 'Yes'.'
+[[The Glory]] is a question, and the Moth always answers 'Yes'.'

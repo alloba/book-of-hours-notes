@@ -28,7 +28,7 @@ An apparently theoretical project proposed by 'Lionel' of the Society of the Nob
 ### Partial Study Description
 I'm Reading...
 
-The book was evidently revised some time after the Wars of the Roads had ended, but even then this kind of discussion would have been politically difficult.
+The book was evidently revised some time after the [[Wars of the Roads]] had ended, but even then this kind of discussion would have been politically difficult.
 ### Study Complete Description
 I've Read...
 

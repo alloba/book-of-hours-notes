@@ -13,7 +13,7 @@ tags:
 ## Description
 'Portrait of a Behatted Lady'
 
-'The More Prominent the Headgear, the Closer to the Glory'.
+'The More Prominent the Headgear, the Closer to [[The Glory]]'.
 ## Locations
 - [[Fludd Gallery]]
 - [[Refectory]]

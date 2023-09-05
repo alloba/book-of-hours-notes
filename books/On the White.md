@@ -24,7 +24,7 @@ memory:
 ## Description
 On the White
 
-Solomon Husher writes, perhaps allegorically, of Winter, and its long slow doomed romance with the Sun. The epigraph is 'Sunset at Noon'.
+[[Solomon Husher]] writes, perhaps allegorically, of Winter, and its long slow doomed romance with the Sun. The epigraph is 'Sunset at Noon'.
 ### Partial Study Description
 I'm Reading...
 

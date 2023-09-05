@@ -28,7 +28,7 @@ On Imperfections
 ### Partial Study Description
 I'm Reading...
 
-Lantern-long lack bodies, and so cannot normally leave the Mansus - but they can 'steady-glint' in the physical world by establishing a 'road of glass'. Poemander notes with disgust that the order of Long called the Obliviates refer to it as 'scrining', which he considers a 'debased term'.
+Lantern-long lack bodies, and so cannot normally leave [[world-at-large/The Mansus|the Mansus]] - but they can 'steady-glint' in the physical world by establishing a 'road of glass'. Poemander notes with disgust that the order of Long called the Obliviates refer to it as 'scrining', which he considers a 'debased term'.
 ### Study Complete Description
 I've Read...
 

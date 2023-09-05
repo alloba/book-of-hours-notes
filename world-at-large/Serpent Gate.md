@@ -1,6 +1,7 @@
 ---
 aliases:
   - "Spider's Door"
+  - "Spider Door"
 ---
 
-An entrance into [[world-at-large/The Mansus|The Mansus]]
+A Way in [[world-at-large/The Mansus|The Mansus]]

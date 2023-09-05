@@ -1,0 +1,1 @@
+One of the two sisters accused of having murdered [[Abbess Nonna]] through 'poisoning and Arts unsanctioned.'

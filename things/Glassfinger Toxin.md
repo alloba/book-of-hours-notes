@@ -19,7 +19,7 @@ tags:
 ## Description
 Glassfinger Toxin
 
-'What is within, without; what is without, within.' A poison sacred to the votaries of the Meniscate.
+'What is within, without; what is without, within.' A poison sacred to the votaries of [[Meniscate|the Meniscate]].
 ## Locations
 - [[Fludd Gallery]]
 - [[Motley Tower - Dispensary]]

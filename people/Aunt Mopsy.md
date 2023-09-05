@@ -21,6 +21,8 @@ tags:
 ---
 # Aunt Mopsy
 ## Description
+Aunt Mopsy
 
+Collector of proverbs, connoisseur of wines, herald of the Hour called [[Mare-in-the-Tree]].
 ## Sources
 

@@ -21,6 +21,10 @@ Weaving & Knotworking
 
 'Hee hee hee hee hee hee hee hee hee. Hee.' - Valentine Dewulf
 ## Tree of Wisdom Entries
+### Bosk II
+What Endures
+
+Cut a thread, and the tapestry must be healed. Bosk renews the weave.
 ### Birdsong IV
 What Remains
 

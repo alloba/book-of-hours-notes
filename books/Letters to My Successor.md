@@ -24,7 +24,7 @@ memory:
 ## Description
 Letters To My Successor
 
-Advice from Gervinus van Lauren, eleventh Librarian of Hush House, to the one who will come after him.
+Advice from [[Gervinus Van Lauren]], eleventh Librarian of Hush House, to the one who will come after him.
 ### Partial Study Description
 I'm Reading...
 
@@ -32,4 +32,4 @@ Some of the advice is practical - don't worry about losing the House Key; always
 ### Study Complete Description
 I've Read...
 
-'When I was another, I made a foolish wager with the Hooded Princes, to solve seven riddles. I had not realised the riddles would be set by me for the one I would become. Six are resolved. The seventh will be the end of me. It waits now in the cellar of the Gaol, where Collers still believes I can keep it confined. But the first riddle told me I would not see the Second Dawn...'
+'When I was another, I made a foolish wager with the [[Great Hooded Princes|Hooded Princes]], to solve seven riddles. I had not realised the riddles would be set by me for the one I would become. Six are resolved. The seventh will be the end of me. It waits now in the cellar of the Gaol, where Collers still believes I can keep it confined. But the first riddle told me I would not see the Second Dawn...'

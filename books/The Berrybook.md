@@ -23,7 +23,7 @@ memory:
 ## Description
 The Berrybook
 
-Thirza Blake, seventh librarian of Hush House, talks about fruit. For no other apparent reason but that it was the kind of thing she did, she talks about fruit in the woven language Killasimi.
+[[world-at-large/Thirza Blake|Thirza Blake]], seventh librarian of Hush House, talks about fruit. For no other apparent reason but that it was the kind of thing she did, she talks about fruit in the woven language Killasimi.
 ### Partial Study Description
 
 ### Study Complete Description

@@ -20,3 +20,7 @@ Labhitic Tincture
 A much more potent preparation can be extracted from the remains of a labhite, but labhites generally frown on this technique.
 ## Locations
 - [[Kitchen]]
+- [[Gaol Kitchen]]
+- [[Crucible Tower - Interview Laboratory]]
+- crafting
+	- [[Disciplines of the Hammer]] + [[Edge]](5)

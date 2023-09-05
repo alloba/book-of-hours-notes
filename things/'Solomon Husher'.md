@@ -11,7 +11,7 @@ tags:
 # Solomon Husher
 
 ## Description
-'Solomon Husher'
+'[[Solomon Husher]]'
 
 This bust is the palest white marble.
 ## Locations

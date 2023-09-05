@@ -11,7 +11,7 @@ But, Madam, I warded not against the Pettiest and the Meanest. When one takes a 
 
 ...
 
-Madam, I have taken the necessary Time to compose Myself, and I will tell the Rest but briefly. The Raw-Prophet was drawn to the 'History of Inks', by what I know not. E'en as I turned to fill the Calcin, it fell upon the Book and by the Time I had turned back the Book was all but Engulfed. I strove mightily against the Raw-Prophet with the Strength - the great Strength - of my Arms but Raw-Prophets are Flexile and Indelicate Creatures and I won only Slime and Besmirchment and Intimate Assault, at no small Cost to my Dignity.
+Madam, I have taken the necessary Time to compose Myself, and I will tell the Rest but briefly. The Raw-Prophet was drawn to the 'History of Inks', by what I know not. E'en as I turned to fill the Calcin, it fell upon the Book and by the Time I had turned back the Book was all but Engulfed. I strove mightily against the Raw-Prophet with the Strength - the great Strength - of my Arms but [[Raw-Prophets]] are Flexile and Indelicate Creatures and I won only Slime and Besmirchment and Intimate Assault, at no small Cost to my Dignity.
 
 Therefore Madam I do now insist and demand that
 

@@ -22,3 +22,4 @@ Lesson: Disciplines of the Scar
 I've gained more understanding of Disciplines of the Scar. [Use this card with Consider.]
 ## Sources
 - [[De Bellis Murorum]]
+- [[De Horis Book 3]]

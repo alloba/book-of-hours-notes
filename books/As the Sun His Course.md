@@ -34,4 +34,4 @@ Alexander meets at Issus with Darius, King of Kings, for three days and three ni
 ### Study Complete Description
 I've Read...
 
-At dawn on the fourth day, Alexander announces: 'the Sun has his course, upon which he returns; and so do I'. He returns to Macedonia, executing two of his captains when they dispute his decision. He brings with him the 'names of a blind God', and a 'rite of sacred betrayal': for, Joel opines, without betrayal there would be an end to war.
+At dawn on the fourth day, Alexander announces: '[[Sun-In-Splendour|the Sun]] has his course, upon which he returns; and so do I'. He returns to Macedonia, executing two of his captains when they dispute his decision. He brings with him the 'names of a blind God', and a 'rite of sacred betrayal': for, Joel opines, without betrayal there would be an end to war.

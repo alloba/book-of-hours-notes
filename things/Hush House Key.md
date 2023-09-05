@@ -25,3 +25,4 @@ Used to unlock the doors of [[Hush House]]
 Can be found in several locations: 
 - [[Keeper's Lodge]], on the mantle-place. 
 - Gardens within [[Hush House]]
+- [[Hush House Well]]

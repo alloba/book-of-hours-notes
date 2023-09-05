@@ -34,4 +34,4 @@ The writer credits the Red Grail, the Ring-Yew and the Horned-Axe - the powers t
 ### Study Complete Description
 I've Read...
 
-The Thunderskin entered the Mansus through the Peacock Door, 'a privilege never given to the Witch-and-Sister: but then their merit was much less'. The writer admits that entry through the Peacock Door is unseemly, but insists that under the circumstances, there was no other way.
+The Thunderskin entered [[world-at-large/The Mansus|the Mansus]] through the Peacock Door, 'a privilege never given to the Witch-and-Sister: but then their merit was much less'. The writer admits that entry through the Peacock Door is unseemly, but insists that under the circumstances, there was no other way.

@@ -27,7 +27,7 @@ memory:
 ## Description
 How the End will Begin
 
-A prophecy of the Wars of the Roads, recorded in the Subcontinent in the days before the [[Great Hooded Princes]].
+A prophecy of the [[Wars of the Roads]], recorded in the Subcontinent in the days before the [[Great Hooded Princes]].
 ### Partial Study Description
 
 ### Study Complete Description

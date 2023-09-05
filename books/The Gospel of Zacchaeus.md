@@ -26,7 +26,7 @@ memory:
 ## Description
 The Gospel of Zacchaeus
 
-An extremely heterodox account of the Nazarene Messiah and his works, describing his ascension to the Mansus through the opening of his body.
+An extremely heterodox account of the Nazarene Messiah and his works, describing his ascension to [[world-at-large/The Mansus|the Mansus]] through the opening of his body.
 ### Partial Study Description
 I'm Reading...
 

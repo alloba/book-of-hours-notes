@@ -30,7 +30,7 @@ The diaries of the explorer and murderer Lars Westergren. He's unhelpfully trans
 ### Partial Study Description
 I'm Reading...
 
-There are map-legends, there are maps of legends, and there are legends of maps. Aspects of the Mansus subsist in all of these, in much the same way that you find water in a swamp and in a cup and in the sky.'
+There are map-legends, there are maps of legends, and there are legends of maps. Aspects of [[world-at-large/The Mansus|the Mansus]] subsist in all of these, in much the same way that you find water in a swamp and in a cup and in the sky.'
 ### Study Complete Description
 I've Read...
 

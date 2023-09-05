@@ -26,7 +26,7 @@ memory:
 ## Description
 Bancroft Diaries
 
-Lord [[Franklin Bancroft]] was initiated into the arts of the Flowermaker by the 'rose-witch' Fionna Ayrshire. He rose to become a Society provider of occult services and secret pleasures, before his abrupt disappearance in 1790.
+Lord [[Franklin Bancroft]] was initiated into the arts of the Flowermaker by the 'rose-witch' [[Fionna Ayrshire]]. He rose to become a Society provider of occult services and secret pleasures, before his abrupt disappearance in 1790.
 ### Partial Study Description
 I'm Reading...
 

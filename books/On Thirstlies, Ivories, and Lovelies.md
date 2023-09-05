@@ -23,7 +23,7 @@ memory:
 ## Description
 On Thirstlies, Ivories and Lovelies
 
-Fionna Ayrshire recounts her visits in dreams to the 'Red Church' in the Mansus, and her conversations with the Names of the Grail.
+[[Fionna Ayrshire]] recounts her visits in dreams to the 'Red Church' in the Mansus, and her conversations with the Names of the Grail.
 ### Partial Study Description
 
 ### Study Complete Description

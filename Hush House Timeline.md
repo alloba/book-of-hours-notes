@@ -35,7 +35,7 @@ A secretive cabal of scholars establish the 'Curia of the Isle' to manage Hush H
 A previous librarian's ([[world-at-large/Thirza Blake|Thirza Blake]]) enthusiasms sunk Hush House into great debt. The Suppression Bureau stepped in and offered funding. In exchange, Hush House underwent yearly inspections, and gave a portion of the Isle for the Branch's prison. 
 
 - 1915 - The Suppression Bureau has the bells "Shur's Tongue" and "Janice" recast, as a repayment of a favor rendered by Serena Blackwood. 
-- 1929 - A great fire runs through the gaol of Hull House. The fire was caused by the power below the prison, escaped from the [[Oubliette Containment]]. This caused the death of [[George Collers]], and marks the end of the Suppression Bureau's presence on the Isle, as well as the end of the Nocturnal period. 
+- 1929 - A great fire runs through the gaol of Hull House. The fire was caused by the power below the prison, escaped from the [[Oubliette Containment]]. This caused the death of [[George Collers]] (and perhaps [[Gervinus Van Lauren]], and marks the end of the Suppression Bureau's presence on the Isle, as well as the end of the Nocturnal period. 
 # Present Day
 
 >March 7th, 1936 - There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates are very difficult to find, but perhaps we have found one in you. Take care on  your journey - the seas around Brancrug are treacherous.

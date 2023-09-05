@@ -22,3 +22,4 @@ Lesson: Inks of Revelation
 I've gained more understanding of Inks of Revelation. [Use this card with Consider.]
 ## Sources
 - [[Letters to My Successor]]
+- [[A Light in the Inkwell]]

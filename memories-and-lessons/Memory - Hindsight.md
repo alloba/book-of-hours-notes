@@ -26,3 +26,4 @@ Some things we can only really understand when they're gone.
 - [[The Hissing Key]]
 - [[Exercises in the Continuity of Self]]
 - [[Nyn's Cages (Bruges Text, Illuminated)]]
+- [[Operations of a Certain Finality]]

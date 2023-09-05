@@ -19,5 +19,5 @@ tags:
 ## Description
 Pentiments & Precursors
 
-Feats and feits of forgotten things: the Carapace Cross, the line of Antaios, the world of a low red sun. 'Though much is taken, much abides.'
+Feats and feits of forgotten things: the Carapace Cross, the line of [[Antaios]], the world of a low red sun. 'Though much is taken, much abides.'
 ## Tree of Wisdom Entries

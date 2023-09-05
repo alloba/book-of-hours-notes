@@ -1,13 +1,21 @@
 ---
-aspects:
-  - name: codex 
+aspects: 
+  - name: codex
     amount: 1
   - name: thing
-    amount: 1
+    amount : 1
+  - name: readable
+    amount : 1
+  - name: "tally price"
+    amount : 4
+  - name: "mystery: forge"
+    amount : 14
 tags:
   - book
-lesson: 
-memory: 
+lesson:
+  - "lesson: "
+memory:
+  - "memory: "
 ---
 
 # A Descent of the Shell
@@ -16,6 +24,6 @@ memory:
 
 A treatise on eggs, light, and optics by Abbess Melancthe, dazzingly illuminated with renderings of the Abbess' visions.
 
-## Section 1
+### Partial Study Description
 
-## Section 2
+### Study Complete Description

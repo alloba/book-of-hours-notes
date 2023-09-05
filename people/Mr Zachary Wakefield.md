@@ -29,6 +29,6 @@ tags:
 ## Description
 Mr Zachary Wakefield
 
-Marksman, detective, renegade. He has always been a quiet man, but since he left the Suppression Bureau, he has grown even quieter, and terribly still - except for his fingers and for his eyes, always in restless motion.
+Marksman, detective, renegade. He has always been a quiet man, but since he left the [[Suppression Bureau]], he has grown even quieter, and terribly still - except for his fingers and for his eyes, always in restless motion.
 ## Sources
 

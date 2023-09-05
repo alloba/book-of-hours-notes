@@ -31,7 +31,7 @@ Michael Blockley, the eccentric iron magnate, was fond of quoting from this tant
 ### Partial Study Description
 I'm Reading...
 
-Dialogues with an entity called the Crucible Prince. The Prince warns about the appetites of his mistress, the Burning Queen, and the peril of the naked desire she shares with the Sun, but professes his loyalty nevertheless.
+Dialogues with an entity called the Crucible Prince. The Prince warns about the appetites of his mistress, the Burning Queen, and the peril of the naked desire she shares with [[Sun-In-Splendour|the Sun]], but professes his loyalty nevertheless.
 ### Study Complete Description
 I've Read...
 

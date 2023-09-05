@@ -34,4 +34,4 @@ The [[Sister-and-Witch]] came from the West, where they were born in two wombs, 
 ### Study Complete Description
 I've Read...
 
-When the great drought came, the kings of that land tried to sacrifice the princess and the witch, so they sailed across the Sea. When despair took them, they flung themselves into the drowning waters... and so found the Painted River, where they entered the Mansus through the offices of the Red Grail. Nevertheless, the Codex ends with a condemnation of the Grail.
+When the great drought came, the kings of that land tried to sacrifice the princess and the witch, so they sailed across the Sea. When despair took them, they flung themselves into the drowning waters... and so found the Painted River, where they entered [[world-at-large/The Mansus|the Mansus]] through the offices of the Red Grail. Nevertheless, the Codex ends with a condemnation of the Grail.

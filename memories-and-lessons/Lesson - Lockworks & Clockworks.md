@@ -23,3 +23,4 @@ I've gained more understanding of Lockworks & Clockworks. [Use this card with Co
 ## Sources
 - [[The Admonitory Automata Project]]
 - [[The Locksmith's Dream - Portions and Proportions]]
+- [[Against Vitruvius]]

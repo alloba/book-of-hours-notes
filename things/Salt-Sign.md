@@ -22,3 +22,4 @@ Too bad it won't last. But then again, what does?
 - crafting
 	- [[Path & Pilgrim]] + [[Rose]](5)
 	- [[Inks of Power]] + [[Rose]](5)
+	- [[Sea Stories]] + [[Moon]](5)

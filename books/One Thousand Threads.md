@@ -21,7 +21,9 @@ memory:
 # One Thousand Threads
 
 ## Description
+One Thousand Threads
 
+The fate-supplications of the Matriarch of the Well, recorded by in darkness by her weavers and her daughters…
 ### Partial Study Description
 
 ### Study Complete Description

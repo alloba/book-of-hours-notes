@@ -21,6 +21,6 @@ tags:
 ## Description
 Xanthotic Essence
 
-The rich gold of a summer afternoon. 'If sunlight precedes moonlight,' St Anselm observed, 'the Meniscate must precede the [[Madrugad]]; and the light that was lost will remain.'
+The rich gold of a summer afternoon. 'If sunlight precedes moonlight,' St Anselm observed, 'the [[Meniscate]] must precede the [[Madrugad]]; and the light that was lost will remain.'
 ## Locations
 - [[Fludd Gallery]]

@@ -15,7 +15,7 @@ tags:
 ## Description
 Nameday Riddle
 
-A deceptively intricate riddle that might just teach us who we really are. Gervinus van Lauren was notoriously fond of these.
+A deceptively intricate riddle that might just teach us who we really are. [[Gervinus Van Lauren]] was notoriously fond of these.
 ## Sources
 - crafting
 	- [[Weaving & Knotworking]] + [[Memory]] + [[Moth]](10)

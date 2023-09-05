@@ -17,5 +17,5 @@ tags:
 ## Description
 Snow
 
-The world is pale today. 'The White is west of the world, and winter does not wait forever', Solomon Husher once said.
+The world is pale today. 'The White is west of the world, and winter does not wait forever', [[Solomon Husher]] once said.
 ## Sources

@@ -21,7 +21,7 @@ tags:
 ## Description
 Vak
 
-Before gods arose from blood, before ever ape stood upright, this was the language heard in the House of the Sun.... 'I am Vak,' the Peacock Door boasted, 'both the tongue and the Goddess. I am the only entrance into secret light. I was worshipped before you upright apes, and I will be still when all of you are ugly ash. Listen, and I will prove it.
+Before gods arose from blood, before ever ape stood upright, this was the language heard in the [[world-at-large/The Mansus|House of the Sun]].... 'I am Vak,' the Peacock Door boasted, 'both the tongue and the Goddess. I am the only entrance into secret light. I was worshipped before you upright apes, and I will be still when all of you are ugly ash. Listen, and I will prove it.
 ## Tree of Wisdom Entries
 ### Birdsong I
 An Opportunity

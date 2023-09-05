@@ -9,7 +9,7 @@ aspects:
   - name: "tally price"
     amount : 4
   - name: "mystery: heart"
-    amount : 1
+    amount : 10
 tags:
   - book
   - studied
@@ -24,11 +24,11 @@ memory:
 ## Description
 The Instruments of the Heart
 
-Sister Isabel, then Precentress of the Abbey-Church of St Brandan's, engages in dialogues with a Heart-long of a kind called 'duendrazon' that has taken partial possession of her body.
+Sister Isabel, then Precentress of the Abbey-Church of [[St Brandan's]], engages in dialogues with a Heart-long of a kind called 'duendrazon' that has taken partial possession of her body.
 ### Partial Study Description
 I'm Reading...
 
-The duendrazon, like all its kind, usually dwells in the Mansus but can enter the physical world by manifesting as music, and take possession of a willing - or semi-willing - mortal who hears and loves that music… like Isabella.
+The duendrazon, like all its kind, usually dwells in [[world-at-large/The Mansus|the Mansus]] but can enter the physical world by manifesting as music, and take possession of a willing - or semi-willing - mortal who hears and loves that music… like Isabella.
 ### Study Complete Description
 I've Read...
 

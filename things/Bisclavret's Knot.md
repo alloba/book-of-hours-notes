@@ -3,7 +3,7 @@ aspects:
   - name: moth
     amount : 1
   - name: scale
-    amount : 1
+    amount : 2
   - name: thing
     amount : 1
   - name: mark
@@ -19,5 +19,7 @@ Bisclavret's Knot
 
 The <i>bisclavret</i> is the half-human hill-child of these parts, and this is its sign.
 ## Locations
-- crafting - [[Serpents & Venoms]] + [[Scale]](5)
 - [[Solarium]]
+- crafting 
+	- [[Serpents & Venoms]] + [[Scale]](5)
+	- [[Furs & Feathers]] + [[Scale]](5)

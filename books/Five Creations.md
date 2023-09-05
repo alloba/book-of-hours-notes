@@ -12,8 +12,6 @@ aspects:
     amount : 14
   - name: "written in vak"
     amount : 1
-  - name: "witchworms"
-    amount : 1
 tags:
   - book
 lesson:

@@ -21,3 +21,4 @@ Something uncomfortable.
 - [[Observations on the Peacock Door]]
 - [[De Bellis Murorum]]
 - [[As the Sun His Course]]
+- [[De Horis Book 3]]

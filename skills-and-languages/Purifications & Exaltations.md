@@ -27,3 +27,8 @@ Purifications & Exaltations
 The Tree
 
 Never underestimate the Hour named [[Madrugad]]. Foolish adepts deride her as an Hour of ashes. What do they think the Watchman's Tree sprang from? Fire purifies; light exalts.
+
+### Illumination III
+The Hours
+
+Never underestimate the Hour named [[Meniscate]]. Foolish adepts deride her as an Hour of vanity. What do they think defines the Hours? Light purifies; light exalts.

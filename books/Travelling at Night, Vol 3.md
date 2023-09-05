@@ -24,11 +24,11 @@ memory:
 ## Description
 Travelling at Night, vol 3
 
-The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering.
+The annotated dream-journals of [[Christopher Illopoly]], sometimes called 'the only readable occultist': literate, entertaining, bewildering.
 ### Partial Study Description
 I'm Reading...
 
-Illopoly's disquisitions on fire and the Unburnt God are interrupted by passages of distractingly erotic poetry addressed to 'Baldomera'.
+Illopoly's disquisitions on fire and the [[Unburnt God]] are interrupted by passages of distractingly erotic poetry addressed to 'Baldomera'.
 ### Study Complete Description
 I've Read...
 

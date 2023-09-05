@@ -33,3 +33,4 @@ Memory: Foresight
 - [[The Vinzant Inscriptions]]
 - [[The Carmine Petal - Unexpurgated]]
 - [[In the Malleary]]
+- [[The High Traditions of the Noble Endeavour]]

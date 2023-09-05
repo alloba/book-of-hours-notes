@@ -21,3 +21,5 @@ An invaluable herbal cure introduced to Hush House by the physician [[Natan of R
 ## Locations
 - [[Foundry]]
 - [[Crucible Tower - Interview Laboratory]]
+- crafting
+	- [[Edicts Inviolable]] + [[Heart]](5)

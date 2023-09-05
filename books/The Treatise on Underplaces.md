@@ -12,6 +12,7 @@ aspects:
     amount : 4
 tags:
   - book
+  - studied
 lesson:
   - "lesson: horns & ivories"
 memory:
@@ -27,5 +28,5 @@ Herein, the seventeenth-century mystic and antiquarian Claude Hersault describes
 ### Partial Study Description
 I'm Reading...
 
-The walls of the Mansus,' Hersault begins, 'are the size of starlight.' Many of his directions are equally unhelpful, but common relationships do emerge.
+The walls of [[world-at-large/The Mansus|the Mansus]],' Hersault begins, 'are the size of starlight.' Many of his directions are equally unhelpful, but common relationships do emerge.
 ### Study Complete Description

@@ -30,7 +30,7 @@ A calligraphic manual of Ramsund which employs as exemplar-text Farid ud-Din's '
 ### Partial Study Description
 I'm Reading...
 
-'At noon the Sun moves like the beating of a wing. At sunset he sends the herald-child with her candle. At midnight, he sends the wind that extinguishes the candle-flame…'
+'At noon [[Sun-In-Splendour|the Sun]] moves like the beating of a wing. At sunset he sends the herald-child with her candle. At midnight, he sends the wind that extinguishes the candle-flame…'
 ### Study Complete Description
 I've Read...
 

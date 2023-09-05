@@ -23,3 +23,5 @@ Separately, each is undrinkable. But mix them, and they're only undrinkable afte
 ## Locations
 - [[Motley Tower - Dispensary]]
 - [[Night Gallery]]
+- crafting 
+	- [[Coil & Chasm]] + [[Nectar]](5)

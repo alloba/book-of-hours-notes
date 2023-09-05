@@ -22,7 +22,7 @@ memory:
 # In the Malleary
 
 ## Description
-In the Malleary
+In [[The Malleary]]
 
 A lively account of the creation of each jewel at the world's beginning.
 ### Partial Study Description

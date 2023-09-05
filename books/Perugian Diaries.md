@@ -24,7 +24,7 @@ memory:
 ## Description
 Perugian Diaries
 
-In 1907, at the age of eighteen, Christopher Illopoly left Strathcoyne's household to study theology at the University of Perugia in Italy, enrolling under the name 'Christopher Strathcoyne'.
+In 1907, at the age of eighteen, [[Christopher Illopoly]] left Strathcoyne's household to study theology at the University of Perugia in Italy, enrolling under the name 'Christopher Strathcoyne'.
 ### Partial Study Description
 I'm Reading...
 

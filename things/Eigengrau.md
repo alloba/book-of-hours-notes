@@ -27,3 +27,4 @@ Eigengrau
 - crafting
 	- [[Maggephene Mysteries]] + [[Moon]](5)
 	- [[Inks of Containment]] + [[Winter]](5)
+	- [[Auroral Contemplations]] + [[Lantern]](5)

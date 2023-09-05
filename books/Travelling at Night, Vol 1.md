@@ -28,5 +28,5 @@ The annotated dream-journals of Christopher Illopoly, sometimes called 'the only
 ### Partial Study Description
 I'm Reading...
 
-'The Wood lies outside the walls of the Mansus. As any student of the Histories knows, the Mansus has no walls.'
+'The Wood lies outside the walls of [[world-at-large/The Mansus|the Mansus]]. As any student of the Histories knows, the Mansus has no walls.'
 ### Study Complete Description

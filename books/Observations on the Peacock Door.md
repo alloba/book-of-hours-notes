@@ -26,7 +26,7 @@ memory:
 ## Description
 Observations on the Peacock Door
 
-Ninegala of Lagash discusses the Peacock Door, the highest door available to mortals in the Mansus: 'a rent, an imperfection, an abrasion.'
+Ninegala of Lagash discusses the Peacock Door, the highest door available to mortals in [[world-at-large/The Mansus|the Mansus]]: 'a rent, an imperfection, an abrasion.'
 ### Partial Study Description
 I'm Reading...
 
@@ -34,4 +34,4 @@ Notably, the book is written in Vak, which by some accounts is another aspect of
 ### Study Complete Description
 I've Read...
 
-The Peacock Door did not exist - Ninegala says - in the days when the gods-from-stone entered the Mansus. They used the 'Fanged Key' to open the Savage Door, a door not usually available to mortals. 'Speech, as the initiates of Chione would have it, is a wound. I fear that through that wound, the blood of the Mansus flows even now, and that one day Speech will be an end to Dream. I fear that; but I fear the alternative far more.'
+The Peacock Door did not exist - Ninegala says - in the days when the gods-from-stone entered the Mansus. They used the 'Fanged Key' to open the Savage Door, a door not usually available to mortals. 'Speech, as the initiates of [[Chione]] would have it, is a wound. I fear that through that wound, the blood of the Mansus flows even now, and that one day Speech will be an end to Dream. I fear that; but I fear the alternative far more.'

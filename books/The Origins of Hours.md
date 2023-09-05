@@ -25,7 +25,7 @@ memory:
 ## Description
 The Origins of Hours
 
-The sage and ecstatic Soham, a frequent visitor to the Mansus, claimed to have discoursed with the Beachcrow in person. Soham later insisted on a sky-burial.
+The sage and ecstatic Soham, a frequent visitor to [[world-at-large/The Mansus|the Mansus]], claimed to have discoursed with the Beachcrow in person. Soham later insisted on a sky-burial.
 ### Partial Study Description
 
 ### Study Complete Description

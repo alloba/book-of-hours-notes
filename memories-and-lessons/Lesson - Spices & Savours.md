@@ -19,7 +19,7 @@ tags:
 ## Description
 I've Read...
 
-This is the first of the practices that the Imago and Matthias used, to begin their ascent to power. They have risen beyond our sight, but their flames may yet burn in the Malleary.'
+This is the first of the practices that the Imago and Matthias used, to begin their ascent to power. They have risen beyond our sight, but their flames may yet burn in [[The Malleary]].'
 ## Sources
 - [[On Matthias and the Amethys Imago - Transformation]]
 - [[Ambrosial!]]

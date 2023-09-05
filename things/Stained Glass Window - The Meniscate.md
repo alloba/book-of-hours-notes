@@ -11,7 +11,7 @@ tags:
 # Stained Glass Window - The Meniscate
 
 ## Description
-Stained Glass Window: the Meniscate
+Stained Glass Window: the [[Meniscate]]
 
 WHAT IS WITHIN, WITHOUT; WHAT IS WITHOUT, WITHIN
 ## Locations

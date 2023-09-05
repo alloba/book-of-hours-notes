@@ -2,6 +2,8 @@
 aspects: 
   - name: memory
     amount: 1
+  - name: edge
+    amount: 2
 tags:
   - 
 ---
