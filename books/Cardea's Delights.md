@@ -26,11 +26,11 @@ memory:
 ## Description
 Cardea's Delights
 
-The third volume of Abbot Geffrey's hypothetical theological dialogues in the Socratic mode.
+The third volume of [[Abbot Geffrey]]'s hypothetical theological dialogues in the Socratic mode.
 ### Partial Study Description
 I'm Reading...
 
-'If Janus were an Hour, Cardea might be counted among his Names, but the world has never turned in such a manner, and so and she is not…'
+'If [[Janus]] were an Hour, Cardea might be counted among his Names, but the world has never turned in such a manner, and so and she is not…'
 ### Study Complete Description
 I've Read...
 

@@ -22,3 +22,4 @@ Lesson: Purifications & Exaltations
 I've gained more understanding of Purifications & Exaltations. [Use this card with Consider.]
 ## Sources
 - [[The Locksmith's Dream - A Light Through the Keyhole]]
+- [[The Alloy of the White Rose]]

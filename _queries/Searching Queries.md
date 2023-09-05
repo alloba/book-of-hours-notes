@@ -11,7 +11,7 @@ dv.table(
 	['Item', 'Aspects'],
 	working_set
 	.filter(x => x.aspects)
-	.filter(x => containsAspects(x, ['fuel']))
+	.filter(x => containsAspects(x, ['liquid']))
 	.map(x => 
 	[
 		x.file.link,

@@ -9,7 +9,7 @@ tags:
 ## Description
 Twopence
 
-Or, if you prefer, 'tuppence'. A sort of Janus of pennies.
+Or, if you prefer, 'tuppence'. A sort of [[Janus]] of pennies.
 
 ## Sources
 - [[The Sweet Bones]]

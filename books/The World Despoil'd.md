@@ -23,7 +23,7 @@ memory:
 ## Description
 The World Despoil'd
 
-Subtitled 'the Flowers in the Waste': a epic poem that presents a medical treatise through allegory. The author is Gideon Dewulf, 5th Baron Brancrug, sometimes unkindly called 'the Cutter'.
+Subtitled 'the Flowers in the Waste': a epic poem that presents a medical treatise through allegory. The author is [[Gideon Dewulf]], 5th Baron Brancrug, sometimes unkindly called 'the Cutter'.
 ### Partial Study Description
 I'm Reading...
 

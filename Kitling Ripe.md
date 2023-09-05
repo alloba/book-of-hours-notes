@@ -1,0 +1,1 @@
+> Kitling Ripe is the name usually given to the speechless 'but never silent' cat-thing that serves as a Name of [[the Velvet]]. Kitling Ripe, it seems, enjoys hunting immortals; and the Velvet is very fond of Kitling Ripe..

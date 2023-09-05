@@ -22,3 +22,4 @@ Lesson: Applebright Euphonies
 I've gained more understanding of Applebright Euphonies. [Use this card with Consider.]
 ## Sources
 - [[The Wind's Ruin]]
+- [[The Sun Disfigured]]

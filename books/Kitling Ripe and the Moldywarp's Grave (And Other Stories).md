@@ -21,7 +21,7 @@ memory:
 # Kitling Ripe and the Moldywarp's Grave (And Other Stories)
 
 ## Description
-Kitling Ripe and the [[Moldywarp]]'s Grave (and Other Stories)
+[[Kitling Ripe]] and the [[Moldywarp]]'s Grave (and Other Stories)
 
 A lusciously illustrated tome of loosely connected children's stories. Few of them are remotely suitable for children.
 ### Partial Study Description

@@ -9,7 +9,7 @@ aspects:
   - name: "tally price"
     amount : 4
   - name: "mystery: grail"
-    amount : 1
+    amount : 4
 tags:
   - book
   - studied

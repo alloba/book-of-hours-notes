@@ -26,11 +26,11 @@ memory:
 ## Description
 The Elations of Limentinus
 
-The second volume of Abbot Geffrey's hypothetical theological debates in the Socratic mode.
+The second volume of [[Abbot Geffrey]]'s hypothetical theological debates in the Socratic mode.
 ### Partial Study Description
 I'm Reading...
 
-'If Janus were an Hour, Limentinus might be counted among his Names, but Janus has never passed that threshold, and so Limentinus is not…'
+'If [[Janus]] were an Hour, Limentinus might be counted among his Names, but Janus has never passed that threshold, and so Limentinus is not…'
 ### Study Complete Description
 I've Read...
 

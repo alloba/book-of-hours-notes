@@ -8,8 +8,8 @@ aspects:
     amount : 1
   - name: "tally price"
     amount : 4
-  - name: "mystery: rose"
-    amount : 14
+  - name: "mystery: moon"
+    amount : 4
 tags:
   - book
 lesson:
@@ -18,12 +18,12 @@ memory:
   - "memory: "
 ---
 
-# The History of Inks
+# The Moon's Egg
 
 ## Description
-The History of Inks
+The Moon's Egg
 
-A legendary grimoire of exotic ink-making lore. The cover and some of the pages, unfortunately are stained and crusted with something more like mucus than ink.
+The third and last volume of the meditations of Abbot Thomas of the Abbey of the Black Dove.
 ### Partial Study Description
 
 ### Study Complete Description

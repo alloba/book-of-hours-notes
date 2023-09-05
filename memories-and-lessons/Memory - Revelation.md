@@ -17,7 +17,7 @@ Some truths come to us from outside, or above.
 ## Sources
 - [[The Locksmith's Dream - A Light Through the Keyhole]]
 - [[Gospel of Nicodemus]]
-- [[The Locksmith's Dream - Stole Reflections]]
+- [[The Locksmith's Dream - Stolen Reflections]]
 - [[Colours in the Liver]]
 - [[The Known-Unknown Tantra]]
 - [[Experiment Beyond Sight]]
@@ -29,3 +29,4 @@ Some truths come to us from outside, or above.
 - [[The Book of the White Cat]]
 - [[A Light in the Inkwell]]
 - [[The Locksmith's Dream - Stolen Reflections]]
+- [[The Alloy of the White Rose]]

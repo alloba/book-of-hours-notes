@@ -11,7 +11,7 @@ tags:
 # The Velvet
 
 ## Description
-'The Velvet'
+'[[The Velvet]]'
 
 'The Glory is a question, and the Moth always answers Yes. The Velvet's answer is No, and that is always her answer.'
 ## Locations

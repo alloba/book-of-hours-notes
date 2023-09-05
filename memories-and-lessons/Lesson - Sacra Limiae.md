@@ -22,3 +22,4 @@ Lesson: Sacra Limiae
 I've gained more understanding of Sacra Limiae. [Use this card with Consider.]
 ## Sources
 - [[Damascene Traditions of the House of Lethe]]
+- [[The Carbonek Schism]]

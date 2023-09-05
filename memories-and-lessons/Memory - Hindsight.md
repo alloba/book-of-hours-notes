@@ -27,3 +27,4 @@ Some things we can only really understand when they're gone.
 - [[Exercises in the Continuity of Self]]
 - [[Nyn's Cages (Bruges Text, Illuminated)]]
 - [[Operations of a Certain Finality]]
+- [[The Carbonek Schism]]

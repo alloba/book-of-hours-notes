@@ -11,7 +11,7 @@ tags:
 # The Velvet
 
 ## Description
-'The Velvet'
+'[[The Velvet]]'
 
 An Hour of secrecy? Ignorance? Privacy? Shame? The Velvet has never encouraged insight, investigation, or worship. Even an image of her is unusual.
 ## Locations

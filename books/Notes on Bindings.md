@@ -7,9 +7,9 @@ aspects:
   - name: readable
     amount : 1
   - name: "tally price"
-    amount : 4
-  - name: "mystery: rose"
-    amount : 14
+    amount : 3
+  - name: "mystery: heart"
+    amount : 10
 tags:
   - book
 lesson:
@@ -18,12 +18,12 @@ memory:
   - "memory: "
 ---
 
-# The History of Inks
+# Notes on Bindings
 
 ## Description
-The History of Inks
+Notes on Bindings
 
-A legendary grimoire of exotic ink-making lore. The cover and some of the pages, unfortunately are stained and crusted with something more like mucus than ink.
+[[Gideon Dewulf]], 5th Baron Brancrug, discusses techniques shared between medical suturing, tailoring, and - carefully, allusively - the binding of restless spirits.
 ### Partial Study Description
 
 ### Study Complete Description

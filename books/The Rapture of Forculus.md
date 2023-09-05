@@ -26,11 +26,11 @@ memory:
 ## Description
 The Raptures of Forculus
 
-The first volume of Abbot Geffrey's hypothetical theological debates in the Socratic mode.
+The first volume of [[Abbot Geffrey]]'s hypothetical theological debates in the Socratic mode.
 ### Partial Study Description
 I'm Reading...
 
-'If Janus were an Hour, Forculus might be counted among his Names, but that door remains closed, and so Forculus is not…'
+'If [[Janus]] were an Hour, Forculus might be counted among his Names, but that door remains closed, and so Forculus is not…'
 ### Study Complete Description
 I've Read...
 

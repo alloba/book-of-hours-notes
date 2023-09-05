@@ -7,9 +7,11 @@ aspects:
   - name: readable
     amount : 1
   - name: "tally price"
-    amount : 4
-  - name: "mystery: rose"
+    amount : 5
+  - name: "mystery: winter"
     amount : 14
+  - name: "written in fucine"
+    amount : 1
 tags:
   - book
 lesson:
@@ -18,12 +20,12 @@ memory:
   - "memory: "
 ---
 
-# The History of Inks
+# The Scar in the Sky
 
 ## Description
-The History of Inks
+The Scar in the Sky
 
-A legendary grimoire of exotic ink-making lore. The cover and some of the pages, unfortunately are stained and crusted with something more like mucus than ink.
+Nyn wrote this, and came to regret it.
 ### Partial Study Description
 
 ### Study Complete Description

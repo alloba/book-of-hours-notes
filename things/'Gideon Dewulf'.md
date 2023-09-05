@@ -11,7 +11,7 @@ tags:
 # Gideon Dewulf
 
 ## Description
-'Gideon Dewulf'
+'[[Gideon Dewulf]]'
 
 The bust is terracotta, brightly painted.
 ## Locations
