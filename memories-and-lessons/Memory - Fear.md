@@ -33,3 +33,4 @@ Memory: Fear
 - [[A True History of Valentine Dewulf]]
 - [[Seven Faces of Icarus]]
 - [[Skin of Silver]]
+- [[The Deeds of the Scarred Captain]]

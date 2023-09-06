@@ -14,18 +14,24 @@ aspects:
     amount: 1
 tags:
   - book
+  - studied
 lesson:
-  - "lesson: "
+  - "lesson: sharps"
 memory:
-  - "memory: "
+  - "memory: fear"
 ---
 
 # The Deeds of the Scarred Captain
 The Deeds of the Scarred Captain
 
-Painstakingly assembled by the soldier of fortune and sometime remittance man, Pavel Shulga, during his years in Greece.
+
 ## Description
-
+Painstakingly assembled by the soldier of fortune and sometime remittance man, Pavel Shulga, during his years in Greece.
 ### Partial Study Description
+I'm Reading...
 
+An account of the founding of Mycenae by a 'Scarred Captain' who first slew seven monsters to make the land safe.
 ### Study Complete Description
+I've Read...
+
+As the Captain destroys each monster, a flood of blood rises higher, until at last a priestess drowns and is reborn as a serpent-goddess. She blesses the Captain, and he departs for the 'House above the Forest', leaving Mycenae to reign supreme after the flood of blood subsides.

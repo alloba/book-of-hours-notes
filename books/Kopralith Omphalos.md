@@ -28,8 +28,8 @@ What is this? A tufted fossil of silken fibre, big as a child. [This object hous
 ### Partial Study Description
 I'm Reading...
 
- Something consumed, and something was consumed. If we interpret its interweavings, we might understand. 
+Something consumed, and something was consumed. If we interpret its interweavings, we might understand. 
 ### Study Complete Description
 I've Read...
 
-The meaning of this object isn't something that one reads, but rather something that one follows, until at last one has passed three times around it, and one finds the meaning waitiing at one's shoulder.
+The meaning of this object isn't something that one reads, but rather something that one follows, until at last one has passed three times around it, and one finds the meaning waiting at one's shoulder.
