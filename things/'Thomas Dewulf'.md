@@ -11,7 +11,7 @@ tags:
 # Thomas Dewulf
 
 ## Description
-'Thomas Dewulf'
+'[[Thomas Dewulf]]'
 
 The bust is carved from limestone.
 ## Locations

@@ -27,5 +27,4 @@ Confounding Parable
 	- [[Letters from a Fugitive]]
 	- [[The Locksmith's Dream - Incursus]]
 	- [[It is Written]]
-	- [[Lesson - Lockworks & Clockworks]] (?)
 	- [[A Tower Falls]]

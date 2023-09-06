@@ -23,3 +23,4 @@ I've gained more understanding of Disciplines of the Scar. [Use this card with C
 ## Sources
 - [[De Bellis Murorum]]
 - [[De Horis Book 3]]
+- [[The Open Head]]

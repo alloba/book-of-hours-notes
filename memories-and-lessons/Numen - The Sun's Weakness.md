@@ -3,7 +3,7 @@ aspects:
   - name: grail
     amount: 5
   - name: lantern
-    amount: 4
+    amount: 5
   - name: moth
     amount: 5
   - name: numen

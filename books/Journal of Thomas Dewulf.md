@@ -22,7 +22,7 @@ memory:
 # Journal of Thomas Dewulf
 
 ## Description
-Journal of Thomas Dewulf
+Journal of [[Thomas Dewulf]]
 
 Thomas Dewulf, 2nd Baron Brancrug, was nicknamed 'Baron Silence of Castle Silence' for his taciturn severity - most likely the origin, eventually, of the name 'Hush House'.
 ### Partial Study Description

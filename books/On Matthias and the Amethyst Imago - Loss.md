@@ -10,8 +10,6 @@ aspects:
     amount : 5
   - name: "mystery: moth"
     amount : 6
-  - name: witchworms
-    amount : 1
   - name: "written in aramaic"
     amount : 1
 tags:

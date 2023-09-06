@@ -22,3 +22,4 @@ Lesson: Pyroglyphics
 I've gained more understanding of Pyroglyphics. [Use this card with Consider.]
 ## Sources
 - [[Bancroft Diaries]]
+- [[A Shape in Smoke]]

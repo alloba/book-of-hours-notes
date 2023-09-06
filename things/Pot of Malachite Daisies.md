@@ -15,6 +15,6 @@ tags:
 ## Description
 Pot of Malachite Daisies
 
-Thomas Dewulf was fond of these. It's not what you'd expect from Thomas Dewulf.
+[[Thomas Dewulf]] was fond of these. It's not what you'd expect from Thomas Dewulf.
 ## Locations
 - [[Librarians's Quarters]]

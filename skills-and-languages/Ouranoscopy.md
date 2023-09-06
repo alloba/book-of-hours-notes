@@ -19,5 +19,5 @@ tags:
 ## Description
 Ouranoscopy
 
-'Consider the Star. Hath each Star, its Seven Names. Observe that these Names are Never Shared.' - Thomas Dewulf
+'Consider the Star. Hath each Star, its Seven Names. Observe that these Names are Never Shared.' - [[Thomas Dewulf]]
 ## Tree of Wisdom Entries

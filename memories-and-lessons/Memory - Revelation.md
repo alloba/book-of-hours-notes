@@ -30,3 +30,5 @@ Some truths come to us from outside, or above.
 - [[A Light in the Inkwell]]
 - [[The Locksmith's Dream - Stolen Reflections]]
 - [[The Alloy of the White Rose]]
+- [[The Open Head]]
+- [[A Shape in Smoke]]

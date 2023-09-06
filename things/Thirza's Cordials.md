@@ -17,7 +17,7 @@ tags:
 # Thirza's Cordials
 
 ## Description
-Thirza's Cordials
+[[world-at-large/Thirza Blake|Thirza]]'s Cordials
 
 Separately, each is undrinkable. But mix them, and they're only undrinkable after fifteen minutes.
 ## Locations

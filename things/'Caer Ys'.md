@@ -11,8 +11,8 @@ tags:
 # Caer Ys
 
 ## Description
-Caer [[Ys]]
+[[Caer Ys]]
 
 A spired city is dimly visible through a vast rolling wave.
 ## Locations
-- [[Map Room]]]
+- [[Map Room]]

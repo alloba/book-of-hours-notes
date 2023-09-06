@@ -24,3 +24,4 @@ Some appetites are easier to satisfy than others.
 - [[Calicite Supplications]]
 - [[An Impertinent Vitulation]]
 - [[Kitling Ripe's Tasty Treats]]
+- [[Fekri's Herbary]]

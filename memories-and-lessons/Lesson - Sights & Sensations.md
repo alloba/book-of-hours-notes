@@ -25,3 +25,4 @@ I've gained more understanding of Sights & Sensations. [Use this card with Consi
 - [[Glimmerings]]
 - [[The Mirror of Melancthe]]
 - [[Musgrave's Sketches]]
+- [[Towards a Fundamental Aesthetic - Second Edition]]
