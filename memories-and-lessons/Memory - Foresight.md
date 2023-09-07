@@ -34,3 +34,5 @@ Memory: Foresight
 - [[The Carmine Petal - Unexpurgated]]
 - [[In the Malleary]]
 - [[The High Traditions of the Noble Endeavour]]
+- [[Old Coppernose and the Softer Metal]]
+- [[Opus Magnus Caeruleus]]

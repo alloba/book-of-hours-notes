@@ -22,3 +22,4 @@ Lesson: Solutions & Separations
 I've gained more understanding of Solutions & Separations. [Use this card with Consider.]
 ## Sources
 - [[The Debate of Seven Cups]]
+- [[On Matthias and the Amethyst Imago - Loss]]

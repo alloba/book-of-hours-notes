@@ -28,3 +28,4 @@ Confounding Parable
 	- [[The Locksmith's Dream - Incursus]]
 	- [[It is Written]]
 	- [[A Tower Falls]]
+	- [[The Moon's Egg]]

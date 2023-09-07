@@ -19,5 +19,6 @@ Enduring Reflection
 
 Refine what is; recall what remains.
 ## Sources
+- [[The Sea-Caves]] during numa
 - crafting
 	- [[Sky Stories]] + [[Rose]](10) + [[Memory]]

@@ -19,3 +19,4 @@ Something I overheard in dreams?
 ## Sources
 - [[The Gospel of Zacchaeus]]
 - [[Deaths and Their Evasions]]
+- [[On Matthias and the Amethyst Imago - Loss]]

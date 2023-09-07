@@ -22,3 +22,4 @@ Lesson: Snow Stories
 I've gained more understanding of Snow Stories. [Use this card with Consider.]
 ## Sources
 - [[Chione at Abydos]]
+- [[An Introduction to Histories]]

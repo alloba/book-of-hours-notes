@@ -2,7 +2,7 @@
 ```dataviewjs
 let items = dv.pages('"things"')
 let valids = [
-	'grail', 'winter', 'lantern', 'nectar', 'heart', 
+	'grail', 'winter', 'lantern', 'nectar', 'heart', 'knock',
 	'sky', 'forge', 'moth', 'moon', 'scale', 'edge', 'rose',
 	
 ]

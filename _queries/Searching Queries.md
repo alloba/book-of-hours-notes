@@ -11,7 +11,7 @@ dv.table(
 	['Item', 'Aspects'],
 	working_set
 	.filter(x => x.aspects)
-	.filter(x => containsAspects(x, ['ink']))
+	.filter(x => containsAspects(x, ['omen']))
 	.map(x => 
 	[
 		x.file.link,

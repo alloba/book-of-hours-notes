@@ -23,3 +23,4 @@ I've gained more understanding of Pearl & Tide. [Use this card with Consider.]
 ## Sources
 - [[To a Pale Lady]]
 - [[The Sea Does not Regret]]
+- [[The Moon's Egg]]
