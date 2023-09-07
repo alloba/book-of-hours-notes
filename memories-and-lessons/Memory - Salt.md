@@ -23,5 +23,6 @@ Sea-spray, depth-sorrow.
 - [[The Larquebine Codex]]
 - [[The Crossing to Noon]]
 - [[A Pale Lady and a Prince of Wines]]
+- [[The Deaths of the Moon]]
 - crafting
 	- [[Sea's Edge]]

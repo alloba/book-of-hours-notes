@@ -23,3 +23,4 @@ I've gained more understanding of Tridesma Hiera. [Use this card with Consider.]
 ## Sources
 - [[The Tripled Heart]]
 - [[Calicite Supplications]]
+- [[Malachite Supplications]]
