@@ -22,3 +22,4 @@ Lesson: Wolf Stories
 I've gained more understanding of Wolf Stories. [Use this card with Consider.]
 ## Sources
 - [[Black Nephrite]]
+- [[Nix Abolix]]

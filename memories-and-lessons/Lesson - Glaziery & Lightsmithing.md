@@ -23,3 +23,4 @@ I've gained more understanding of Glaziery & Lightsmithing. [Use this card with 
 ## Sources
 - [[The Locksmith's Dream - Incursus]]
 - [[Memory - Revelation]]
+- [[Each Flame His Fuel]]

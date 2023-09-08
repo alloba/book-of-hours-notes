@@ -1,1 +1,0 @@
-The second Librarian of [[Hush House]].

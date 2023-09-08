@@ -1,0 +1,1 @@
+Brian Levinsen, ninth Librarian of [[Hush House]], painter and doctor, who never returned from the Western Front.

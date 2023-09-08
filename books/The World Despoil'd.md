@@ -12,6 +12,7 @@ aspects:
     amount: 6
 tags:
   - book
+  - studied
 lesson:
   - "lesson: maggephene mysteries"
 memory:
@@ -29,3 +30,6 @@ I'm Reading...
 
 The poem is a substantial variation on the Fisher-King tale. A wounded wasteland monarch learns that he and his land can be cured, but that the cure is their own response to ever more savage maladies…
 ### Study Complete Description
+I've Read...
+
+Gideon concludes with a concrete example: that the Mysteries can be used to despoil 'mine own Soaks', but then the Soak can then be refined with sufficient Heart into 'the sanguis saltandis'.

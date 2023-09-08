@@ -23,3 +23,4 @@ I've gained more understanding of Rites of the Roots. [Use this card with Consid
 ## Sources
 - [[Bee-Silk Journal]]
 - [[De Horis Book I]]
+- [[Serpent-Root]]

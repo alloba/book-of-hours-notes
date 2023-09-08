@@ -1,1 +1,1 @@
-A Librarian of [[Hush House]]. Third Librarian of the Curia of the Isle.
+The Very Reverend Solomon Husher, third Librarian of [[Hush House]]. 'Nothing is a place. Everything ends.'

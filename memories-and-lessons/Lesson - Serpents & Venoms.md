@@ -23,3 +23,4 @@ I've gained more understanding of Serpents & Venoms. [Use this card with Conside
 ## Sources
 - [[The Republic of Teeth]]
 - [[The Hissing Key]]
+- [[Enchiridion Tragularis]]

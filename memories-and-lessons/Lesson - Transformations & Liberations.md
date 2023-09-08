@@ -25,3 +25,4 @@ I've gained more understanding of Transformations & Liberations. [Use this card 
 - [[The Book of Dissolution]]
 - [[The Vinzant Inscriptions]]
 - [[The Six Letters on Necessity]]
+- [[The Burning Woman]]

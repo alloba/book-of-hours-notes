@@ -32,3 +32,4 @@ Some truths come to us from outside, or above.
 - [[The Alloy of the White Rose]]
 - [[The Open Head]]
 - [[A Shape in Smoke]]
+- [[Each Flame His Fuel]]

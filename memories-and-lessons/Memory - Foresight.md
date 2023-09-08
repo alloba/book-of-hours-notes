@@ -37,3 +37,5 @@ Memory: Foresight
 - [[Old Coppernose and the Softer Metal]]
 - [[Opus Magnus Caeruleus]]
 - [[The Six Letters on Necessity]]
+- [[The Iron Book]]]
+- [[The Burning Woman]]

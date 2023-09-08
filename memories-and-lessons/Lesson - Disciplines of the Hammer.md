@@ -26,3 +26,4 @@ I've gained more understanding of Disciplines of the Hammer. [Use this card with
 - [[The Carmine Petal - Unexpurgated]]
 - [[The High Traditions of the Noble Endeavour]]
 - [[Skin of Silver]]
+- [[The Iron Book]]

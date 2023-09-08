@@ -14,10 +14,11 @@ aspects:
     amount : 1
 tags:
   - book
+  - studied
 lesson:
-  - "lesson: "
+  - "lesson: ragged crossroads"
 memory:
-  - "memory: "
+  - "memory: hindsight"
 ---
 
 # In Memory of Gods

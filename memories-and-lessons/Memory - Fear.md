@@ -34,3 +34,4 @@ Memory: Fear
 - [[Seven Faces of Icarus]]
 - [[Skin of Silver]]
 - [[The Deeds of the Scarred Captain]]
+- [[Nix Abolix]]

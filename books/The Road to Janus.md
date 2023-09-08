@@ -8,8 +8,8 @@ aspects:
     amount : 1
   - name: "tally price"
     amount : 5
-  - name: "mystery: rose"
-    amount : 16
+  - name: "mystery: knock"
+    amount : 18
   - name: "written in vak"
     amount : 1
 tags:
@@ -20,12 +20,12 @@ memory:
   - "memory: "
 ---
 
-# Where Has She Gone?
+# The Road to Janus
 
 ## Description
-Where Has She Gone?
+The Road to Janus
 
-The Speeth' - perhaps a single adept, perhaps a council of scholars - hypothesises secret events from limited evidence with persuasive accuracy.
+The Limian Burzghash makes a series of prophecies regarding 'the Initiates of the House of Silence', with intricate, if unhelpful, predictions on their passage through the House.
 ### Partial Study Description
 
 ### Study Complete Description
