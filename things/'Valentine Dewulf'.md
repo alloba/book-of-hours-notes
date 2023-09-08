@@ -13,6 +13,6 @@ tags:
 ## Description
 'Valentine Dewulf'
 
-Valentine Dewulf, 6th Baron Brancrug, known for his eccentricities. 'IN THE SKY HE SOUGHT HIS FRIENDS', an inscription reads.
+[[Valentine Dewulf]], 6th Baron Brancrug, known for his eccentricities. 'IN THE SKY HE SOUGHT HIS FRIENDS', an inscription reads.
 ## Locations
 - [[Entrance Hall]]

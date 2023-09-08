@@ -23,3 +23,4 @@ I've gained more understanding of Sharps. [Use this card with Consider.]
 ## Sources
 - [[A Child's Treasury of Golden Afternoons]]
 - [[The Deeds of the Scarred Captain]]
+- [[The Account of Kanishk at the Spider's Door]]

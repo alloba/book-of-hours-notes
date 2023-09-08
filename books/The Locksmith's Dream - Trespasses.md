@@ -24,7 +24,7 @@ memory:
 ## Description
 The Locksmith's Dream: Trespasses
 
-The third volume of Teresa Galmier's examination of parallels in the mystic dreams of artisans.
+The third volume of [[Teresa Galmier]]'s examination of parallels in the mystic dreams of artisans.
 ### Partial Study Description
 I'm Reading...
 

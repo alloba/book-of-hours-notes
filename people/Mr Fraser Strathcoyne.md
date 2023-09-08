@@ -19,6 +19,6 @@ tags:
 ## Description
 Mr Fraser Strathcoyne
 
-Philanthropist, collector, former Librarian. A complicated man, but not a cruel one. 
+Philanthropist, collector, former Librarian (fourth). A complicated man, but not a cruel one. 
 ## Sources
 

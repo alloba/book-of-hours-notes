@@ -11,7 +11,7 @@ tags:
 # Serena Blackwood
 
 ## Description
-'Serena Blackwood'
+'[[Serena Blackwood]]'
 
 This bust is carved from alabaster.
 ## Locations

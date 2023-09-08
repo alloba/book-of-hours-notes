@@ -20,3 +20,4 @@ Something I overheard in dreams?
 - [[The Gospel of Zacchaeus]]
 - [[Deaths and Their Evasions]]
 - [[On Matthias and the Amethyst Imago - Loss]]
+- [[The Account of Kanishk at the Spider's Door]]

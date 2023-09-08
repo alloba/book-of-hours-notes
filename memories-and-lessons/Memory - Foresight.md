@@ -36,3 +36,4 @@ Memory: Foresight
 - [[The High Traditions of the Noble Endeavour]]
 - [[Old Coppernose and the Softer Metal]]
 - [[Opus Magnus Caeruleus]]
+- [[The Six Letters on Necessity]]

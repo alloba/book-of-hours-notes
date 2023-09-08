@@ -11,7 +11,7 @@ tags:
 # Sir David Greene
 
 ## Description
-'Sir David Greene'
+'Sir [[David Greene]]'
 
 This bust is carved from reddish granite.
 ## Locations

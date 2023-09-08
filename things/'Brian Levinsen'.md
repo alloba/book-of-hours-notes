@@ -11,7 +11,7 @@ tags:
 # Brian Levinsen
 
 ## Description
-'Brian Levinsen'
+'[[Brian Levinsen]]'
 
 This bust is cast from aluminium - oxidised to grey.
 ## Locations

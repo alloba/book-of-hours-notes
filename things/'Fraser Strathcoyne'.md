@@ -11,7 +11,7 @@ tags:
 # Fraser Strathcoyne
 
 ## Description
-'Fraser Strathcoyne'
+'[[Fraser Strathcoyne]]'
 
 This bust is shaped from beeswax. Careful with it!
 ## Locations

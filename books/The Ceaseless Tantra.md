@@ -8,8 +8,8 @@ aspects:
     amount : 1
   - name: "tally price"
     amount : 2
-  - name: "mystery: hearth"
-    amount : 1
+  - name: "mystery: heart"
+    amount : 6
   - name: "written in sanskrit"
     amount : 1
 tags:

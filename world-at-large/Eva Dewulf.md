@@ -1,5 +1,7 @@
-daughter of [[world-at-large/Valentine Dewulf|Valentine Dewulf]].
-Last of the Dewulf line.
+Baroness Eva - satirist, salonnière, herpetologist, and last of the Dewulfs.
+7th Baroness Brancrug.
+
+Daughter of [[world-at-large/Valentine Dewulf|Valentine Dewulf]].
 
 Eva Dewulf had a lot going on. 
 

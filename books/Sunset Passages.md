@@ -26,7 +26,7 @@ memory:
 ## Description
 Sunset Passages
 
-A miscellany of the funerary prayers, ceremonies and hymns of the Church of the Unconquered Sun, which was ascendant in the Third and Fourth Histories. It schismed during the Intercalate, when the Sun was divided, and has not survived as a significant force.
+A miscellany of the funerary prayers, ceremonies and hymns of the [[Church of the Unconquered Sun]], which was ascendant in the Third and Fourth Histories. It schismed during the [[Intercalate]], when the Sun was divided, and has not survived as a significant force.
 ### Partial Study Description
 I'm Reading...
 

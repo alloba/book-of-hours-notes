@@ -12,10 +12,11 @@ aspects:
     amount : 12
 tags:
   - book
+  - studied
 lesson:
-  - "lesson: "
+  - "lesson: hill & hollow"
 memory:
-  - "memory: "
+  - "memory: salt"
 ---
 
 # Cucurbit Prisoner Records 1928

@@ -13,6 +13,7 @@ aspects:
     
 tags:
   - book
+  - studied
 lesson:
   - "lesson: path & pilgrims"
 memory:

@@ -22,3 +22,4 @@ Lesson: Hill & Hollow
 I've gained more understanding of Hill & Hollow. [Use this card with Consider.]
 ## Sources
 - [[Singlefoot Songs]]
+- [[Cucurbit Prisoner Records 1928]]

@@ -11,7 +11,7 @@ tags:
 # Natalia Brulleau
 
 ## Description
-'Natalia Brulleau'
+'[[Natalia Brulleau]]'
 
 This bust is cast in iron.
 ## Locations

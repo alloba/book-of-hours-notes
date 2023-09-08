@@ -2,7 +2,7 @@
 tags:
   - misc
 ---
-The Librarian is the main character of the game. 
+The Librarian is the main character of the game. The Twelfth Librarian of [[Hush House]].
 
 They washed up on the shore near [[Brancrug Village]] around 1936 after a terrible storm, with scattered memories of a [[Memory - Storm|storm]] and a [[A Drowned Book]] being the only things in their possession. 
 
