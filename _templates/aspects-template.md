@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - aspect
 ---
 
@@ -13,3 +13,5 @@ tR += `# ${filename}`
 %>
 
 ## Description
+
+> <% tp.file.cursor() %><%* app.workspace.activeLeaf.view.editor?.focus(); %>

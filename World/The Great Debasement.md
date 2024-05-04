@@ -1,0 +1,1 @@
+The end of the [[The Leashed Flame|Leashed Flame]]'s time of power. 

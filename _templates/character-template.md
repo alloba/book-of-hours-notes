@@ -1,6 +1,6 @@
 ---
 tags: 
-- person
+  - person
 ---
 
 <%*
@@ -13,3 +13,5 @@ tR += `# ${filename}`
 %>
 
 ## Description
+
+> <% tp.file.cursor() %><%* app.workspace.activeLeaf.view.editor?.focus(); %>

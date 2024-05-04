@@ -1,0 +1,1 @@
+A win condition of the game. There are many, which can be unlocked through upgrading temptations far enough or hitting certain conditions. 

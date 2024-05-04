@@ -1,3 +1,0 @@
-> The Glory is a question, and the Moth always answers Yes. The Black-Flax’s answer is No, and that is always its answer. - De Horis Book 1
-
-The Glory is a place above the [[world-at-large/The Mansus|Mansus]] which is defined by its pure light. It is the apparent inverse of [[Nowhere]]. It is associated with the [[Lantern]] aspect. It is the source of those Hours known as the [[Gods-from-Light]], initially The Sun-in-Splendour and The Forge of Days, and later The Meniscate, The Madrugad, The Flowermaker, and The Sun-in-Rags. The [[Egg Unhatching]], a [[God-from-Stone]], was also associated with the Glory and fled there to escape the [[Lithomachy]]. 

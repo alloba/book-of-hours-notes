@@ -8,51 +8,71 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "parts-of-the-soul",
+      "folder": "Book Of Hours/parts-of-the-soul",
       "template": "_templates/parts-of-the-soul-template.md"
     },
     {
-      "folder": "books",
+      "folder": "Book Of Hours/books",
       "template": "_templates/books-template.md"
     },
     {
-      "folder": "aspects",
+      "folder": "Book Of Hours/aspects",
       "template": "_templates/aspects-template.md"
     },
     {
-      "folder": "things",
+      "folder": "Book Of Hours/things",
       "template": "_templates/things-template.md"
     },
     {
-      "folder": "sundries",
+      "folder": "Book Of Hours/sundries",
       "template": "_templates/sundries-template.md"
     },
     {
-      "folder": "workstations",
+      "folder": "Book Of Hours/workstations",
       "template": "_templates/workstations-template.md"
     },
     {
-      "folder": "memories-and-lessons",
+      "folder": "Book Of Hours/memories-and-lessons",
       "template": "_templates/memories-and-lessons-template.md"
     },
     {
-      "folder": "places",
+      "folder": "Book Of Hours/places",
       "template": "_templates/places-template.md"
     },
     {
-      "folder": "people",
+      "folder": "Book Of Hours/people",
       "template": "_templates/character-template.md"
     },
     {
-      "folder": "skills-and-languages",
+      "folder": "Book Of Hours/skills-and-languages",
       "template": "_templates/skills-and-languages-template.md"
+    },
+    {
+      "folder": "Cultist Simulator/aspects",
+      "template": "_templates/aspects-template.md"
+    },
+    {
+      "folder": "Cultist Simulator/verbs",
+      "template": "_templates/_CultistSimulator/verb-template.md"
+    },
+    {
+      "folder": "Cultist Simulator/people",
+      "template": "_templates/character-template.md"
+    },
+    {
+      "folder": "Cultist Simulator/nouns",
+      "template": "_templates/_CultistSimulator/nouns-template.md"
+    },
+    {
+      "folder": "Cultist Simulator/books",
+      "template": "_templates/_CultistSimulator/books-template.md"
     }
   ],
   "syntax_highlighting": true,
