@@ -21,4 +21,4 @@ Lesson: Sand Stories
 
 I've gained more understanding of Sand Stories. [Use this card with Consider.]
 ## Sources
-- [[The Book of the Centipede]]
+- [[Book Of Hours/books/The Book of the Centipede]]

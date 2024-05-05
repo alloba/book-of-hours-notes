@@ -18,14 +18,8 @@ tags:
 ## Source
 
 ## Uses
-### [[Work]]
-
-#### Paint
-Add yearning:
-> I used to paint. I could paint those sights I half-remember from my dreams. I might sell something. I probably won't
-
-No Yearning Supplied: 
-> I've finished a painting, to the excitement of absolutely no-one: no-one but me. (Sometimes, painting will gain you [[Glimmering |Glimmerings]]. Study them to unlock more advanced painting options.)
-
-##### Rewards
-[[Passion (Exhausted)]], [[Glimmering]]
+- [[Work]] - Painting - [[Passion (Exhausted)]], [[Glimmering]]
+- [[Dream]]
+	- [[Cultist Simulator/aspects/Moth|Moth]] Lore - The Thyrsine Way - [[A Buzzing in the Brain]] + [[Cultist Simulator/nouns/Way - The Wood|Way - The Wood]]
+	- [[Cultist Simulator/aspects/Knock|Knock]] Lore - The Serpent's way - [[Cultist Simulator/nouns/Way - The Wood|Way - The Wood]]
+	- [[Cultist Simulator/aspects/Lantern|Lantern]] Lore - The Bleached Way - [[Cultist Simulator/nouns/Way - The Wood|Way - The Wood]]

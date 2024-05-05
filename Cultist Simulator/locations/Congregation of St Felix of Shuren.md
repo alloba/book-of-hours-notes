@@ -12,4 +12,3 @@ tags:
 > Membership of the Congregation is strictly controlled. It may even be inherited. The safest approach is to burgle the minister's residence while he's conducting a service - but the sworn mothers of the Congregation guard the place in shifts, and they are not easily distracted
 
 ## Rewards
-- [[]]

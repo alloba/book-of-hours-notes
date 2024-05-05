@@ -21,7 +21,7 @@ Memory: Fear
 ## Source
 - [[The Sweet Bones]] - [[Ereb]]
 - [[Chimeric Larva]]
-- [[The Treatise on Underplaces]]
+- [[Book Of Hours/books/The Treatise on Underplaces]]
 - [[Exorcism for Girls]]
 - failed study
 - [[Black Nephrite]]

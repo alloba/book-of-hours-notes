@@ -27,3 +27,6 @@ A volume of collected teachings of the [[Sisterhood of the Triple Knot]], that a
 ### Partial Study Description
 
 ### Study Complete Description
+
+## Taken from Cultist Simulator
+> St Nympha is described as 'not born, but cultivated', The sentience that became the saint, 'Hypatia' indicates, inhabited a sinner's corpse in order to enable that sinner's redemption.

@@ -30,3 +30,6 @@ I'm Reading...
 
 The walls of [[World/The Mansus|the Mansus]],' Hersault begins, 'are the size of starlight.' Many of his directions are equally unhelpful, but common relationships do emerge.
 ### Study Complete Description
+
+## From Cultist Simulator
+> A picaresque account of a journey through nightmare, interspersed with what might be partial rites. 'On the eighteenth Ascent is the bud. On the thirty-sixth Ascent, the blossom.'

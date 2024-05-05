@@ -23,7 +23,7 @@ It doesn't exactly make sense - but I understand it anyway.
 - [[On Matthias and the Amethys Imago - Transformation]]
 - [[Ambrosial!]]
 - [[Ud Rocashaas]]
-- [[The Locksmith's Dream - Trespasses]]
+- [[Book Of Hours/books/The Locksmith's Dream - Trespasses]]
 - [[The Most Sorrowful End of the Lady Nonna]]
 - [[A True and Complete Accounting of the Asclepian Mysteries of the Roots of the House]]
 - [[Book Of Hours/books/Kitling Ripe and the Moldywarp's Grave (And Other Stories)]]
