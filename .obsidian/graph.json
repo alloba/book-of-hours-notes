@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "sun in sp",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:things",
+      "query": "path:\"Book Of Hours/things\" ",
       "color": {
         "a": 1,
         "rgb": 9507346
       }
     },
     {
-      "query": "path:memories-and-lessons",
+      "query": "path:\"Book Of Hours/memories-and-lessons\"",
       "color": {
         "a": 1,
         "rgb": 10002986
       }
     },
     {
-      "query": "path:sundries",
+      "query": "path:\"Book Of Hours/sundries\"",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "path:books",
+      "query": "path:\"Book Of Hours/books\" path:\"Cultist Simulator/books\"  ",
       "color": {
         "a": 1,
         "rgb": 13750737
@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path:world-at-large  ",
+      "query": "path:World",
       "color": {
         "a": 1,
         "rgb": 16740540
@@ -88,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13168724279835392,
+  "scale": 0.18462326225858175,
   "close": false
 }

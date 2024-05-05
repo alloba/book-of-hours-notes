@@ -27,6 +27,6 @@ challenges:
 ## Description
 Desk: Nonna
 
-Abbess Nonna, apothecary, scholar, dancer.
+[[Abbess Nonna]], apothecary, scholar, dancer.
 ## Locations
 - [[Chapter House]]

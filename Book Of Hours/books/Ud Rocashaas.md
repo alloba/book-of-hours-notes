@@ -26,11 +26,11 @@ memory:
 ## Description
 Ud Rocashaas
 
-An anonymous confessional account of unsanctioned activities by the nuns of St Brandan's. The title is a Henavek phrase that might be translated as 'the spirit flees the shadowed places.'
+An anonymous confessional account of unsanctioned activities by the nuns of [[St Brandan's]]. The title is a Henavek phrase that might be translated as 'the spirit flees the shadowed places.'
 ### Partial Study Description
 I'm Reading...
 
-The author writes guiltily of her dealings with hill-children and Carapace-relics - she suggests she herself has a connection with one of the Carapace-kinds. Most of these dealings are trivial, but she claims to have arranged the death of the Marcher Lord William de Braose, called Black William...
+The author writes guiltily of her dealings with hill-children and Carapace-relics - she suggests she herself has a connection with one of the Carapace-kinds. Most of these dealings are trivial, but she claims to have arranged the death of the Marcher Lord [[William de Braose]], called Black William...
 ### Study Complete Description
 I've Read...
 

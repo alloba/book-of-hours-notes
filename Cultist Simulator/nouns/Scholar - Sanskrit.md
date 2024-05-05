@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - noun
   - cultist_sim
 ---

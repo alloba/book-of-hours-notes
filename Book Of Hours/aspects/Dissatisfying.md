@@ -8,4 +8,4 @@ tags:
 ## Description
 Dissatisfying
 
-'The Mare's blessings on you. And your Tree.'
+'[[Mare-in-the-Tree|The Mare]]'s blessings on you. And your Tree.'

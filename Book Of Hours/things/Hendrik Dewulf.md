@@ -13,6 +13,6 @@ tags:
 ## Description
 '[[World/Hendrik Dewulf|Hendrik Dewulf]]'
 
-[[World/Hendrik Dewulf|Hendrik Dewulf]], 1st Baron Brancrug, known for his pious, merciless justice. Granted Brancrug Isle in 1536 after the dissolution of St Brandan's.
+[[World/Hendrik Dewulf|Hendrik Dewulf]], 1st Baron Brancrug, known for his pious, merciless justice. Granted Brancrug Isle in 1536 after the dissolution of [[St Brandan's]].
 ## Locations
 - [[Entrance Hall]]

@@ -13,9 +13,9 @@ tags:
 During this time the sisters and brothers of [[St Brandan's]] dwelt on the Isle. 
 
 - 1230 - 1350 
-	- An endowment was given to the abbey by Eva de Braose, which enables expansion projects. 
-	- The Winter Tower is constructed, and dedicated to the [[Madrugad]]
-	- Abbess Nonna dies, 'by poisoning and Arts unsanctioned'. This causes the monastery to be reformed to only accept male novices. (1349) 
+	- An endowment was given to the abbey by [[Eva de Braose]], which enables expansion projects. 
+	- [[Long Tower - Solomon's Quarters|The Winter Tower]] is constructed, and dedicated to the [[Madrugad]]
+	- [[Abbess Nonna]] dies, 'by poisoning and Arts unsanctioned'. This causes the monastery to be reformed to only accept male novices. (1349) 
 - 1534 the [[King Henry VIII|Bronze King]] Henry dissolved St Brandan's, exiled the brethren, and gave the Isle to the family Dewulf, for services rendered.
 
 # Baronial Period

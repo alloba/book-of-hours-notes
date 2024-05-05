@@ -17,7 +17,7 @@ tags:
 ## Description
 Confounding Parable
 
-'The Moth, the Grail, and the Egg Unhatching all tell different stories of the world's beginning. One of those stories is the oldest, but it may not be the first.' - Abbess Nonna
+'The Moth, the Grail, and the Egg Unhatching all tell different stories of the world's beginning. One of those stories is the oldest, but it may not be the first.' - [[Abbess Nonna]]
 ## Sources
 - crafting
 	- [[Preliminal Meter]] + [[Book Of Hours/aspects/Rose]](5)
