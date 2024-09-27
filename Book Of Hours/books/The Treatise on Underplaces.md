@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: knock"
     amount : 4
+  - name: "subject: horns & ivories"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

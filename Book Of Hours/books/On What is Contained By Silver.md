@@ -12,6 +12,11 @@ aspects:
     amount : 6
   - name: "written in greek"
     amount : 1
+  - name: "subject: glassblowing & vesselcrafting"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
+
 tags:
   - book
   - studied

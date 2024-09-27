@@ -25,3 +25,4 @@ Coffee from beyond the great deserts.
 ## Locations
 - [[Pantry]]
 - [[Lost Packages]]
+- [[Keeper's Lodge]]

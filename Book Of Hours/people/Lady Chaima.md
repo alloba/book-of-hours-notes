@@ -8,6 +8,8 @@ aspects:
     amount: 1
   - name: "understands aramaic"
     amount: 1
+  - name: "understands greek"
+    amount: 1
   - name: "understands cracktrack"
     amount: 1
   - name: occupant

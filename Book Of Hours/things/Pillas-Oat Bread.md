@@ -12,6 +12,12 @@ aspects:
     amount: 1
   - name: rose
     amount: 1
+  - name: "first course"
+    amount: 1
+  - name: bread
+    amount: 1
+  - name: "cooking ingredient"
+    amount: 1
 tags:
   - thing
 ---
@@ -22,4 +28,5 @@ tags:
 Pillas-Oat Bread
 
 Gritty bread made with the hardy, ancient oats that grow at [[Land's End]].
-## Info
+## Locations
+- [[Keeper's Lodge]]

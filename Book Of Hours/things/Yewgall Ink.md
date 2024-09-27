@@ -8,6 +8,8 @@ aspects:
     amount: 1
   - name: ink
     amount: 1
+  - name: moth
+    amount: 1
 tags:
   - thing
 ---

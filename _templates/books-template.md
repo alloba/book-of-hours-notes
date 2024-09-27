@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: "
     amount : 1
+  - name: "subject: "
+    amount : 1
+  - name: " period"
+    amount : 1
 tags: 
   - book
 lesson: 

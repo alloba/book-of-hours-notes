@@ -19,3 +19,4 @@ A variant of the Persian silk tree, golden as the Shadowless Kings.
 ## Locations
 - [[Servant's Quarters - North]]
 - [[Gullscry Loggia]]
+- [[Keeper's Lodge]]

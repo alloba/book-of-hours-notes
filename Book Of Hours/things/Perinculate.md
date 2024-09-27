@@ -10,6 +10,8 @@ aspects:
     amount : 1
   - name: ink
     amount : 1
+  - name: grail
+    amount : 1
 tags:
   - thing
 ---

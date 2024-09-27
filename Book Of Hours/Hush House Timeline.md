@@ -41,4 +41,4 @@ A previous librarian's ([[World/Thirza Blake|Thirza Blake]]) enthusiasms sunk Hu
 >March 7th, 1936 - There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates are very difficult to find, but perhaps we have found one in you. Take care on  your journey - the seas around Brancrug are treacherous.
 
 - 1930 - The Restoration takes place. The violent methods employed by [[King Henry IX|the New King]]'s agents in search of his enemies generated much animosity in Brancrug Village. 
-- [[The Librarian]] has washed up upon the shore of [[Saint Brandan's Cove]]. They have arrived after weathering a fierce storm, and have only [[A Drowned Book]] with them. 
+- March 7th, 1936 - [[The Librarian]] has washed up upon the shore of [[Saint Brandan's Cove]]. They have arrived after weathering a fierce storm, and have only [[A Drowned Book]] with them. 

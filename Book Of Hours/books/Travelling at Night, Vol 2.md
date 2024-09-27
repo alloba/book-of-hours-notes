@@ -10,6 +10,8 @@ aspects:
     amount: 6
   - name: "readable"
     amount: 1
+  - name: "subject: sights & sensations"
+    amount: 1
 tags:
   - book
   - studied

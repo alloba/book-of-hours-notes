@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: rose"
     amount : 6
+  - name: "subject: path & pilgrim"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

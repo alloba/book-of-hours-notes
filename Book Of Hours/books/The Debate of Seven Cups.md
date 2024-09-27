@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: moth"
     amount : 10
+  - name: "curia period"
+    amount : 1
+  - name: "subject: solutions & separations"
+    amount : 1
 tags:
   - book
   - studied

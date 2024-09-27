@@ -25,3 +25,4 @@ A candle scented with honeyscar jasmine.
 ## Locations
 - [[Foundry]]
 - [[Night Gallery]]
+- [[Keeper's Lodge]]

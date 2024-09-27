@@ -10,6 +10,10 @@ aspects:
     amount: 3
   - name: "mystery: lantern"
     amount: 14
+  - name: "subject: pyroglyphics"
+    amount: 1
+  - name: "baronial period"
+    amount: 1
 tags:
   - book
   - studied

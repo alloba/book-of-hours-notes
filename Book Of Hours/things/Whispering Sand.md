@@ -3,8 +3,12 @@ aspects:
   - name: thing
     amount : 1
   - name: moon
-    amount : 1
+    amount : 2
   - name: material
+    amount : 1
+  - name: lantern
+    amount : 1
+  - name: glass
     amount : 1
 tags:
   - thing

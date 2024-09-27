@@ -32,3 +32,7 @@ One-time Librarian of Hush House, one-time Librarian of the Invisible Serapeum i
 
 Not a great amount of detail is known about her through records, although she is known to have assisted [[Christopher Illopoly]] by preparing him a space at Hush House, as well as [[George Collers]] with his clock project. Although, she perhaps came to regret dealing with the latter. 
 
+### House of Light
+Provides the [[Writing-Case]] to the [[The Librarian|Librarian]], a few days after they wash up on the shore of Brancrug.
+
+Her mailing address while the Librarian is at Brancrug is Cecil Hotel, Alexandria. 

@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: knock"
     amount : 6
+  - name: "subject: surgeries & exsanguinations"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - studied

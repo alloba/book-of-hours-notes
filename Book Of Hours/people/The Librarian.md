@@ -2,6 +2,8 @@
 tags:
   - misc
   - person
+aliases:
+  - Librarian
 ---
 The Librarian is the main character of the game. The Twelfth Librarian of [[Hush House]].
 
@@ -15,7 +17,8 @@ The Librarian can have one of several ultimate objectives that caused their arri
 
 ## Discovered Combinations
 
-|Title | First Aspect | Second Aspect | Description |
-|--|--|--|--|
-| The Artist |Fet / Shapt| Ereb |The Artist came to Hush House to shape and share a History of primal, ultimate, unprecedented experience [...] You might wish to begin your studies with the Bosk Wisdom.|
-| The Twiceborn | Shapt | Phost | 
+| Title         | First Aspect | Second Aspect | Description                                                                                                                                                                                           |
+| ------------- | ------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Artist    | Fet / Shapt  | Ereb          | The Artist came to Hush House to shape and share a History of primal, ultimate, unprecedented experience [...] You might wish to begin your studies with the Bosk Wisdom.                             |
+| The Twiceborn | Shapt        | Phost         |                                                                                                                                                                                                       |
+| The Magnate   | Fet          | Wist          | The Magnate came to the House to conclude a History where they will find peace; but you can complete the game by recording any History. You might wish to begin your studies with the Hushery Wisdom. |

@@ -10,6 +10,8 @@ aspects:
     amount: 4
   - name: readable
     amount: 1
+  - name: "subject: edicts liminal"
+    amount: 1
 tags:
   - book
   - studied

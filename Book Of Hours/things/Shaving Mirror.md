@@ -18,3 +18,4 @@ Shaving Mirror
 <i>Snip snip!</i>
 ## Locations
 - [[Servant's Quarters - North]]
+- [[Keeper's Lodge]]

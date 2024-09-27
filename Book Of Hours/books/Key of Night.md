@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: scale"
     amount : 6
+  - name: "nocturnal period"
+    amount : 1
+  - name: "subject: pentiments & precursors"
+    amount : 1
 tags:
   - book
   - studied

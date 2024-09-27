@@ -10,8 +10,6 @@ aspects:
     amount : 1
   - name: light
     amount : 1
-  - name: fuel
-    amount : 1
 tags:
   - thing
 ---

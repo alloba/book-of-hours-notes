@@ -10,7 +10,9 @@ aspects:
     amount : 2
   - name: "mystery: grail"
     amount : 10
-  - name: "bloodlines"
+  - name: "curia period"
+    amount : 1
+  - name: "subject: resurgences & emergences"
     amount : 1
 tags:
   - book

@@ -1,7 +1,5 @@
 ---
 aspects:
-  - name: codex
-    amount: 1
   - name: thing
     amount: 1
   - name: rose
@@ -11,8 +9,6 @@ aspects:
   - name: "memories: the artist"
     amount: 1
   - name: readable
-    amount: 1
-  - name: thing
     amount: 1
   - name: journal
     amount: 1

@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in kyksos"
     amount : 1
+  - name: "nocturnal period"
+    amount : 1
+  - name: "subject: disciplines of the scar"
+    amount : 1
 tags:
   - book
   - studied

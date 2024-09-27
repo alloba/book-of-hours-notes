@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: moon"
     amount : 4
+  - name: "subject: sea stories"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - studied

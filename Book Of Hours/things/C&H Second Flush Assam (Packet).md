@@ -24,3 +24,4 @@ Tea from the land of the <i>real</i> unicorn, imported by Cater & Hero.
 - [[Watchman's Tower - Gatehouse]]
 - [[Kitchen]]
 - [[Pantry]]
+- [[Keeper's Lodge]]

@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in latin"
     amount : 1
+  - name: "subject: resurgences & emergences"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

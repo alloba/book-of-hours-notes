@@ -29,6 +29,7 @@ Stout, rustic, snug.  [Use a matching Soul card to move your belongings in and m
 - [[Hermit Cell]] - Guest Bed: Hermit - A snug nook where absolutely nobody will bother the occupant. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 - [[Cell - Adepts]] - Guest Bed: Adept Cell - A bed stamped with sigils to discourage access to [[World/The Mansus|the Mansus]] in dream. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 - [[Cell - Long]] - Guest Bed: Long Cell - A bunk-bed constructed for two immortals who could neither be together, nor apart. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
+- [[Keeper's Lodge]] - Guest Bed: Lodge - Stout, rustic, snug.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]
 
 ## Info
 
