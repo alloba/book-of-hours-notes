@@ -10,6 +10,10 @@ aspects:
     amount : 4
   - name: "mystery: grail"
     amount : 10
+  - name: "subject: orchids & narcotics"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
 lesson:

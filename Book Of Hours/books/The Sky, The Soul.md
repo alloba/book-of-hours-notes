@@ -12,6 +12,10 @@ aspects:
     amount : 12
   - name: "written in aramaic"
     amount : 1
+  - name: "subject: pyroglyphics"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
 lesson:

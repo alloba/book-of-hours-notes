@@ -10,6 +10,10 @@ aspects:
     amount : 4
   - name: "mystery: sky"
     amount : 8
+  - name: "subject: sacra limiae"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

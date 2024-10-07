@@ -30,5 +30,7 @@ tags:
 Dr Yvette Southey
 
 Playwright, philologist, psychoanalyst: as happy with questions as with answers.
+
+Mailing address of St David's Hill, Exteter
 ## Sources
 

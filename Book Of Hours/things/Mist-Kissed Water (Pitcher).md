@@ -16,6 +16,8 @@ aspects:
     amount : 1
   - name: heart
     amount : 1
+  - name: restorative
+    amount : 1
 tags:
   - thing
 ---

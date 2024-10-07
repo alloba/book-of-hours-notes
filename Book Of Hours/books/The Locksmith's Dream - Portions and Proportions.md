@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: sky"
     amount : 4
+  - name: "subject: lockworks & clockworks"
+    amount : 1
+  - name: "lockworks & clockworks"
+    amount : 1
 tags:
   - book
   - studied

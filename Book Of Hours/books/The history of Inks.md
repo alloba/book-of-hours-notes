@@ -10,6 +10,10 @@ aspects:
     amount : 4
   - name: "mystery: rose"
     amount : 14
+  - name: "subject: inks of power"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
 lesson:

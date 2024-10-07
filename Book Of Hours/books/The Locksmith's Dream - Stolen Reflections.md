@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: sky"
     amount : 4
+  - name: "subject: watchman's paradoxes"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

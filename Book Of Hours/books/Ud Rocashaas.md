@@ -12,6 +12,10 @@ aspects:
     amount : 10
   - name: "written in kernewek henavek"
     amount : 1
+  - name: "subject: stone stories"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

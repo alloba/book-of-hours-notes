@@ -12,6 +12,10 @@ aspects:
     amount : 16
   - name: "written in vak"
     amount : 1
+  - name: "subject: preliminal meter"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

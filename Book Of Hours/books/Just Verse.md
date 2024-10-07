@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: rose"
     amount : 6
+  - name: "subject: preliminal meter"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

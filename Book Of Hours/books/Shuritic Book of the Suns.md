@@ -12,6 +12,10 @@ aspects:
     amount : 10
   - name: "written in deep mandaic"
     amount : 1
+  - name: "subject: sacra solid invicti"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

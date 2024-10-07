@@ -8,7 +8,11 @@ aspects:
     amount : 1
   - name: "tally price"
     amount : 1
-  - name: "mystery: "
+  - name: "mystery: nectar"
+    amount : 4
+  - name: "subject: spices & savours"
+    amount : 1
+  - name: "baronial period"
     amount : 1
 tags:
   - book

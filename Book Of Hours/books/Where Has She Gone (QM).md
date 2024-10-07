@@ -12,6 +12,10 @@ aspects:
     amount : 16
   - name: "written in vak"
     amount : 1
+  - name: "subject: sand stories"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
 lesson:

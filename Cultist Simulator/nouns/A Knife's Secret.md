@@ -16,6 +16,6 @@ tags:
 - [[Requires Practical Experimentation]]
 - [[Lore]]
 ## Source
-- [[The Victory of Crowns]]
+- [[Cultist Simulator/books/The Victory of Crowns]]
 ## Uses
 - [[Talk]] + [[Passion]] - an acquaintance + [[Mystique]]

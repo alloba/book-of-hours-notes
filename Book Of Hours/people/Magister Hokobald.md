@@ -30,5 +30,7 @@ tags:
 Magister Hokobald
 
 Metallurgist, gourmet, corrupted immortal. And, supposedly, a long-ago king's by-blow.
+
+Mailing address - A reluctantly disclosed PO box in Dover
 ## Sources
 

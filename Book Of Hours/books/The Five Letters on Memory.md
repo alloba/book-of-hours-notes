@@ -10,6 +10,8 @@ aspects:
     amount : 2
   - name: "mystery: winter"
     amount : 6
+  - name: "subject: rhyme & remembrance"
+    amount : 1
 tags:
   - book
   - studied

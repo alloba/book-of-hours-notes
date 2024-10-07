@@ -12,6 +12,10 @@ aspects:
     amount : 4
   - name: "written in kernewek henavek"
     amount : 1
+  - name: "solar gothic period"
+    amount : 1
+  - name: "subject: herbs & infusions"
+    amount : 1
 tags:
   - book
 lesson:

@@ -10,6 +10,10 @@ aspects:
     amount : 5
   - name: "mystery: sky"
     amount : 6
+  - name: "subject: anbary & lapidary"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

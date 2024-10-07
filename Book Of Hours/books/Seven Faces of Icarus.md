@@ -10,7 +10,7 @@ aspects:
     amount : 3
   - name: "mystery: sky"
     amount : 4
-  - name: "fifth eye curse"
+  - name: "subject: furs & feathers"
     amount : 1
 tags:
   - book

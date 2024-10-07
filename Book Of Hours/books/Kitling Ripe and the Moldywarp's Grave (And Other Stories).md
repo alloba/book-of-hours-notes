@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: moth"
     amount : 6
+  - name: "subject: resurgences & emergences"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
 lesson:

@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "written in vak"
     amount : 1
+  - name: "subject: sickle & eclipse"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

@@ -12,6 +12,10 @@ aspects:
     amount : 14
   - name: "written in greek"
     amount : 1
+  - name: "subject: serpents & venoms"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

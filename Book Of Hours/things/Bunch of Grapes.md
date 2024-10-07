@@ -8,6 +8,8 @@ aspects:
     amount : 1
   - name: fruit
     amount : 1
+  - name: "cooking ingredient"
+    amount: 1
 tags:
   - thing
 ---

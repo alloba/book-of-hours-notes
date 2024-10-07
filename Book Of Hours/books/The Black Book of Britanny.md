@@ -10,6 +10,10 @@ aspects:
     amount : 4
   - name: "mystery: moon"
     amount : 12
+  - name: "subject: inks of containment"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

@@ -23,3 +23,4 @@ No dawn knows only a single colour. No sky knows only a single dawn.
 ## Locations
 - [[Motley Tower - Dispensary]]
 - [[Chancel of the Abbey Church]]
+- crafting - [[Sky]] 10 + [[light]] + [[Sights & Sensations]]

@@ -16,6 +16,8 @@ aspects:
     amount : 1
   - name: edge
     amount : 2
+  - name: "cooking ingredient"
+    amount : 1
 tags:
   - thing
 ---

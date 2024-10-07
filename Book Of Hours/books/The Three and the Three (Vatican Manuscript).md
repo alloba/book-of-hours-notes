@@ -10,6 +10,10 @@ aspects:
     amount : 4
   - name: "mystery: moon"
     amount : 14
+  - name: "subject: edicts inviolable"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

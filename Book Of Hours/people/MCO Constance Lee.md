@@ -32,5 +32,7 @@ tags:
 MCO Constance Lee
 
 Constable-Oculate Minor, Constance Lee. Don't get in her way. 
+Connie. 
+Mailing address Hotel Storchen, Zurich
 ## Sources
 

@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: grail"
     amount : 8
+  - name: "subject: tridesma hiera"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

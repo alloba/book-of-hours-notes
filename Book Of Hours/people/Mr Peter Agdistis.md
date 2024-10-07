@@ -30,5 +30,7 @@ tags:
 Mr Peter Agdistis
 
 Musician, mystic, impresario. Agdistis was a dancer once. One cannot see him without knowing it. The wound in his thigh keeps him from the stage; but his every movement still has the cadence of a prayer. 
+
+Mailing address: Deutsche Tansbuhne, Berlin
 ## Sources
 

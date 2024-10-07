@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: knock"
     amount : 4
+  - name: "subject: door and wall"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

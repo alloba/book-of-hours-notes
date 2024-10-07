@@ -12,6 +12,10 @@ aspects:
     amount : 14
   - name: "written in latin"
     amount : 1
+  - name: "subject: meniscate reflections"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
 lesson:

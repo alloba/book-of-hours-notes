@@ -13,8 +13,8 @@ aspects:
   - name: "written in latin"
     amount : 1
   - name: "subject: rites of the roots"
-    amount : 4
-  - name: "baronia period"
+    amount : 1
+  - name: "baronial period"
     amount : 1
 tags:
   - book

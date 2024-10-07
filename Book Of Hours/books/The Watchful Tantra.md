@@ -12,11 +12,15 @@ aspects:
     amount : 8
   - name: "written in sanskrit"
     amount : 1
+  - name: "subject: purifications & exultations"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - studied
 lesson:
-  - "lesson: purification & exultations"
+  - "lesson: purifications & exultations"
 memory:
   - "memory: revelation"
 ---

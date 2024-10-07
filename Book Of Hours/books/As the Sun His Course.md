@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in aramaic"
     amount : 1
+  - name: "subject: sickle & eclipse"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

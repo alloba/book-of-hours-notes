@@ -12,6 +12,10 @@ aspects:
     amount : 2
   - name: "written in latin"
     amount : 1
+  - name: "curia period"
+    amount : 1
+  - name: "subject: meggephene mysteries"
+    amount : 1
 tags:
   - book
   - studied

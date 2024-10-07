@@ -10,10 +10,14 @@ aspects:
     amount : 4
   - name: "mystery: edge"
     amount : 10
+  - name: "subject: edicts martial"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
 lesson:
-  - "lesson: "
+  - "lesson: edicts martial"
 memory:
   - "memory: "
 ---

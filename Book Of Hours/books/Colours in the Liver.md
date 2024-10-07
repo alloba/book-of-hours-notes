@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: grail"
     amount : 6
+  - name: "subject:  resurgences & emergences"
+    amount : 1
+  - name: curia period
+    amount: 1
 tags:
   - book
   - studied

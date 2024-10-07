@@ -1,0 +1,3 @@
+The Affair of the Rising While
+
+Across the inner sea, across the desert sands, someone styling herself the Oracle of the Rising While has set up a tent-town where she preaches 'the truth of nearly now' to her followers. This would be of no obvious interest to the students of the invisible arts... except that although she has pitched her tents in the shadow of the Temple of [[Seven-Coils|Seven Coils]], nothing appears to have eaten anyone. [Visitors with an interest in moon or scale Mysteries will want to talk about this.]

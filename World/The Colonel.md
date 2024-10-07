@@ -4,4 +4,4 @@ aliases:
   - Chiliarch
 ---
 
-An Hour. 
+An [[Hours|Hour]]. 

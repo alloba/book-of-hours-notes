@@ -10,6 +10,10 @@ aspects:
     amount : 4
   - name: "mystery: heart"
     amount : 10
+  - name: "subject: cheerful ditty"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

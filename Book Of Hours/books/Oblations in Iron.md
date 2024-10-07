@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: winter"
     amount : 6
+  - name: "subject: inks of containment"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
 lesson:

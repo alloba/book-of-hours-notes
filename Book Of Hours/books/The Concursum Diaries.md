@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in phrygian"
     amount : 1
+  - name: "subject: path & pilgrim"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

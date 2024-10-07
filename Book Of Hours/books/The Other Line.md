@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: heart"
     amount : 4
+  - name: "baronial peroid"
+    amount : 1
+  - name: "subject: preliminal meter"
+    amount : 1
 tags:
   - book
   - studied

@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in fucine"
     amount : 1
+  - name: "subject: quenchings & quellings"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

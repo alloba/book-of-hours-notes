@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in sanskrit"
     amount : 1
+  - name: "subject: coil & chasm"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

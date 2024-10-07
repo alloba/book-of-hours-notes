@@ -12,6 +12,10 @@ aspects:
     amount : 4
   - name: "written in latin"
     amount : 1
+  - name: "subject: the great signs the the great scars"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

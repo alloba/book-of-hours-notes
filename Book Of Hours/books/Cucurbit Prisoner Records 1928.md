@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: scale"
     amount : 12
+  - name: "nocturnal period"
+    amount : 1
+  - name: "subject: hill & hollow"
+    amount : 1
 tags:
   - book
   - studied

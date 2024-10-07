@@ -10,7 +10,9 @@ aspects:
     amount : 4
   - name: "mystery: scale"
     amount : 8
-  - name: "sthenic taint"
+  - name: "subject: stone stories"
+    amount : 1
+  - name: "solar gothic period"
     amount : 1
 tags:
   - book

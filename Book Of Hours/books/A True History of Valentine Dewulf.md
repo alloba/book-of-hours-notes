@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: sky"
     amount : 6
+  - name: "baronial period"
+    amount : 1
+  - name: "subject: furs & feathers"
+    amount : 1
 tags:
   - book
 lesson:

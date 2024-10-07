@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: sky"
     amount : 10
+  - name: "subject: strings & songs"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
 lesson:

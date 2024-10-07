@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: moth"
     amount : 4
+  - name: "curia period"
+    amount : 1
+  - name: "subject: transformations & liberations"
+    amount : 1
 tags:
   - book
   - studied

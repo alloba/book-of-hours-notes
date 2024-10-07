@@ -10,6 +10,10 @@ aspects:
     amount : 4
   - name: "mystery: lantern"
     amount : 10
+  - name: "subject: purifications & exaltations"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

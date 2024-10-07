@@ -12,6 +12,10 @@ aspects:
     amount : 12
   - name: "written in phrygian"
     amount : 1
+  - name: "subject: auroral contemplations"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
 lesson:

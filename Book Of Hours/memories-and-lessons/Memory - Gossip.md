@@ -17,7 +17,7 @@ Memory: Gossip
 
 Frivolous, but tasty.
 ## Sources
-- [[The Sweet Bones]] - [[Ereb]]
+- [[The Sweet Bones]] - [[Ereb]] (percent chance)
 - [[Three Flowers Hath the Tree]]
 - [[The Queens of the Rivers]]
 - [[The Kerisham Portolan]]

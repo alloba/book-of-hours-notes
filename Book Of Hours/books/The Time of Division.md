@@ -12,6 +12,10 @@ aspects:
     amount : 14
   - name: "written in deep mandaic"
     amount : 1
+  - name: "subject: surgeries & exsanguinations"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

@@ -12,6 +12,8 @@ aspects:
     amount: 1
   - name: "subject: sights & sensations"
     amount: 1
+  - name: "nocturnal period"
+    amount: 1
 tags:
   - book
   - studied

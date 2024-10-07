@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in greek"
     amount : 1
+  - name: "subject: tridesma hiera"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
   - studied

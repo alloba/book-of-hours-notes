@@ -23,3 +23,4 @@ An invaluable herbal cure introduced to Hush House by the physician [[Natan of R
 - [[Crucible Tower - Interview Laboratory]]
 - crafting
 	- [[Edicts Inviolable]] + [[Book Of Hours/aspects/Heart]](5)
+	- [[Book Of Hours/aspects/Heart|Heart]] (5)

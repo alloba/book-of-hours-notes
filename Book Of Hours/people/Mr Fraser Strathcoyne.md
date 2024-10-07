@@ -20,5 +20,6 @@ tags:
 Mr Fraser Strathcoyne
 
 Philanthropist, collector, former Librarian (fourth). A complicated man, but not a cruel one. 
+Mailing address Strathcoyne House, Midsomer Norton
 ## Sources
 

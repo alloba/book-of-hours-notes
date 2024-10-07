@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: heart"
     amount : 12
+  - name: "subject: surgeries & exsanguinations"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

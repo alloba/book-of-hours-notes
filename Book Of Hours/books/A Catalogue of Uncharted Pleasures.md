@@ -12,6 +12,10 @@ aspects:
     amount : 12
   - name: "written in phrygian"
     amount : 1
+  - name: "subject: orchids & narcotics"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
 lesson:

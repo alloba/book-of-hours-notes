@@ -9,6 +9,10 @@ aspects:
   - name: "tally price"
     amount : 2
   - name: "mystery: edge"
+    amount : 4
+  - name: "subject: meniscate reflections"
+    amount : 1
+  - name: "curia period"
     amount : 1
 tags:
   - book

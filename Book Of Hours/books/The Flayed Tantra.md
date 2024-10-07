@@ -12,6 +12,10 @@ aspects:
     amount : 8
   - name: "written in sanskrit"
     amount : 1
+  - name: "subject: maggephene mysteries"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
 lesson:

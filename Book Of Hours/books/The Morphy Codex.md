@@ -12,6 +12,10 @@ aspects:
     amount : 6
   - name: "written in aramaic"
     amount : 1
+  - name: "subject: tridesma hiera"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

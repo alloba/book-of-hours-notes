@@ -8,6 +8,8 @@ aspects:
     amount : 1
   - name: tool
     amount : 1
+  - name: kitchenware
+    amount : 1
 tags:
   - thing
 ---

@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: knock"
     amount : 10
+  - name: "subject: glassblowing & vesselcrafting"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: winter"
     amount : 6
+  - name: "subject:  snow stories"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
 lesson:

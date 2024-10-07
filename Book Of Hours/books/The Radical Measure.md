@@ -10,6 +10,10 @@ aspects:
     amount: 10
   - name: readable
     amount: 1
+  - name: "subject: preliminal meter"
+    amount: 1
+  - name: "curia period"
+    amount: 1
 tags:
   - book
   - studied

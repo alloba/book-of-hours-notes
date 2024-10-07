@@ -12,7 +12,9 @@ aspects:
     amount : 4
   - name: "written in kerewek henavek"
     amount : 1
-  - name: bloodlines
+  - name: "subject: tridesma hiera"
+    amount : 1
+  - name: "solar gothic period"
     amount : 1
 tags:
   - book

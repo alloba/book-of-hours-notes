@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: sustenance
     amount : 1
+  - name: "first course"
+    amount: 1
+  - name: "side dish"
+    amount: 1
 tags:
   - thing
 ---

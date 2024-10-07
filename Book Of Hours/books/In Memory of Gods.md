@@ -12,6 +12,10 @@ aspects:
     amount : 12
   - name: "written in fucine"
     amount : 1
+  - name: "subject: ragged crossroads"
+    amount : 1
+  - name: "dwan period"
+    amount : 1
 tags:
   - book
   - studied

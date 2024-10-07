@@ -10,6 +10,12 @@ aspects:
     amount : 5
   - name: "mystery: scale"
     amount : 8
+  - name: "subject: serpents & venoms"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
+  - name: "written in greek"
+    amount : 1
 tags:
   - book
 lesson:

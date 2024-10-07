@@ -12,6 +12,10 @@ aspects:
     amount : 12
   - name: "written in greek"
     amount: 1
+  - name: "subject: sharps"
+    amount: 1
+  - name: "solar gothic period"
+    amount: 1
 tags:
   - book
   - studied

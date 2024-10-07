@@ -12,6 +12,8 @@ aspects:
     amount : 1
   - name: liquid
     amount : 1
+  - name: "cooking ingredient"
+    amount : 1
 tags:
   - thing
 ---

@@ -12,6 +12,10 @@ aspects:
     amount : 4
   - name: "written in latin"
     amount : 1
+  - name: "subject: the disciplines of the hammer"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

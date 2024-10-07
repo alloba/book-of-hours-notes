@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: lantern"
     amount : 14
+  - name: "subject: sacra solis invicti"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
 lesson: 

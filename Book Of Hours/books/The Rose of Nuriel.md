@@ -12,6 +12,10 @@ aspects:
     amount : 10
   - name: "written in greek"
     amount : 1
+  - name: "subject: the great signs and the great scars"
+    amount : 1
+  - name: "solar gothic period"
+    amount : 1
 tags:
   - book
 lesson:

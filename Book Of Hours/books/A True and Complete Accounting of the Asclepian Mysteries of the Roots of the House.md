@@ -12,6 +12,10 @@ aspects:
     amount : 4
   - name: "written in greek"
     amount : 1
+  - name: "subject: weaving & knotworking"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - studied

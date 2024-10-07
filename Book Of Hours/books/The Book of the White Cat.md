@@ -12,6 +12,10 @@ aspects:
     amount : 16
   - name: "written in phrygian"
     amount : 1
+  - name: "subject: watchman's paradoxes"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied
@@ -30,7 +34,7 @@ Stories brought by a blind white cat to Penelope of Gordion.
 ### Partial Study Description
 I'm Reading...
 
-The aviform Hours - [[the Crow,]] [[the Laughingthrush]], [[the Dove]], and [[the twin Kites]] - have been known to meet in the mountains north of Gordion, at a place called the Roost, to exchange gossip. Penelope indicates that mortals who hear their words directly are obliterated, but claims that her cat goes unnoticed and returns to her with rumours from the Hours' meetings.
+The aviform Hours - [[The Crow]], [[The Laughingthrush]], [[The Dove]], and [[The Twin Kites]] - have been known to meet in the mountains north of Gordion, at a place called the Roost, to exchange gossip. Penelope indicates that mortals who hear their words directly are obliterated, but claims that her cat goes unnoticed and returns to her with rumours from the Hours' meetings.
 ### Study Complete Description
 I've Read...
 

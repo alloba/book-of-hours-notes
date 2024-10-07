@@ -6,6 +6,8 @@ aspects:
     amount: 1
   - name: knock
     amount: 1
+  - name: lantern
+    amount: 1
   - name: leaf
     amount: 1
   - name: brewable

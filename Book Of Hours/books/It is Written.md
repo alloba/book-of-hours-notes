@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: scale"
     amount: 8
+  - name: "subject: inks of power"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

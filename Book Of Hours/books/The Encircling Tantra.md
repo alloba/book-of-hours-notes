@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: scale"
     amount : 6
+  - name: "subject: horns & ivories"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - studied

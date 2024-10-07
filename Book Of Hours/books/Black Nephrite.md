@@ -10,6 +10,10 @@ aspects:
     amount: 6
   - name: readable
     amount: 1
+  - name: "subject: wolf stories"
+    amount: 1
+  - name: "baronial period"
+    amount: 1
 tags:
   - book
 lesson:
