@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: heart"
     amount : 12
+  - name: "subject: drums & dances"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 12
 tags:
   - book
 lesson:

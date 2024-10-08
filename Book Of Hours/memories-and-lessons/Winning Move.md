@@ -5,6 +5,7 @@ aspects:
   - name: memory
     amount: 1
   - name: "evolve via illumination"
+    amount: 1
 tags:
   - 
 ---

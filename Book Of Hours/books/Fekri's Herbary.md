@@ -11,7 +11,11 @@ aspects:
   - name: "mystery: nectar"
     amount : 6
   - name: "written in aramaic"
-    amount : 6
+    amount : 1
+  - name: "subject: herbs & infusions"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

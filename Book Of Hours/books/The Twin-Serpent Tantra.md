@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: knock"
     amount : 8
+  - name: "subject: edicts liminal"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

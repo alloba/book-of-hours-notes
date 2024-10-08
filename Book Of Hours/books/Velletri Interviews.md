@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: heart"
     amount : 6
+  - name: "subject: edicts inviolable"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
 lesson:

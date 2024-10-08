@@ -12,6 +12,10 @@ aspects:
     amount : 4
   - name: "written in latin"
     amount : 1
+  - name: "subject: sacra solis invicti"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

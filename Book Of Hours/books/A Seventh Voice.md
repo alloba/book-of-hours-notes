@@ -7,12 +7,12 @@ aspects:
   - name: readable
     amount : 1
   - name: "tally price"
-    amount : 1
-  - name: "mystery: grail"
+    amount : 3
+  - name: "mystery: sky"
     amount : 8
-  - name: "subject: desires & dissolutions"
+  - name: "subject: preliminal meter"
     amount : 1
-  - name: "nocturnal period"
+  - name: "baronial period"
     amount : 1
 tags:
   - book
@@ -22,12 +22,12 @@ memory:
   - "memory: "
 ---
 
-# The Intimations of the Skin
+# A Seventh Voice
 
 ## Description
-The Intimations of Skin
+A Seventh Voice
 
-Fiendishly complex, weirdly distorted illustrations of 'congress and anatomy' by the haunted visionary painter Niels Frederik Malskær.
+Samuel Savage's cycle of comic poems about a band of players who double as footpads seeking a seventh member.
 ### Partial Study Description
 
 ### Study Complete Description

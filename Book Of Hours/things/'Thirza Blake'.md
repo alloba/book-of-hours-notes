@@ -11,7 +11,7 @@ tags:
 # Thirza Blake
 
 ## Description
-'Thirza Blake'
+'[[Thirza Blake]]'
 
 This bust is carved from malachite.
 ## Locations

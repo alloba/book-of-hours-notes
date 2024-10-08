@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: grail"
     amount : 12
+  - name: "subject: tridesma hiera"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
 lesson: 

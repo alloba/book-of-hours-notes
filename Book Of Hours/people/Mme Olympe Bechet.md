@@ -26,5 +26,7 @@ tags:
 Mme Olympe Bechet
 
 Essayist, illustrator, critic. Editor of the Kerisham Review.
+
+Mailing address: Kerisham Review, Plover Street, Kerisham
 ## Sources
 

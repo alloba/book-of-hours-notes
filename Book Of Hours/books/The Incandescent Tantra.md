@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: forge"
     amount : 8
+  - name: "subject: transformations & liberations"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - scroll

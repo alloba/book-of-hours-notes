@@ -12,6 +12,10 @@ aspects:
     amount : 10
   - name: "written in ericapaean"
     amount : 1
+  - name: "subject: glassblowing & vesselcrafting"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
 lesson:

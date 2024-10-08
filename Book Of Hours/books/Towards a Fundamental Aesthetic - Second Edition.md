@@ -12,6 +12,10 @@ aspects:
     amount : 10
   - name: "written in ericapaean"
     amount : 1
+  - name: "subject: sights & sensations"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
 lesson:

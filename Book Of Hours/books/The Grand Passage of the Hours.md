@@ -12,7 +12,9 @@ aspects:
     amount : 12
   - name: "written in vak"
     amount : 1
-  - name: "sthenic taint"
+  - name: "subject: door & wall"
+    amount : 1
+  - name: "dawn period"
     amount : 1
 tags:
   - book

@@ -9,6 +9,10 @@ aspects:
   - name: "tally price"
     amount : 1
   - name: "mystery: moon"
+    amount : 8
+  - name: "subject: edicts inviolable"
+    amount : 1
+  - name: "nocturnal period"
     amount : 1
 tags:
   - book

@@ -12,6 +12,10 @@ aspects:
     amount : 10
   - name: "written in fucine"
     amount : 1
+  - name: "subject: bells & brazieries"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

@@ -12,6 +12,10 @@ aspects:
     amount : 6
   - name: "written in sanskrit"
     amount : 1
+  - name: "subject: weaving & knotworking"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - studied

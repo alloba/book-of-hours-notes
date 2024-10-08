@@ -28,5 +28,7 @@ tags:
 Sr. Corso Reverte
 
 Manuscript-hunter, legacy-scavenger... mercenary? Many would question his ethics; few would deny his acuteness.
+
+Mailing address: Mansard Books, Oxford
 ## Sources
 

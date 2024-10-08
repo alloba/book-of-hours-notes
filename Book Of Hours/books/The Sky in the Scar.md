@@ -12,6 +12,10 @@ aspects:
     amount : 10
   - name: "written in sabazine"
     amount : 10
+  - name: "subject: sickle & eclipse"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
   - studied

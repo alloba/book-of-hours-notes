@@ -10,6 +10,12 @@ aspects:
     amount : 10
   - name: "written in killasimi"
     amount : 1
+  - name: "subject: weaving & knoworking"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
+  - name: "tablet"
+    amount : 1
 tags:
   - book
   - studied

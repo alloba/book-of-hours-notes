@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: forge"
     amount : 10
+  - name: "subject: sights & sensations"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

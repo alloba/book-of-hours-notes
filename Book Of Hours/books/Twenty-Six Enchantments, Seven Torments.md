@@ -12,6 +12,10 @@ aspects:
     amount : 1
   - name: "mystery: grail"
     amount : 14
+  - name: "subject: resurgences & emergences"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
 lesson: 

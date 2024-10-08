@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: forge"
     amount : 8
+  - name: "subject: pyroglyphics"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

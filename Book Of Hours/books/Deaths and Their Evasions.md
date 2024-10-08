@@ -12,6 +12,10 @@ aspects:
     amount : 14
   - name: "written in fucine"
     amount : 1
+  - name: "subject: edicts liminal"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
 lesson:

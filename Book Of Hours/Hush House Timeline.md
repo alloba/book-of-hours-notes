@@ -42,3 +42,20 @@ A previous librarian's ([[World/Thirza Blake|Thirza Blake]]) enthusiasms sunk Hu
 
 - 1930 - The Restoration takes place. The violent methods employed by [[King Henry IX|the New King]]'s agents in search of his enemies generated much animosity in Brancrug Village. 
 - March 7th, 1936 - [[The Librarian]] has washed up upon the shore of [[Saint Brandan's Cove]]. They have arrived after weathering a fierce storm, and have only [[A Drowned Book]] with them. 
+
+## Librarians Over Time
+
+| Name                                 | Order | Years Active |
+| ------------------------------------ | ----- | ------------ |
+| [[Ambrose Westcott]]                 | 1     | 1785 - 1797  |
+| [[Kitty Mazarine]]                   | 2     | 1797 - 1818  |
+| [[Solomon Husher]]                   | 3     | 1818 - 1838  |
+| [[Fraser Strathcoyne]]               | 4     | ?            |
+| [[Natalia Brulleau]]                 | 5     | ? - 1861     |
+| [[Willem Harries]]                   | 6     | ?            |
+| [[World/Thirza Blake\|Thirza Blake]] | 7     | ? - ~1896    |
+| [[David Greene\|Sir David Green]]    | 8     | 1903 - ?     |
+| [[Brian Levinsen]]                   | 9     | ? - 1914     |
+| [[Serena Blackwood]]                 | 10    | ?            |
+| [[Gervinus Van Lauren]]              | 11    | ? - 1929     |
+| [[The Librarian]] (You)              | 12    | 1936 -       |

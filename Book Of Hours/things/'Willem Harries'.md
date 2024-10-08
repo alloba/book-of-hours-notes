@@ -11,7 +11,7 @@ tags:
 # Willem Harries
 
 ## Description
-'Willem Harries'
+'[[Willem Harries]]'
 
 This bust is cast in highly polished bronze.
 ## Locations

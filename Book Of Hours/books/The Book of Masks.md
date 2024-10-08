@@ -12,7 +12,9 @@ aspects:
     amount : 14
   - name: "written in phrygian"
     amount : 1
-  - name: "witchworms"
+  - name: "subject: weaving & knotworking"
+    amount : 1
+  - name: "dawn period"
     amount : 1
 tags:
   - book

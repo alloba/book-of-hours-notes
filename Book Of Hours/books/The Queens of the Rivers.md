@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: scale"
     amount : 4
+  - name: "subject: path & pilgrims"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
     
 tags:
   - book
