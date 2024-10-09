@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: forge"
     amount : 8
+  - name: "subject: bells and brazierie"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
 lesson:

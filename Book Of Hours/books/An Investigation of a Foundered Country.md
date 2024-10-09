@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: moon"
     amount : 4
+  - name: "subject: hill & hollow"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
 lesson:

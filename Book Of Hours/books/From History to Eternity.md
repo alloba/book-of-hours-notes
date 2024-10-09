@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: moth"
     amount : 10
+  - name: "subject: inks of revelation"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
 lesson:

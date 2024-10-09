@@ -12,6 +12,10 @@ aspects:
     amount : 18
   - name: "written in killasimi"
     amount : 1
+  - name: "subject: disciplines of the scar"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
 lesson: 

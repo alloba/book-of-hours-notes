@@ -9,8 +9,12 @@ aspects:
   - name: "tally price"
     amount : 5
   - name: "mystery: grail"
-    amount : 10
+    amount : 16
   - name: "written in phrygian"
+    amount : 1
+  - name: "subject: the great signs and the great scars"
+    amount : 1
+  - name: "dawn period"
     amount : 1
 tags:
   - book

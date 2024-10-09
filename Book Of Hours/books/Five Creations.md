@@ -12,6 +12,10 @@ aspects:
     amount : 14
   - name: "written in vak"
     amount : 1
+  - name: "subject: resurgences & emergences"
+    amount : 1
+  - name: "dawn period"
+    amount : 1
 tags:
   - book
 lesson:
