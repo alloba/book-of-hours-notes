@@ -1,0 +1,1 @@
+Not much reference to this. By calling it a door, I want to assume it's a doorway to the Mansus, but I cannot find any concrete statements about it. 

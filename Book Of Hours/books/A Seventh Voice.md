@@ -27,7 +27,7 @@ memory:
 ## Description
 A Seventh Voice
 
-Samuel Savage's cycle of comic poems about a band of players who double as footpads seeking a seventh member.
+[[Samuel Savage]]'s cycle of comic poems about a band of players who double as footpads seeking a seventh member.
 ### Partial Study Description
 
 ### Study Complete Description

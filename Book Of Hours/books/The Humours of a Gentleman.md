@@ -24,7 +24,7 @@ memory:
 ## Description
 The Humours of a Gentleman
 
-Samuel Savage's satirical comedy, on the intrigues of the ailing, but cunning John Sonne, his mistress Maevelin, her lover Leo, and the upstart Corvino.
+[[Samuel Savage]]'s satirical comedy, on the intrigues of the ailing, but cunning John Sonne, his mistress Maevelin, her lover Leo, and the upstart Corvino.
 ### Partial Study Description
 I'm Reading...
 

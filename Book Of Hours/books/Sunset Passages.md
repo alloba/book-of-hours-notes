@@ -34,7 +34,7 @@ A miscellany of the funerary prayers, ceremonies and hymns of the [[Church of th
 ### Partial Study Description
 I'm Reading...
 
-The Church revered the [[Sun-In-Splendour]] before it was divided -but even while it was still whole, its later selves were recognised as its Names. The [[Madrugad]], of course, presided over death and the passage into the House.
+The Church revered [[The Sun-In-Splendour]] before it was divided -but even while it was still whole, its later selves were recognised as its Names. The [[Madrugad]], of course, presided over death and the passage into the House.
 ### Study Complete Description
 I've Read...
 

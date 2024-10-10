@@ -18,6 +18,6 @@ tags:
 
 Clouds
 
-In this country the sky is rarely clear. [[Sun-In-Splendour|The Sun]] goes courteously cloaked.
+In this country the sky is rarely clear. [[The Sun-In-Splendour|The Sun]] goes courteously cloaked.
 
 ## Info

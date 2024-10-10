@@ -15,7 +15,7 @@ tags:
 # The Witch-And-Sister
 
 ## Description
-'The Witch-and-Sister'
+'[[The Witch-And-Sister]]'
 
 'The Witch-and-Sister unites what is at rest. She is sought at the water's edge and beneath the moon. She cannot be separated; she cannot be touched; she is coral, amber, pearl'
 ## Locations

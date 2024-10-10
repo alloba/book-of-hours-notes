@@ -1,0 +1,1 @@
+An [[Hours|Hour]], associated with hour 0 (midnight). 

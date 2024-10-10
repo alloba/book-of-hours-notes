@@ -26,6 +26,6 @@ challenges:
 ## Description
 Calicite Altar
 
-The Red Grail, birth and appetite, denied and condemned by the clergy of [[Sun-In-Splendour|the Sun]] for her temptress-role in the Sun's division. Those of us who oppose Eternity might instead give her thanks and praise. But cautiously.
+The Red Grail, birth and appetite, denied and condemned by the clergy of [[The Sun-In-Splendour|the Sun]] for her temptress-role in the Sun's division. Those of us who oppose Eternity might instead give her thanks and praise. But cautiously.
 ## Locations
 - [[Chapel Calicite]]

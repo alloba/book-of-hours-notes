@@ -24,7 +24,7 @@ memory:
 ## Description
 Advice on Containment
 
-Thirza Blake discusses ways 'to keep Wood-things out of trouble, and Mansus-things in it.'
+[[Thirza Blake]] discusses ways 'to keep Wood-things out of trouble, and Mansus-things in it.'
 ### Partial Study Description
 I'm Reading...
 

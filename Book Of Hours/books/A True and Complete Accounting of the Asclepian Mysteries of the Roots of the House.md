@@ -30,7 +30,7 @@ memory:
 ## Description
 A True and Complete Accounting of the Asclepian Mysteries of the Roots of the House
 
-Descriptions of the 'Asclepian Mysteries', reproduced by one 'Rylee Grese' from - supposedly - a much older text. It's unlikely to be genuine, but it makes a reference to 'The House without Walls and its Wood' right there in the prologue.
+Descriptions of the 'Asclepian Mysteries', reproduced by one 'Rylee Grese' from - supposedly - a much older text. It's unlikely to be genuine, but it makes a reference to '[[World/The Mansus|The House Without Walls]] and its Wood' right there in the prologue.
 ### Partial Study Description
 I'm Reading...
 

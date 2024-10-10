@@ -1,6 +1,7 @@
 ---
 aliases:
   - "Red Grail"
+  - "The Grail"
 ---
 
-An Hour
+An [[Hours|Hour]]

@@ -3,6 +3,7 @@ aliases:
   - "House of the Sun"
   - "Mansus"
   - "House Without Walls"
+  - "The House Without Walls"
 ---
 The Mansus, or the House of the Sun, is a place or concept where the Hours dwell in the illumination of [[The Glory]]. Mortals can access the Mansus in spirit and traverse its five different Ways by Dreaming. 
 
@@ -27,7 +28,7 @@ The Book of Dissolution describes an earlier incarnation of the Mansus with a di
 - **The Painted River**
 - **The Ascent of the Knives**
 ---
-- **The Wood**
+- **[[The Wood]]**
   > I walked in the Wood last night, and the scissors worked in the distance and the furred things crammed my mouth and swarmed my ears, and I felt the old urge to drop to wolf-fours and nose among the roots. but I remembered that I walk upright by day and I know fire and steel and words, and at last I found where the Velvet had concealed a secret on tree-bark beneath moss. I read it then with the tips of my fingers, and I think now that I could write it in full.
 - **The Well**
   > The Well in the Wood is never dry, but it is never clear. One night it might heave with crawling roots; on another it will pulse with bright moss. On night of the full moon its waters are choked with the fat dappled bodies of moths. Last night, I saw it brimming with dark and viscous blood. Gelatinous shreds drifted on its surface; clots of Grail-matter

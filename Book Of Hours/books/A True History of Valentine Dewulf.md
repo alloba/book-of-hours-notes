@@ -36,3 +36,7 @@ Valentine is obssessed with the meaning of the Dewulf coat-of-arms: 'On a field 
 I've Read...
 
 'Long have the two birds pursued my blood, yet one is no Crow, yet it is darker. Long has the Wolf rolled itself in gold like a clovered cow, until its slobberings stain our thoughts…'
+
+## Speculation
+
+(is the last line a reference to [[The Wolf Divided]] and [[The Beachcomber]] ?)

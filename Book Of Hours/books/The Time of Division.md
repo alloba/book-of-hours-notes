@@ -30,7 +30,7 @@ memory:
 ## Description
 The Time of Division
 
-In which Amira Zahra prophesies the events later known as the Intercalate, when the Hour called [[Sun-In-Splendour]] will be divided.
+In which Amira Zahra prophesies the events later known as the Intercalate, when the Hour called [[The Sun-In-Splendour]] will be divided.
 ### Partial Study Description
 I'm Reading...
 

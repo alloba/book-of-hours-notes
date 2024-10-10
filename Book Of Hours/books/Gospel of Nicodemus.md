@@ -32,7 +32,7 @@ An apocryphal account of the works and experiences of the Shepherd Illuminate by
 ### Partial Study Description
 I'm Reading...
 
-'Inventori Lucis Soli Invicto Nuntio' reads the dedication - loosely translatable as 'I am the herald of [[Sun-In-Splendour|the Sun]] Unconquerable, Light's Contriver'. This is a variation on the more usual 'invicto augusto', the declaration which united the eastern and western traditions of the [[Church Solar]].
+'Inventori Lucis Soli Invicto Nuntio' reads the dedication - loosely translatable as 'I am the herald of [[The Sun-In-Splendour|the Sun]] Unconquerable, Light's Contriver'. This is a variation on the more usual 'invicto augusto', the declaration which united the eastern and western traditions of the [[Church Solar]].
 ### Study Complete Description
 I've Read...
 

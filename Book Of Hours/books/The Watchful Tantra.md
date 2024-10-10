@@ -38,4 +38,4 @@ The Tantra describes processes of occult illumination, including a formula which
 ### Study Complete Description
 I've Read...
 
-[[Sun-In-Splendour|The Sun]] passes through the House at the appointed time. Since the Sun's division, the time has become uncertain.'
+[[The Sun-In-Splendour|The Sun]] passes through the House at the appointed time. Since the Sun's division, the time has become uncertain.'

@@ -30,7 +30,7 @@ Hieronymus Pseudo-Hypnerotomachus wrote this furious screed about the sinister i
 ### Partial Study Description
 I'm Reading...
 
-Hieronymus claims that the powers served by the [[Sisterhood of the Triple Knot]] made an arrangement: the [[Thunderskin]] loved the Yew, and the Grail destroyed him, as restitution for the destruction of the Axe's loved ones. Hieronymus' writing becomes incoherent with rage at this point.
+Hieronymus claims that the powers served by the [[Sisterhood of the Triple Knot]] made an arrangement: the [[Thunderskin]] loved [[The Malachite|the Yew]], and [[The Red Grail|The Grail]] destroyed him, as restitution for the destruction of the Axe's loved ones. Hieronymus' writing becomes incoherent with rage at this point.
 ### Study Complete Description
 I've Read...
 

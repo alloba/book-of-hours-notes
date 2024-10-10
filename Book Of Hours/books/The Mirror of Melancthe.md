@@ -28,7 +28,7 @@ memory:
 ## Description
 The Mirror of Melancthe
 
-The day-book and dream-journal of Abbess Melancthe, venerated as a saint and respected as an alchemist.
+The day-book and dream-journal of [[Abbess Melancthe]], venerated as a saint and respected as an alchemist.
 ### Partial Study Description
 I'm Reading...
 
@@ -36,4 +36,4 @@ Melancthe speaks longingly of 'those we would call from behind the sky…'
 ### Study Complete Description
 I've Read...
 
-Melancthe claims that the Sights and Sensations arts that she describes can be used to invoke 'the Dream of a Star', when sufficient Sky-aspect is invoked to uplift an Ascendant Harmony.
+Melancthe claims that the Sights and Sensations arts that she describes can be used to invoke '[[Didumos|the Dream of a Star]]', when sufficient Sky-aspect is invoked to uplift an Ascendant Harmony.

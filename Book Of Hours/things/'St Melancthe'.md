@@ -11,7 +11,7 @@ tags:
 # St Melancthe
 
 ## Description
-'St Melancthe'
+'[[Abbess Melancthe|St Melancthe]]'
 
 Visionary, philosopher, alchemist. Most revered, and most heterodox, of the isle's abbesses. An inscription in Latin reads: THE CROSS DIED NOT BUT PASSED WITHIN.
 ## Locations

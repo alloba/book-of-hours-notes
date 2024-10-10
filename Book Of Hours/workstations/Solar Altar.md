@@ -26,6 +26,6 @@ challenges:
 ## Description
 Solar Altar
 
-The [[Sun-In-Splendour]] is the Hour which was sundered; the Hour which is not conquered; the Hour from which proceed all the other Hours of the day. Or so the Church teaches.
+[[The Sun-In-Splendour]] is the Hour which was sundered; the Hour which is not conquered; the Hour from which proceed all the other Hours of the day. Or so the Church teaches.
 ## Locations
 - [[Nave of the Abbey Church]]

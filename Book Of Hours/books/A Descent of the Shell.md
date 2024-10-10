@@ -26,7 +26,7 @@ memory:
 
 ## Description
 
-A treatise on eggs, light, and optics by Abbess Melancthe, dazzingly illuminated with renderings of the Abbess' visions.
+A treatise on eggs, light, and optics by [[Abbess Melancthe]], dazzingly illuminated with renderings of the Abbess' visions.
 
 ### Partial Study Description
 

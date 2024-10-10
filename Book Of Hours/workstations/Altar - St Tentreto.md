@@ -27,6 +27,6 @@ challenges:
 ## Description
 Altar: St Tentreto
 
-Saint Tentreto of the Deep Door, who is four times winged: for the Scīmafectra-kind; the Glaeterfleoge-kind; the Thritige-kind; for the kind-within.
+Saint Tentreto of the [[Deep Door]], who is four times winged: for the Scīmafectra-kind; the Glaeterfleoge-kind; the Thritige-kind; for the kind-within.
 ## Locations
 - [[Shrine to St Tentreto]]
