@@ -30,5 +30,6 @@ tags:
 Ms Azita Bukhara
 
 Businesswoman, chess-master, initiate of the scarred Hour sometimes called [[The Colonel]].
+Mailing address: Bukhara Exports, Samarkand
 ## Sources
 

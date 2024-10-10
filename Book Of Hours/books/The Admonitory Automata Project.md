@@ -10,6 +10,10 @@ aspects:
     amount : 1
   - name: "mystery: forge"
     amount: 10
+  - name: "subject: lockworks & clockworks"
+    amount : 1
+  - name: "nocturnal period"
+    amount : 1
 tags:
   - book
   - studied

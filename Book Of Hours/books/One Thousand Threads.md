@@ -18,8 +18,11 @@ aspects:
     amount : 1
 tags:
   - book
-lesson: 
-memory: 
+  - studied
+lesson:
+  - "lesson: tridesma hiera"
+memory:
+  - "memory: fear"
 ---
 
 # One Thousand Threads
@@ -29,5 +32,10 @@ One Thousand Threads
 
 The fate-supplications of the Matriarch of the Well, recorded by in darkness by her weavers and her daughters…
 ### Partial Study Description
+I'm Reading...
 
+The Well is long choked with rubble and ashes; the Matriarch long gone. She predicted her own end even as these supplications were recorded, but their power remains.
 ### Study Complete Description
+I've Read...
+
+Speak these supplications before an altar whose roots have drawn from a sacred spring; perhaps another root will rise towards daylight.

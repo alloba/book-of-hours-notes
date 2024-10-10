@@ -16,6 +16,7 @@ aspects:
     amount : 1
 tags:
   - book
+  - studied
 lesson:
   - "lesson: bells & brazierie"
 memory:

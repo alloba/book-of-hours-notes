@@ -12,6 +12,10 @@ aspects:
     amount: 8
   - name: "written in killasimi"
     amount: 1
+  - name: "subject: sticking & binding"
+    amount: 1
+  - name: "curia period"
+    amount: 1
 tags:
   - book
   - studied
