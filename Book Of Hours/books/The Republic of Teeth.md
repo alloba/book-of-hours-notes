@@ -10,6 +10,10 @@ aspects:
     amount : 3
   - name: "mystery: scale"
     amount : 6
+  - name: "subject: serpents & venoms"
+    amount : 1
+  - name: "baronial period"
+    amount : 1
 tags:
   - book
   - studied

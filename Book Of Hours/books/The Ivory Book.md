@@ -38,4 +38,4 @@ Members of the Ordo took an oath, the Ivory Chain, not to have commerce with the
 ### Study Complete Description
 I've Read...
 
-Kurenai describes the Order's burial rites, which include spells to ensure - in theory - that the souls of dead Long are not given to the Hours. The Hour called the Ivory Dove, who memorialises and commemorates, is to be invoked, in secret, in these rites, 'for with that Hour we have made an understanding'.
+Kurenai describes the Order's burial rites, which include spells to ensure - in theory - that the souls of dead Long are not given to the Hours. The Hour called [[The Elegiast|the Ivory Dove]], who memorialises and commemorates, is to be invoked, in secret, in these rites, 'for with that Hour we have made an understanding'.

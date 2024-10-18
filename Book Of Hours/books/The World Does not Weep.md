@@ -18,8 +18,10 @@ aspects:
     amount : 1
 tags:
   - book
-lesson: "putrefactions & calcinations"
-memory: hindsight
+lesson:
+  - "lesson: putrefactions & calcinations"
+memory:
+  - "memory: hindsight"
 ---
 
 # The World Does not Weep

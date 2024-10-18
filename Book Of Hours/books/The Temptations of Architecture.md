@@ -10,6 +10,10 @@ aspects:
     amount : 2
   - name: "mystery: forge"
     amount : 10
+  - name: "subject: door & wall"
+    amount : 1
+  - name: "curia period"
+    amount : 1
 tags:
   - book
   - studied

@@ -31,7 +31,7 @@ memory:
 ## Description
 The Incandescent Tantra
 
-Michael Blockley, the eccentric iron magnate, was fond of quoting from this tantra. Blockley died in a factory fire.
+[[Michael Blockley]], the eccentric iron magnate, was fond of quoting from this tantra. Blockley died in a factory fire.
 ### Partial Study Description
 I'm Reading...
 
